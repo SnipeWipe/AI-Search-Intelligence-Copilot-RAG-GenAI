@@ -28,7 +28,7 @@ if "growth" not in st.session_state:
         .calculate_growth(df)
     )
 else:
-growth = st.session_state["growth"]
+    growth = st.session_state["growth"]
 
 recommendations = (
 
