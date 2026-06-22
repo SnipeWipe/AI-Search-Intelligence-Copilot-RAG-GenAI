@@ -1,5 +1,7 @@
 # AI Search Intelligence Copilot (RAG + GenAI)
 
+## App Link - https://l1nq.com/zhq7wk8
+
 ## Overview
 
 AI Search Intelligence Copilot is an enterprise-grade Retrieval-Augmented Generation (RAG) platform designed to help marketing teams understand search behavior, monitor AI-powered search visibility, analyze acquisition performance, and generate strategic recommendations using Large Language Models.
