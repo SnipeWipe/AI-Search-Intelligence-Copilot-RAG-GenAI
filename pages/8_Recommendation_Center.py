@@ -22,10 +22,13 @@ df = pd.read_csv(
     "datasets/search_queries.csv"
 )
 
-growth_df = (
-    GrowthScorer()
-    .calculate_growth(df)
-)
+if "growth" not in st.session_state:
+    st.session_state["growth"] = (
+        GrowthScorer()
+        .calculate_growth(df)
+    )
+else:
+growth = st.session_state["growth"]
 
 recommendations = (
 
