@@ -19,6 +19,8 @@ growth = (
     .calculate_growth(df)
 )
 
+st.session_state["growth"] = growth
+
 st.subheader(
     "Fastest Growing Keywords"
 )
