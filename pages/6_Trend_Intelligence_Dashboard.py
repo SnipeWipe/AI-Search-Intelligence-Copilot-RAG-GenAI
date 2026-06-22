@@ -14,7 +14,8 @@ if "growth" not in st.session_state:
         GrowthScorer()
         .calculate_growth(df)
     )
-growth = st.session_state["growth"]
+else:
+    growth = st.session_state["growth"]
 
 st.subheader(
     "Top Growing Queries"
