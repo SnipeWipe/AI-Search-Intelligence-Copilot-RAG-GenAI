@@ -1,0 +1,2001 @@
+Experiment_ID,Campaign,Variant,Visitors,Conversions
+1,Platinum_SMB_Mobile,A,2432,1089
+1,Travel_SMB_Mobile,B,10559,1745
+2,Cashback_Students_Mobile,A,1100,1305
+2,Gold_Remarketing_Desktop,B,10893,247
+3,Travel_Prospecting_Mobile,A,10352,1287
+3,Platinum_High Value_Desktop,B,5803,556
+4,Gold_Remarketing_Desktop,A,8161,764
+4,Cashback_SMB_Desktop,B,7015,1430
+5,Platinum_SMB_Mobile,A,14740,761
+5,Travel_High Value_Mobile,B,5104,1432
+6,Cashback_Remarketing_Desktop,A,3881,1070
+6,Business_Students_Mobile,B,2392,1795
+7,Business_Remarketing_Desktop,A,1708,428
+7,Cashback_Prospecting_Mobile,B,9547,108
+8,Business_SMB_Mobile,A,13655,1032
+8,Business_Prospecting_Desktop,B,18674,369
+9,Platinum_High Value_Mobile,A,11385,1528
+9,Cashback_Prospecting_Mobile,B,5129,1366
+10,Business_Prospecting_Mobile,A,13975,1303
+10,Gold_High Value_Desktop,B,5357,927
+11,Travel_Remarketing_Desktop,A,8192,1290
+11,Platinum_Remarketing_Desktop,B,4067,1998
+12,Platinum_Prospecting_Desktop,A,14080,1252
+12,Cashback_SMB_Mobile,B,18145,1307
+13,Travel_Prospecting_Desktop,A,19392,1452
+13,Cashback_Students_Desktop,B,15738,1773
+14,Cashback_Prospecting_Mobile,A,3413,1664
+14,Gold_Remarketing_Desktop,B,6372,472
+15,Travel_Prospecting_Desktop,A,5005,1241
+15,Platinum_High Value_Mobile,B,5446,943
+16,Business_High Value_Mobile,A,12865,1649
+16,Cashback_Remarketing_Mobile,B,1050,924
+17,Cashback_SMB_Mobile,A,17945,500
+17,Gold_Prospecting_Desktop,B,16339,156
+18,Platinum_SMB_Mobile,A,8612,240
+18,Cashback_Remarketing_Desktop,B,12870,358
+19,Business_Prospecting_Mobile,A,1674,554
+19,Gold_Remarketing_Mobile,B,5419,1440
+20,Cashback_High Value_Desktop,A,1263,220
+20,Platinum_SMB_Desktop,B,2861,1636
+21,Business_Prospecting_Desktop,A,19511,1260
+21,Cashback_Prospecting_Mobile,B,2613,1092
+22,Business_Students_Mobile,A,4973,1472
+22,Business_High Value_Desktop,B,5412,1236
+23,Business_Prospecting_Mobile,A,2873,251
+23,Cashback_Students_Mobile,B,16285,383
+24,Platinum_SMB_Desktop,A,11719,782
+24,Gold_Students_Mobile,B,13843,246
+25,Cashback_High Value_Mobile,A,6535,708
+25,Gold_Prospecting_Mobile,B,19659,159
+26,Platinum_Prospecting_Desktop,A,7937,881
+26,Platinum_Students_Desktop,B,15850,1296
+27,Platinum_Students_Mobile,A,13251,1579
+27,Gold_Prospecting_Mobile,B,11333,269
+28,Platinum_Students_Desktop,A,13006,1405
+28,Business_SMB_Mobile,B,14346,923
+29,Travel_SMB_Mobile,A,4097,240
+29,Travel_Students_Mobile,B,11156,983
+30,Cashback_Remarketing_Desktop,A,17622,797
+30,Business_Students_Desktop,B,19548,1713
+31,Travel_Prospecting_Mobile,A,5756,1638
+31,Cashback_SMB_Mobile,B,12461,488
+32,Travel_Prospecting_Mobile,A,17113,149
+32,Platinum_Remarketing_Mobile,B,9018,751
+33,Cashback_SMB_Desktop,A,8561,1092
+33,Platinum_High Value_Mobile,B,14050,655
+34,Business_Remarketing_Desktop,A,16148,697
+34,Platinum_High Value_Mobile,B,5511,208
+35,Cashback_SMB_Desktop,A,2268,1682
+35,Cashback_Students_Desktop,B,16539,1825
+36,Business_SMB_Desktop,A,5687,563
+36,Platinum_Students_Desktop,B,2960,1338
+37,Gold_SMB_Desktop,A,2665,791
+37,Cashback_Remarketing_Mobile,B,5569,1432
+38,Gold_SMB_Desktop,A,12529,179
+38,Gold_Students_Desktop,B,9672,203
+39,Platinum_Students_Desktop,A,15543,659
+39,Travel_Prospecting_Mobile,B,19022,1040
+40,Cashback_Prospecting_Desktop,A,3196,1287
+40,Gold_Remarketing_Mobile,B,18196,1214
+41,Platinum_Remarketing_Desktop,A,18583,1769
+41,Platinum_High Value_Desktop,B,5377,742
+42,Gold_SMB_Mobile,A,16537,259
+42,Cashback_Prospecting_Desktop,B,3838,460
+43,Business_Prospecting_Mobile,A,13584,685
+43,Travel_Prospecting_Desktop,B,18131,1273
+44,Travel_High Value_Desktop,A,12149,1879
+44,Platinum_SMB_Desktop,B,18776,350
+45,Travel_Prospecting_Desktop,A,1404,551
+45,Business_Remarketing_Mobile,B,6464,543
+46,Gold_High Value_Mobile,A,11818,1115
+46,Platinum_SMB_Mobile,B,19702,1374
+47,Platinum_Students_Desktop,A,9205,1829
+47,Platinum_Remarketing_Mobile,B,11978,50
+48,Gold_SMB_Desktop,A,16344,1002
+48,Cashback_SMB_Mobile,B,6072,1876
+49,Travel_High Value_Mobile,A,1901,233
+49,Travel_Students_Desktop,B,17932,1727
+50,Cashback_Prospecting_Mobile,A,17283,568
+50,Gold_Students_Desktop,B,6575,1779
+51,Gold_Prospecting_Mobile,A,16987,632
+51,Travel_Remarketing_Mobile,B,17450,1336
+52,Business_Remarketing_Mobile,A,11277,566
+52,Gold_Prospecting_Mobile,B,4287,1068
+53,Platinum_Students_Mobile,A,8636,484
+53,Gold_SMB_Desktop,B,7210,561
+54,Gold_Remarketing_Mobile,A,4410,625
+54,Business_Remarketing_Mobile,B,15631,1124
+55,Platinum_SMB_Mobile,A,3019,1061
+55,Business_Remarketing_Desktop,B,3452,1760
+56,Cashback_SMB_Mobile,A,18969,345
+56,Travel_SMB_Desktop,B,1521,1145
+57,Gold_Remarketing_Desktop,A,5380,1800
+57,Cashback_High Value_Mobile,B,18643,1831
+58,Cashback_High Value_Desktop,A,9331,720
+58,Business_SMB_Mobile,B,18348,1412
+59,Business_SMB_Mobile,A,3091,107
+59,Cashback_SMB_Mobile,B,8756,525
+60,Business_Prospecting_Desktop,A,13089,1098
+60,Business_Prospecting_Mobile,B,10799,554
+61,Travel_High Value_Mobile,A,5860,1234
+61,Gold_SMB_Desktop,B,4343,599
+62,Business_Students_Mobile,A,9435,1616
+62,Travel_High Value_Desktop,B,13899,312
+63,Cashback_Prospecting_Mobile,A,18471,1259
+63,Business_High Value_Desktop,B,14315,1487
+64,Gold_Students_Desktop,A,6748,835
+64,Cashback_High Value_Mobile,B,7521,1853
+65,Gold_High Value_Desktop,A,2349,618
+65,Travel_SMB_Desktop,B,14774,1641
+66,Gold_Remarketing_Mobile,A,1452,437
+66,Gold_High Value_Desktop,B,11894,330
+67,Platinum_SMB_Desktop,A,12233,1994
+67,Business_Remarketing_Desktop,B,11783,239
+68,Travel_SMB_Desktop,A,16349,1570
+68,Gold_Prospecting_Desktop,B,17639,1791
+69,Business_Remarketing_Desktop,A,8424,306
+69,Cashback_Students_Mobile,B,5687,384
+70,Gold_High Value_Mobile,A,3986,1365
+70,Business_Remarketing_Mobile,B,16898,383
+71,Gold_Prospecting_Desktop,A,11169,344
+71,Platinum_SMB_Mobile,B,14330,571
+72,Platinum_Students_Desktop,A,12912,554
+72,Business_High Value_Mobile,B,1925,956
+73,Cashback_SMB_Mobile,A,5524,998
+73,Travel_Prospecting_Mobile,B,16030,817
+74,Platinum_Prospecting_Mobile,A,4984,833
+74,Platinum_SMB_Desktop,B,16844,1571
+75,Platinum_Prospecting_Desktop,A,7969,872
+75,Gold_Students_Mobile,B,16387,51
+76,Platinum_SMB_Desktop,A,17481,785
+76,Platinum_Prospecting_Desktop,B,16233,309
+77,Platinum_Prospecting_Desktop,A,2705,342
+77,Cashback_SMB_Mobile,B,4705,1193
+78,Platinum_Remarketing_Desktop,A,10046,197
+78,Cashback_SMB_Mobile,B,7117,451
+79,Business_SMB_Desktop,A,8115,1274
+79,Business_High Value_Mobile,B,15084,1775
+80,Cashback_SMB_Desktop,A,6665,1697
+80,Gold_Students_Mobile,B,4882,1951
+81,Platinum_Remarketing_Desktop,A,11528,727
+81,Gold_Prospecting_Mobile,B,6600,1058
+82,Gold_Students_Desktop,A,7749,1637
+82,Cashback_SMB_Desktop,B,12284,1219
+83,Platinum_Students_Mobile,A,18298,1963
+83,Platinum_SMB_Mobile,B,13526,1944
+84,Platinum_Remarketing_Mobile,A,4289,79
+84,Cashback_Prospecting_Desktop,B,8490,1968
+85,Gold_Students_Mobile,A,11506,1121
+85,Platinum_Students_Mobile,B,18816,1163
+86,Cashback_High Value_Mobile,A,5798,1244
+86,Gold_Remarketing_Desktop,B,12977,591
+87,Gold_SMB_Mobile,A,7010,1794
+87,Cashback_Remarketing_Desktop,B,10531,1821
+88,Travel_Remarketing_Mobile,A,19944,461
+88,Travel_SMB_Desktop,B,18274,1610
+89,Business_Students_Desktop,A,15766,657
+89,Platinum_SMB_Mobile,B,9241,1321
+90,Gold_SMB_Mobile,A,15975,293
+90,Travel_Remarketing_Mobile,B,13358,1645
+91,Cashback_SMB_Desktop,A,12488,1149
+91,Travel_High Value_Mobile,B,6102,1792
+92,Travel_Prospecting_Mobile,A,6231,1440
+92,Cashback_High Value_Desktop,B,15169,1197
+93,Business_Prospecting_Desktop,A,2169,1399
+93,Gold_High Value_Desktop,B,2643,240
+94,Gold_SMB_Mobile,A,1072,1625
+94,Platinum_Remarketing_Mobile,B,16963,1381
+95,Platinum_High Value_Desktop,A,4030,1459
+95,Platinum_Remarketing_Desktop,B,6318,1940
+96,Cashback_Prospecting_Desktop,A,16791,272
+96,Gold_SMB_Mobile,B,2049,990
+97,Travel_Students_Desktop,A,11708,1783
+97,Gold_High Value_Mobile,B,13383,183
+98,Travel_SMB_Desktop,A,12548,675
+98,Cashback_SMB_Mobile,B,17994,1139
+99,Cashback_Prospecting_Mobile,A,12063,1135
+99,Business_High Value_Mobile,B,9942,1019
+100,Platinum_SMB_Desktop,A,14565,1547
+100,Cashback_Prospecting_Mobile,B,17330,869
+101,Business_Prospecting_Mobile,A,14409,1814
+101,Business_High Value_Desktop,B,16596,1454
+102,Gold_Prospecting_Desktop,A,7317,1240
+102,Cashback_SMB_Mobile,B,1652,1949
+103,Platinum_Students_Desktop,A,19131,951
+103,Gold_Prospecting_Desktop,B,18694,645
+104,Travel_Students_Desktop,A,2961,1286
+104,Cashback_Students_Mobile,B,5981,1019
+105,Travel_High Value_Desktop,A,5954,521
+105,Travel_Students_Mobile,B,19906,192
+106,Gold_Students_Mobile,A,15169,1821
+106,Cashback_Remarketing_Mobile,B,7798,1067
+107,Cashback_High Value_Mobile,A,1831,1491
+107,Business_SMB_Desktop,B,19295,1687
+108,Travel_Prospecting_Mobile,A,9832,1277
+108,Travel_Students_Mobile,B,4016,877
+109,Platinum_Students_Desktop,A,3635,79
+109,Cashback_High Value_Mobile,B,13808,1598
+110,Business_High Value_Desktop,A,15019,589
+110,Business_High Value_Mobile,B,7960,1154
+111,Travel_Students_Desktop,A,9703,503
+111,Gold_Prospecting_Desktop,B,17882,1691
+112,Gold_SMB_Mobile,A,11145,1279
+112,Gold_Remarketing_Desktop,B,1169,428
+113,Platinum_Prospecting_Mobile,A,15239,1579
+113,Platinum_SMB_Mobile,B,8078,1225
+114,Platinum_High Value_Mobile,A,10963,626
+114,Travel_SMB_Mobile,B,19792,787
+115,Business_Students_Mobile,A,4498,1839
+115,Gold_Remarketing_Mobile,B,8404,1976
+116,Gold_SMB_Mobile,A,1010,1979
+116,Gold_SMB_Mobile,B,18415,1641
+117,Business_Remarketing_Mobile,A,8202,1921
+117,Business_Students_Desktop,B,11980,836
+118,Business_Remarketing_Mobile,A,7032,203
+118,Cashback_Students_Desktop,B,15741,1130
+119,Cashback_SMB_Mobile,A,12521,1693
+119,Gold_Students_Mobile,B,18913,96
+120,Cashback_SMB_Mobile,A,18623,1813
+120,Travel_Prospecting_Mobile,B,14029,153
+121,Business_Students_Mobile,A,8513,283
+121,Business_High Value_Desktop,B,4522,215
+122,Travel_Prospecting_Desktop,A,13086,941
+122,Platinum_High Value_Mobile,B,11153,1446
+123,Gold_High Value_Mobile,A,2867,1258
+123,Cashback_Prospecting_Desktop,B,18680,851
+124,Travel_Students_Desktop,A,1544,1805
+124,Cashback_Remarketing_Mobile,B,16782,769
+125,Gold_Students_Mobile,A,18386,797
+125,Business_High Value_Mobile,B,17495,1130
+126,Platinum_Students_Desktop,A,3416,1958
+126,Gold_SMB_Mobile,B,2887,520
+127,Travel_High Value_Desktop,A,3477,1672
+127,Business_SMB_Mobile,B,5959,547
+128,Cashback_Remarketing_Desktop,A,7795,158
+128,Business_SMB_Mobile,B,10845,1209
+129,Business_Prospecting_Desktop,A,3037,378
+129,Gold_High Value_Desktop,B,1741,971
+130,Travel_SMB_Mobile,A,8226,1658
+130,Platinum_High Value_Mobile,B,7904,1210
+131,Platinum_High Value_Mobile,A,15088,536
+131,Travel_High Value_Desktop,B,6068,1285
+132,Gold_Prospecting_Mobile,A,10703,1974
+132,Cashback_SMB_Mobile,B,17844,1130
+133,Travel_SMB_Mobile,A,12620,1535
+133,Cashback_Remarketing_Mobile,B,1109,1290
+134,Platinum_Students_Mobile,A,9176,1199
+134,Business_Prospecting_Desktop,B,13105,451
+135,Cashback_High Value_Mobile,A,13109,1707
+135,Platinum_Remarketing_Mobile,B,6834,1937
+136,Platinum_Students_Desktop,A,11550,1190
+136,Gold_Prospecting_Mobile,B,6926,606
+137,Cashback_Prospecting_Mobile,A,7246,1311
+137,Business_Prospecting_Mobile,B,16818,544
+138,Travel_Prospecting_Mobile,A,10754,1608
+138,Platinum_Remarketing_Mobile,B,15888,1431
+139,Business_Remarketing_Mobile,A,15272,576
+139,Business_Students_Mobile,B,12835,1303
+140,Travel_Prospecting_Mobile,A,2613,1533
+140,Business_SMB_Desktop,B,16332,941
+141,Gold_Students_Mobile,A,2457,962
+141,Travel_SMB_Desktop,B,15905,147
+142,Gold_High Value_Mobile,A,3953,712
+142,Platinum_Remarketing_Desktop,B,19290,1685
+143,Platinum_Students_Mobile,A,14834,1004
+143,Business_Remarketing_Mobile,B,17497,1449
+144,Cashback_SMB_Desktop,A,7862,1390
+144,Cashback_Students_Desktop,B,7947,1923
+145,Travel_SMB_Desktop,A,7336,1809
+145,Gold_Remarketing_Desktop,B,18273,793
+146,Cashback_Students_Mobile,A,13189,1695
+146,Platinum_SMB_Desktop,B,2751,154
+147,Cashback_SMB_Mobile,A,8776,1387
+147,Gold_Students_Mobile,B,18657,1739
+148,Platinum_Students_Desktop,A,2032,994
+148,Business_SMB_Mobile,B,15332,353
+149,Cashback_SMB_Desktop,A,16022,385
+149,Travel_Prospecting_Mobile,B,19921,1085
+150,Platinum_Students_Mobile,A,4033,1233
+150,Gold_Prospecting_Desktop,B,10155,1644
+151,Cashback_Students_Desktop,A,16450,1479
+151,Travel_Remarketing_Desktop,B,9398,1893
+152,Gold_Students_Desktop,A,16288,1991
+152,Business_Students_Mobile,B,11699,137
+153,Travel_High Value_Mobile,A,2136,782
+153,Gold_High Value_Desktop,B,18833,1881
+154,Business_High Value_Mobile,A,8947,367
+154,Travel_High Value_Desktop,B,9969,105
+155,Cashback_Remarketing_Mobile,A,12700,540
+155,Cashback_SMB_Mobile,B,1880,837
+156,Business_Students_Desktop,A,16930,1117
+156,Gold_Students_Mobile,B,18814,574
+157,Cashback_Prospecting_Desktop,A,8814,502
+157,Business_Remarketing_Desktop,B,1194,1943
+158,Travel_Remarketing_Desktop,A,8606,1923
+158,Travel_Remarketing_Mobile,B,18758,554
+159,Cashback_Remarketing_Desktop,A,7021,509
+159,Gold_Prospecting_Mobile,B,10183,1569
+160,Cashback_SMB_Mobile,A,12078,591
+160,Travel_SMB_Desktop,B,11783,754
+161,Business_High Value_Mobile,A,13568,1437
+161,Cashback_Prospecting_Mobile,B,9945,1040
+162,Business_High Value_Desktop,A,16743,1001
+162,Business_High Value_Desktop,B,18269,704
+163,Platinum_Remarketing_Desktop,A,6054,772
+163,Business_Students_Desktop,B,19022,1585
+164,Platinum_Students_Mobile,A,15500,1846
+164,Travel_Students_Desktop,B,14779,897
+165,Business_SMB_Mobile,A,9659,1436
+165,Travel_Students_Mobile,B,7959,797
+166,Business_High Value_Desktop,A,10606,1463
+166,Travel_Remarketing_Desktop,B,14065,494
+167,Travel_High Value_Mobile,A,10945,251
+167,Gold_SMB_Mobile,B,16176,577
+168,Cashback_High Value_Desktop,A,17387,1064
+168,Cashback_Remarketing_Mobile,B,17918,1830
+169,Travel_Prospecting_Desktop,A,18501,1526
+169,Cashback_SMB_Desktop,B,8540,615
+170,Business_SMB_Mobile,A,8746,413
+170,Gold_SMB_Mobile,B,7882,1778
+171,Gold_SMB_Mobile,A,3693,502
+171,Platinum_Students_Mobile,B,14477,957
+172,Travel_Students_Mobile,A,4347,1111
+172,Travel_Prospecting_Desktop,B,11984,1046
+173,Business_Students_Desktop,A,8544,581
+173,Cashback_SMB_Desktop,B,3700,420
+174,Gold_Students_Desktop,A,10082,1657
+174,Platinum_Remarketing_Desktop,B,13132,1849
+175,Gold_SMB_Desktop,A,14116,1912
+175,Cashback_Remarketing_Mobile,B,11195,1551
+176,Business_Remarketing_Desktop,A,3849,1968
+176,Business_High Value_Desktop,B,1652,93
+177,Gold_Prospecting_Mobile,A,5157,561
+177,Cashback_Prospecting_Mobile,B,4185,1636
+178,Travel_SMB_Desktop,A,13994,516
+178,Gold_Prospecting_Desktop,B,10278,1738
+179,Business_High Value_Mobile,A,2135,1792
+179,Business_Prospecting_Mobile,B,5243,932
+180,Gold_Prospecting_Mobile,A,12324,493
+180,Cashback_Students_Mobile,B,12831,162
+181,Cashback_Remarketing_Desktop,A,5777,1138
+181,Business_Remarketing_Desktop,B,4862,1418
+182,Cashback_Remarketing_Desktop,A,7077,1940
+182,Cashback_Prospecting_Desktop,B,10351,1677
+183,Cashback_High Value_Desktop,A,3358,1542
+183,Gold_Prospecting_Mobile,B,3935,1137
+184,Business_Students_Desktop,A,8701,840
+184,Business_Prospecting_Desktop,B,1149,1870
+185,Platinum_Students_Desktop,A,2433,1938
+185,Gold_High Value_Mobile,B,14375,1675
+186,Cashback_SMB_Mobile,A,5241,936
+186,Gold_Students_Mobile,B,2333,607
+187,Business_Remarketing_Desktop,A,15193,1447
+187,Platinum_Prospecting_Desktop,B,14194,1790
+188,Business_High Value_Desktop,A,5769,949
+188,Business_Remarketing_Mobile,B,16569,1938
+189,Travel_High Value_Mobile,A,14010,1659
+189,Travel_Students_Mobile,B,9609,1496
+190,Gold_Remarketing_Desktop,A,6581,1349
+190,Platinum_SMB_Desktop,B,15171,1623
+191,Gold_SMB_Mobile,A,7327,1187
+191,Travel_SMB_Desktop,B,11133,272
+192,Gold_Students_Desktop,A,1287,766
+192,Cashback_High Value_Mobile,B,11360,1619
+193,Business_High Value_Desktop,A,6196,124
+193,Business_High Value_Mobile,B,15745,332
+194,Cashback_SMB_Desktop,A,19038,952
+194,Cashback_Prospecting_Desktop,B,14782,546
+195,Cashback_High Value_Desktop,A,6113,832
+195,Business_SMB_Desktop,B,5746,1519
+196,Business_SMB_Desktop,A,12775,616
+196,Business_Remarketing_Desktop,B,7902,636
+197,Gold_SMB_Desktop,A,7506,1587
+197,Travel_Remarketing_Mobile,B,8283,700
+198,Business_Remarketing_Mobile,A,14652,223
+198,Cashback_SMB_Desktop,B,8499,1306
+199,Gold_Remarketing_Desktop,A,7084,670
+199,Business_High Value_Desktop,B,7969,1256
+200,Platinum_Students_Desktop,A,7057,1178
+200,Travel_Remarketing_Mobile,B,3561,1354
+201,Gold_Students_Mobile,A,15704,1257
+201,Gold_Remarketing_Desktop,B,5177,1280
+202,Business_Students_Mobile,A,17990,243
+202,Business_Prospecting_Desktop,B,13931,71
+203,Business_SMB_Mobile,A,8116,1327
+203,Platinum_High Value_Mobile,B,10367,1147
+204,Gold_Students_Desktop,A,6879,917
+204,Business_SMB_Desktop,B,5917,593
+205,Business_Remarketing_Desktop,A,9111,1132
+205,Cashback_Students_Desktop,B,8854,638
+206,Gold_SMB_Mobile,A,6464,849
+206,Gold_Remarketing_Desktop,B,3176,1557
+207,Business_SMB_Mobile,A,7318,1459
+207,Platinum_Students_Mobile,B,15012,1982
+208,Cashback_High Value_Desktop,A,11509,1563
+208,Business_Prospecting_Mobile,B,1872,632
+209,Cashback_High Value_Mobile,A,15072,1900
+209,Cashback_Remarketing_Mobile,B,18611,1962
+210,Cashback_High Value_Desktop,A,15072,81
+210,Platinum_Prospecting_Desktop,B,5736,1070
+211,Business_Students_Mobile,A,15934,1942
+211,Gold_High Value_Desktop,B,5666,405
+212,Platinum_Remarketing_Desktop,A,18618,1486
+212,Cashback_High Value_Mobile,B,3808,344
+213,Cashback_Prospecting_Mobile,A,19689,870
+213,Cashback_Prospecting_Mobile,B,19806,1243
+214,Business_SMB_Desktop,A,18580,508
+214,Cashback_SMB_Mobile,B,1881,1661
+215,Travel_Prospecting_Mobile,A,12227,169
+215,Platinum_Remarketing_Desktop,B,5259,931
+216,Cashback_Students_Desktop,A,16248,613
+216,Platinum_Students_Desktop,B,14922,533
+217,Gold_High Value_Mobile,A,17533,1612
+217,Cashback_Remarketing_Desktop,B,3420,524
+218,Gold_High Value_Mobile,A,19440,719
+218,Travel_Remarketing_Mobile,B,2908,1704
+219,Gold_Prospecting_Mobile,A,8169,306
+219,Platinum_Students_Mobile,B,5086,779
+220,Gold_Students_Mobile,A,9773,916
+220,Gold_SMB_Mobile,B,10060,109
+221,Gold_Prospecting_Desktop,A,1428,57
+221,Travel_SMB_Mobile,B,18994,1805
+222,Travel_Remarketing_Mobile,A,15011,1461
+222,Business_High Value_Mobile,B,9405,1168
+223,Business_Students_Desktop,A,17004,1067
+223,Business_Students_Mobile,B,18432,1327
+224,Cashback_SMB_Mobile,A,14128,1006
+224,Business_Prospecting_Mobile,B,10334,1514
+225,Cashback_High Value_Desktop,A,18463,381
+225,Platinum_Students_Desktop,B,10872,1154
+226,Business_High Value_Mobile,A,2806,1954
+226,Platinum_Prospecting_Desktop,B,8362,707
+227,Business_Remarketing_Mobile,A,14084,275
+227,Business_Students_Mobile,B,16935,647
+228,Travel_SMB_Mobile,A,9604,935
+228,Travel_Remarketing_Desktop,B,18746,481
+229,Travel_Remarketing_Mobile,A,9871,1469
+229,Platinum_High Value_Desktop,B,3212,346
+230,Travel_High Value_Desktop,A,12589,1022
+230,Travel_Prospecting_Mobile,B,4529,267
+231,Gold_High Value_Mobile,A,15152,467
+231,Gold_Prospecting_Mobile,B,15953,1278
+232,Travel_Students_Mobile,A,7566,993
+232,Gold_High Value_Desktop,B,14588,372
+233,Business_SMB_Mobile,A,10627,108
+233,Gold_Prospecting_Mobile,B,5926,661
+234,Gold_SMB_Mobile,A,19067,1262
+234,Business_SMB_Mobile,B,15256,1367
+235,Cashback_Remarketing_Desktop,A,18248,1569
+235,Business_Remarketing_Desktop,B,11799,1388
+236,Travel_Remarketing_Mobile,A,6728,105
+236,Gold_Students_Desktop,B,19227,1556
+237,Travel_Students_Mobile,A,14659,795
+237,Platinum_High Value_Mobile,B,9429,1846
+238,Business_Remarketing_Mobile,A,5515,1961
+238,Platinum_Remarketing_Mobile,B,14844,662
+239,Business_Prospecting_Desktop,A,12461,297
+239,Gold_Prospecting_Mobile,B,4290,1699
+240,Platinum_Students_Desktop,A,2699,712
+240,Cashback_Students_Mobile,B,10792,1693
+241,Gold_Prospecting_Desktop,A,3501,787
+241,Cashback_Prospecting_Desktop,B,7231,888
+242,Travel_High Value_Desktop,A,5176,1037
+242,Gold_Prospecting_Desktop,B,6282,1488
+243,Travel_SMB_Desktop,A,13228,922
+243,Gold_High Value_Mobile,B,12080,699
+244,Cashback_High Value_Mobile,A,7057,1430
+244,Business_SMB_Desktop,B,9071,992
+245,Platinum_Students_Mobile,A,12729,1556
+245,Business_Prospecting_Desktop,B,11044,970
+246,Platinum_High Value_Desktop,A,2720,1079
+246,Gold_Prospecting_Mobile,B,18837,1751
+247,Travel_Students_Mobile,A,18193,1622
+247,Platinum_Remarketing_Mobile,B,4443,1566
+248,Travel_Remarketing_Mobile,A,18593,1808
+248,Travel_Students_Mobile,B,19771,1929
+249,Travel_Remarketing_Mobile,A,17376,615
+249,Platinum_Students_Desktop,B,11294,1038
+250,Cashback_Students_Mobile,A,9720,854
+250,Travel_Remarketing_Desktop,B,6119,916
+251,Travel_High Value_Desktop,A,19369,1843
+251,Platinum_Prospecting_Mobile,B,13581,896
+252,Cashback_Prospecting_Desktop,A,10842,221
+252,Gold_Remarketing_Desktop,B,15781,1650
+253,Business_SMB_Mobile,A,13543,1802
+253,Travel_Students_Mobile,B,16033,1339
+254,Business_SMB_Desktop,A,2489,425
+254,Platinum_Prospecting_Desktop,B,11377,1939
+255,Business_Remarketing_Desktop,A,16582,153
+255,Platinum_Remarketing_Desktop,B,19050,1142
+256,Business_Prospecting_Desktop,A,18955,238
+256,Gold_SMB_Mobile,B,2723,387
+257,Gold_Remarketing_Desktop,A,6329,1681
+257,Business_SMB_Mobile,B,13866,1715
+258,Business_SMB_Desktop,A,3315,336
+258,Cashback_Prospecting_Desktop,B,3442,1361
+259,Gold_Students_Mobile,A,16288,1222
+259,Cashback_SMB_Desktop,B,19156,1027
+260,Gold_Remarketing_Desktop,A,7062,1594
+260,Travel_High Value_Desktop,B,16252,1160
+261,Business_SMB_Desktop,A,10134,727
+261,Travel_Prospecting_Mobile,B,7720,1160
+262,Cashback_Students_Mobile,A,8046,1448
+262,Cashback_SMB_Desktop,B,17781,833
+263,Cashback_High Value_Desktop,A,12891,1344
+263,Gold_SMB_Desktop,B,2701,969
+264,Platinum_Students_Mobile,A,18181,357
+264,Travel_Remarketing_Desktop,B,16097,288
+265,Business_Students_Desktop,A,12809,1434
+265,Cashback_SMB_Mobile,B,3261,87
+266,Business_Remarketing_Desktop,A,17274,257
+266,Cashback_Prospecting_Desktop,B,5364,988
+267,Cashback_Prospecting_Mobile,A,3639,1926
+267,Gold_Students_Mobile,B,15891,587
+268,Gold_Prospecting_Desktop,A,17616,1515
+268,Travel_Students_Mobile,B,19938,1374
+269,Cashback_Prospecting_Mobile,A,18255,1364
+269,Cashback_High Value_Desktop,B,6712,1118
+270,Travel_Students_Desktop,A,10198,715
+270,Cashback_High Value_Mobile,B,19770,1057
+271,Gold_Prospecting_Mobile,A,6737,277
+271,Cashback_Students_Mobile,B,7457,500
+272,Travel_SMB_Mobile,A,5219,843
+272,Travel_Remarketing_Desktop,B,11659,417
+273,Cashback_Students_Mobile,A,12236,1336
+273,Cashback_Prospecting_Mobile,B,14419,1864
+274,Platinum_Remarketing_Desktop,A,14274,1690
+274,Gold_High Value_Mobile,B,15116,232
+275,Travel_Remarketing_Desktop,A,14888,1988
+275,Cashback_SMB_Desktop,B,10572,190
+276,Cashback_High Value_Mobile,A,16410,1650
+276,Travel_Prospecting_Mobile,B,17793,1463
+277,Cashback_Students_Mobile,A,8718,1657
+277,Gold_Remarketing_Desktop,B,17770,791
+278,Gold_Prospecting_Mobile,A,12091,1037
+278,Cashback_SMB_Desktop,B,11034,1421
+279,Cashback_High Value_Desktop,A,15265,1153
+279,Business_SMB_Mobile,B,8931,934
+280,Cashback_SMB_Mobile,A,10678,913
+280,Cashback_Students_Mobile,B,3835,72
+281,Business_Remarketing_Mobile,A,2722,367
+281,Platinum_Prospecting_Desktop,B,18969,823
+282,Platinum_Remarketing_Mobile,A,8219,760
+282,Travel_Remarketing_Desktop,B,16433,632
+283,Cashback_High Value_Mobile,A,14173,1006
+283,Travel_SMB_Mobile,B,13090,698
+284,Platinum_High Value_Desktop,A,15057,1931
+284,Business_High Value_Mobile,B,15264,1568
+285,Platinum_High Value_Desktop,A,8838,1284
+285,Business_High Value_Mobile,B,10707,780
+286,Gold_Prospecting_Mobile,A,6075,858
+286,Cashback_Remarketing_Desktop,B,12779,1406
+287,Cashback_Prospecting_Desktop,A,13691,1286
+287,Business_Prospecting_Desktop,B,3120,973
+288,Travel_Prospecting_Mobile,A,5907,1200
+288,Business_Students_Mobile,B,2817,1973
+289,Travel_High Value_Mobile,A,2266,1273
+289,Cashback_Students_Mobile,B,7362,594
+290,Business_Prospecting_Desktop,A,1934,1600
+290,Gold_SMB_Desktop,B,6667,618
+291,Platinum_High Value_Mobile,A,13452,1317
+291,Cashback_Remarketing_Desktop,B,3211,56
+292,Cashback_High Value_Desktop,A,18000,1015
+292,Travel_High Value_Desktop,B,9146,995
+293,Business_SMB_Desktop,A,15117,897
+293,Travel_Prospecting_Mobile,B,3254,113
+294,Travel_High Value_Desktop,A,9244,1651
+294,Travel_Prospecting_Desktop,B,17010,778
+295,Business_Students_Mobile,A,12029,868
+295,Travel_High Value_Mobile,B,17627,836
+296,Gold_High Value_Mobile,A,16447,613
+296,Gold_Prospecting_Desktop,B,6401,1686
+297,Cashback_High Value_Mobile,A,1004,1840
+297,Travel_Students_Desktop,B,18075,876
+298,Cashback_SMB_Desktop,A,9705,1643
+298,Gold_Prospecting_Mobile,B,5920,453
+299,Cashback_SMB_Desktop,A,17373,937
+299,Platinum_Remarketing_Desktop,B,15374,1192
+300,Travel_High Value_Desktop,A,18435,1608
+300,Gold_Remarketing_Mobile,B,14994,1280
+301,Travel_High Value_Mobile,A,15760,1850
+301,Cashback_Students_Desktop,B,6319,1464
+302,Business_High Value_Desktop,A,19080,790
+302,Cashback_SMB_Mobile,B,11459,1588
+303,Platinum_Prospecting_Desktop,A,7244,688
+303,Platinum_Prospecting_Mobile,B,4403,1673
+304,Cashback_Remarketing_Desktop,A,6446,646
+304,Cashback_SMB_Desktop,B,7368,1167
+305,Business_SMB_Mobile,A,16445,1987
+305,Gold_Prospecting_Mobile,B,1990,491
+306,Cashback_High Value_Mobile,A,3676,1921
+306,Platinum_Remarketing_Mobile,B,11136,1054
+307,Gold_Remarketing_Mobile,A,6398,675
+307,Cashback_High Value_Desktop,B,10693,1666
+308,Cashback_Prospecting_Mobile,A,3979,994
+308,Travel_Prospecting_Desktop,B,2192,588
+309,Cashback_Remarketing_Mobile,A,19574,1181
+309,Travel_Remarketing_Mobile,B,19482,1787
+310,Cashback_Students_Desktop,A,18523,1647
+310,Travel_Prospecting_Desktop,B,5286,1989
+311,Business_Remarketing_Mobile,A,7918,305
+311,Business_Remarketing_Desktop,B,6242,838
+312,Business_SMB_Mobile,A,16126,768
+312,Business_Prospecting_Desktop,B,11266,1724
+313,Travel_Prospecting_Mobile,A,3468,1851
+313,Gold_Prospecting_Mobile,B,4062,1599
+314,Cashback_Remarketing_Mobile,A,10756,234
+314,Gold_SMB_Mobile,B,16184,414
+315,Business_Prospecting_Mobile,A,16814,1192
+315,Platinum_Remarketing_Desktop,B,2840,417
+316,Gold_Students_Desktop,A,11819,304
+316,Business_SMB_Mobile,B,9684,737
+317,Gold_SMB_Mobile,A,12362,1146
+317,Cashback_Students_Desktop,B,10233,1950
+318,Gold_Students_Desktop,A,13839,415
+318,Gold_High Value_Desktop,B,14764,207
+319,Platinum_High Value_Mobile,A,3566,1984
+319,Cashback_Students_Desktop,B,19858,130
+320,Platinum_Students_Mobile,A,7834,103
+320,Gold_High Value_Desktop,B,16445,273
+321,Gold_Students_Mobile,A,3795,833
+321,Travel_Prospecting_Mobile,B,11230,1412
+322,Platinum_SMB_Desktop,A,12481,1892
+322,Platinum_Prospecting_Desktop,B,16450,1130
+323,Travel_SMB_Desktop,A,18664,53
+323,Platinum_Students_Mobile,B,5492,1718
+324,Travel_Prospecting_Desktop,A,1905,1111
+324,Platinum_Remarketing_Desktop,B,5246,953
+325,Business_Remarketing_Mobile,A,8547,363
+325,Business_Prospecting_Mobile,B,13558,1817
+326,Gold_High Value_Mobile,A,5208,1993
+326,Travel_Prospecting_Mobile,B,15239,1104
+327,Cashback_Students_Desktop,A,8641,1836
+327,Gold_SMB_Desktop,B,8055,454
+328,Platinum_SMB_Mobile,A,7754,1919
+328,Platinum_Students_Mobile,B,10935,632
+329,Travel_Prospecting_Desktop,A,10102,1396
+329,Cashback_High Value_Desktop,B,2878,1099
+330,Business_Remarketing_Desktop,A,7498,77
+330,Gold_Prospecting_Desktop,B,2670,1437
+331,Business_Students_Mobile,A,11631,1668
+331,Travel_High Value_Mobile,B,19173,190
+332,Cashback_Prospecting_Desktop,A,19396,1900
+332,Travel_Remarketing_Mobile,B,1168,1766
+333,Travel_Prospecting_Desktop,A,3284,1266
+333,Gold_SMB_Desktop,B,12408,280
+334,Gold_Prospecting_Mobile,A,4884,599
+334,Travel_High Value_Desktop,B,4041,814
+335,Business_Students_Mobile,A,13252,698
+335,Cashback_Students_Desktop,B,19748,518
+336,Travel_Remarketing_Desktop,A,11246,754
+336,Business_Students_Mobile,B,19339,1145
+337,Travel_Students_Desktop,A,11127,711
+337,Gold_High Value_Mobile,B,9615,1611
+338,Business_SMB_Mobile,A,16814,624
+338,Travel_Prospecting_Mobile,B,12449,1165
+339,Platinum_Prospecting_Mobile,A,6546,258
+339,Business_High Value_Mobile,B,13741,110
+340,Business_Remarketing_Mobile,A,14824,1898
+340,Platinum_Students_Desktop,B,15118,70
+341,Cashback_Students_Desktop,A,2925,1165
+341,Cashback_Prospecting_Mobile,B,2545,1923
+342,Platinum_Prospecting_Mobile,A,17395,1618
+342,Business_High Value_Mobile,B,14343,1934
+343,Travel_SMB_Mobile,A,11820,1296
+343,Travel_Remarketing_Desktop,B,10601,573
+344,Travel_High Value_Desktop,A,12304,364
+344,Cashback_Remarketing_Mobile,B,10513,95
+345,Platinum_SMB_Desktop,A,11629,772
+345,Gold_Remarketing_Desktop,B,10369,1554
+346,Cashback_Students_Desktop,A,12737,1703
+346,Platinum_Students_Desktop,B,16064,1167
+347,Gold_Remarketing_Desktop,A,7934,1335
+347,Cashback_Remarketing_Mobile,B,5517,1989
+348,Travel_High Value_Desktop,A,5368,1703
+348,Travel_Students_Mobile,B,16033,1358
+349,Business_Students_Desktop,A,7066,1254
+349,Business_SMB_Mobile,B,6199,294
+350,Travel_Students_Mobile,A,1216,615
+350,Travel_Students_Desktop,B,16647,930
+351,Gold_SMB_Desktop,A,2767,212
+351,Travel_Prospecting_Mobile,B,2810,1611
+352,Travel_Remarketing_Mobile,A,6613,1352
+352,Gold_Remarketing_Desktop,B,14906,1494
+353,Platinum_Students_Mobile,A,5746,972
+353,Gold_High Value_Desktop,B,16189,993
+354,Gold_Remarketing_Mobile,A,14011,1224
+354,Platinum_Remarketing_Desktop,B,2516,343
+355,Platinum_SMB_Desktop,A,13202,995
+355,Platinum_High Value_Mobile,B,9814,803
+356,Travel_Remarketing_Mobile,A,5741,1999
+356,Gold_Prospecting_Mobile,B,11600,1380
+357,Travel_High Value_Desktop,A,7204,930
+357,Cashback_High Value_Desktop,B,12026,412
+358,Platinum_Remarketing_Mobile,A,18658,1307
+358,Cashback_Remarketing_Mobile,B,16572,1603
+359,Gold_Remarketing_Mobile,A,5638,1635
+359,Travel_Prospecting_Mobile,B,18252,753
+360,Platinum_High Value_Desktop,A,1108,271
+360,Travel_Students_Mobile,B,18570,132
+361,Business_Prospecting_Desktop,A,4897,1064
+361,Platinum_Students_Desktop,B,15961,670
+362,Platinum_SMB_Mobile,A,16504,1137
+362,Gold_Remarketing_Desktop,B,7713,1755
+363,Gold_Remarketing_Desktop,A,4373,1500
+363,Travel_Prospecting_Mobile,B,6532,50
+364,Gold_SMB_Mobile,A,14914,1246
+364,Platinum_Prospecting_Mobile,B,14162,501
+365,Business_Remarketing_Mobile,A,13148,642
+365,Cashback_SMB_Desktop,B,8235,1238
+366,Cashback_Prospecting_Desktop,A,2983,1655
+366,Platinum_High Value_Desktop,B,13554,153
+367,Travel_High Value_Mobile,A,2617,1570
+367,Cashback_Students_Desktop,B,13129,1949
+368,Cashback_Students_Mobile,A,16375,1955
+368,Travel_Prospecting_Desktop,B,7021,1562
+369,Travel_Remarketing_Desktop,A,19545,1194
+369,Business_SMB_Mobile,B,6933,848
+370,Travel_SMB_Desktop,A,18799,343
+370,Gold_Remarketing_Desktop,B,19058,1351
+371,Gold_SMB_Desktop,A,8065,262
+371,Travel_SMB_Mobile,B,14123,519
+372,Business_Students_Mobile,A,6974,1188
+372,Gold_Students_Desktop,B,16437,1758
+373,Platinum_Remarketing_Desktop,A,2318,1236
+373,Cashback_SMB_Desktop,B,13282,1709
+374,Platinum_Prospecting_Desktop,A,18234,1422
+374,Platinum_Prospecting_Mobile,B,5726,1865
+375,Cashback_Prospecting_Mobile,A,3425,239
+375,Travel_SMB_Desktop,B,19655,322
+376,Travel_Prospecting_Desktop,A,1210,1045
+376,Travel_Students_Mobile,B,6887,990
+377,Gold_Students_Mobile,A,9664,113
+377,Platinum_Prospecting_Mobile,B,8805,1891
+378,Travel_High Value_Desktop,A,5145,1581
+378,Business_Students_Mobile,B,15643,1608
+379,Cashback_Remarketing_Desktop,A,8217,635
+379,Gold_Students_Desktop,B,5534,934
+380,Cashback_High Value_Mobile,A,14876,1806
+380,Platinum_SMB_Mobile,B,5620,662
+381,Platinum_SMB_Desktop,A,18080,460
+381,Platinum_SMB_Mobile,B,18768,1477
+382,Travel_High Value_Mobile,A,15771,701
+382,Cashback_Prospecting_Mobile,B,10986,1239
+383,Gold_SMB_Mobile,A,17526,363
+383,Business_Remarketing_Mobile,B,3781,503
+384,Platinum_Students_Mobile,A,9682,1511
+384,Cashback_SMB_Desktop,B,14350,267
+385,Travel_Students_Desktop,A,17112,1033
+385,Platinum_SMB_Mobile,B,10851,799
+386,Business_Prospecting_Mobile,A,18053,1267
+386,Travel_High Value_Desktop,B,10921,177
+387,Platinum_SMB_Desktop,A,17973,1525
+387,Cashback_Prospecting_Desktop,B,18149,1167
+388,Gold_SMB_Desktop,A,11998,819
+388,Travel_High Value_Desktop,B,16968,1066
+389,Cashback_Prospecting_Desktop,A,17827,495
+389,Gold_Students_Mobile,B,10161,750
+390,Travel_Prospecting_Desktop,A,8715,721
+390,Business_SMB_Mobile,B,19844,567
+391,Cashback_Remarketing_Mobile,A,19224,1899
+391,Cashback_Prospecting_Desktop,B,2996,498
+392,Travel_Remarketing_Mobile,A,12621,155
+392,Business_High Value_Mobile,B,7816,1160
+393,Business_Remarketing_Desktop,A,10584,679
+393,Platinum_High Value_Desktop,B,15770,1870
+394,Gold_Remarketing_Mobile,A,14117,298
+394,Travel_SMB_Mobile,B,4801,1702
+395,Cashback_Prospecting_Mobile,A,7689,825
+395,Travel_High Value_Desktop,B,2573,943
+396,Gold_Prospecting_Desktop,A,11350,872
+396,Business_High Value_Mobile,B,13413,860
+397,Platinum_Students_Desktop,A,7074,265
+397,Travel_High Value_Mobile,B,15308,1767
+398,Platinum_Remarketing_Desktop,A,11026,318
+398,Cashback_Prospecting_Desktop,B,12057,1981
+399,Business_Prospecting_Mobile,A,9038,502
+399,Platinum_Students_Desktop,B,10373,1476
+400,Platinum_SMB_Mobile,A,3323,515
+400,Gold_Remarketing_Desktop,B,18283,832
+401,Travel_SMB_Desktop,A,8706,1149
+401,Cashback_High Value_Mobile,B,12939,1183
+402,Cashback_SMB_Mobile,A,5001,508
+402,Travel_High Value_Desktop,B,18874,1590
+403,Business_Prospecting_Desktop,A,4431,708
+403,Business_Remarketing_Mobile,B,16085,1843
+404,Gold_SMB_Desktop,A,6935,725
+404,Platinum_High Value_Desktop,B,4369,954
+405,Platinum_Students_Mobile,A,18432,1196
+405,Travel_High Value_Desktop,B,4408,505
+406,Cashback_Students_Desktop,A,16185,1360
+406,Gold_Remarketing_Mobile,B,7007,1632
+407,Business_High Value_Desktop,A,13263,1679
+407,Platinum_SMB_Desktop,B,8228,489
+408,Gold_SMB_Desktop,A,19714,1599
+408,Cashback_Students_Mobile,B,14627,748
+409,Travel_Remarketing_Desktop,A,8006,1096
+409,Travel_SMB_Desktop,B,13542,376
+410,Business_SMB_Desktop,A,4216,70
+410,Gold_High Value_Mobile,B,7716,1017
+411,Business_SMB_Desktop,A,17050,1525
+411,Platinum_Remarketing_Mobile,B,19131,761
+412,Cashback_Students_Desktop,A,8375,154
+412,Business_High Value_Desktop,B,19017,124
+413,Platinum_SMB_Desktop,A,17934,1097
+413,Gold_Prospecting_Desktop,B,13614,1210
+414,Business_Students_Desktop,A,10416,1538
+414,Business_Prospecting_Desktop,B,14325,835
+415,Gold_Prospecting_Desktop,A,14455,1222
+415,Cashback_Students_Desktop,B,18131,1552
+416,Cashback_Remarketing_Desktop,A,18303,1978
+416,Cashback_Prospecting_Desktop,B,17177,659
+417,Travel_Prospecting_Mobile,A,14255,1154
+417,Platinum_Remarketing_Mobile,B,12246,454
+418,Platinum_Remarketing_Mobile,A,3704,776
+418,Business_Remarketing_Mobile,B,15122,221
+419,Business_SMB_Desktop,A,17696,1454
+419,Business_Prospecting_Desktop,B,4689,597
+420,Platinum_Students_Mobile,A,18666,1299
+420,Travel_Students_Desktop,B,6318,891
+421,Gold_High Value_Desktop,A,1915,911
+421,Business_High Value_Mobile,B,5965,341
+422,Gold_Prospecting_Desktop,A,14479,977
+422,Business_Remarketing_Mobile,B,18284,204
+423,Cashback_Students_Mobile,A,16549,553
+423,Platinum_High Value_Desktop,B,19072,1394
+424,Cashback_SMB_Mobile,A,12255,258
+424,Platinum_Students_Mobile,B,8916,93
+425,Platinum_Students_Desktop,A,2421,1274
+425,Platinum_Prospecting_Desktop,B,3826,259
+426,Platinum_Students_Desktop,A,13945,967
+426,Business_Remarketing_Desktop,B,11615,399
+427,Travel_High Value_Desktop,A,4586,1577
+427,Cashback_Students_Mobile,B,17969,1837
+428,Cashback_Students_Mobile,A,17020,1307
+428,Platinum_High Value_Mobile,B,8483,1883
+429,Cashback_Prospecting_Desktop,A,15077,545
+429,Gold_Prospecting_Desktop,B,11193,1137
+430,Business_High Value_Mobile,A,3637,405
+430,Gold_Prospecting_Desktop,B,12108,1981
+431,Travel_Remarketing_Desktop,A,16195,288
+431,Gold_Students_Mobile,B,1489,1894
+432,Travel_Prospecting_Desktop,A,4670,1035
+432,Business_Remarketing_Mobile,B,15770,994
+433,Travel_SMB_Mobile,A,3128,1079
+433,Cashback_Students_Desktop,B,13518,660
+434,Gold_High Value_Desktop,A,7636,1182
+434,Cashback_SMB_Mobile,B,3466,499
+435,Business_Prospecting_Desktop,A,3807,1777
+435,Travel_SMB_Mobile,B,10587,1480
+436,Gold_Students_Desktop,A,10816,1333
+436,Business_Remarketing_Mobile,B,8444,919
+437,Cashback_Remarketing_Desktop,A,11408,988
+437,Travel_Students_Desktop,B,18211,756
+438,Platinum_High Value_Desktop,A,18913,539
+438,Travel_Prospecting_Mobile,B,9760,1786
+439,Platinum_High Value_Desktop,A,17733,1668
+439,Cashback_SMB_Mobile,B,6899,1843
+440,Gold_Students_Desktop,A,15631,552
+440,Cashback_Remarketing_Desktop,B,19493,68
+441,Platinum_Students_Mobile,A,3572,1842
+441,Cashback_SMB_Mobile,B,17375,1702
+442,Travel_Students_Desktop,A,1066,632
+442,Cashback_SMB_Desktop,B,13257,1315
+443,Gold_High Value_Mobile,A,19112,1398
+443,Travel_Students_Desktop,B,4962,153
+444,Platinum_Remarketing_Mobile,A,13845,1208
+444,Cashback_Students_Desktop,B,9665,1895
+445,Cashback_High Value_Desktop,A,9285,1751
+445,Cashback_SMB_Mobile,B,11051,1445
+446,Gold_Students_Mobile,A,10843,827
+446,Platinum_Students_Desktop,B,19852,841
+447,Business_SMB_Desktop,A,9505,1079
+447,Travel_Students_Mobile,B,16933,541
+448,Cashback_Students_Desktop,A,5077,667
+448,Travel_High Value_Desktop,B,18254,1496
+449,Cashback_Remarketing_Mobile,A,18781,1080
+449,Travel_Students_Mobile,B,15692,1960
+450,Platinum_SMB_Desktop,A,19077,655
+450,Gold_Remarketing_Mobile,B,1409,1505
+451,Gold_High Value_Mobile,A,11191,1548
+451,Business_Prospecting_Desktop,B,7399,1618
+452,Business_Remarketing_Mobile,A,7250,1652
+452,Platinum_High Value_Desktop,B,9972,235
+453,Business_High Value_Mobile,A,13696,472
+453,Gold_High Value_Desktop,B,14749,625
+454,Travel_SMB_Mobile,A,18869,1589
+454,Cashback_High Value_Mobile,B,9384,557
+455,Business_Students_Mobile,A,12856,982
+455,Travel_SMB_Desktop,B,10780,118
+456,Gold_SMB_Mobile,A,8079,791
+456,Travel_Students_Desktop,B,19284,1872
+457,Travel_Students_Desktop,A,19886,1881
+457,Platinum_Students_Desktop,B,1062,478
+458,Platinum_High Value_Mobile,A,2563,1882
+458,Cashback_Remarketing_Mobile,B,6629,1529
+459,Cashback_Students_Mobile,A,16586,209
+459,Platinum_SMB_Desktop,B,15176,1409
+460,Platinum_Students_Mobile,A,7011,1471
+460,Business_Remarketing_Mobile,B,7776,481
+461,Cashback_High Value_Mobile,A,5265,1685
+461,Cashback_SMB_Mobile,B,4671,119
+462,Travel_Students_Desktop,A,3537,1201
+462,Gold_Students_Desktop,B,1931,448
+463,Platinum_High Value_Desktop,A,2716,60
+463,Gold_Remarketing_Mobile,B,19607,1675
+464,Platinum_High Value_Mobile,A,4567,1670
+464,Cashback_SMB_Desktop,B,5267,1346
+465,Travel_Remarketing_Desktop,A,12737,716
+465,Travel_Remarketing_Desktop,B,10771,464
+466,Cashback_High Value_Mobile,A,12654,1791
+466,Gold_Prospecting_Mobile,B,4876,1701
+467,Travel_Prospecting_Desktop,A,14647,722
+467,Cashback_Prospecting_Desktop,B,14505,563
+468,Gold_Remarketing_Mobile,A,19518,584
+468,Platinum_High Value_Desktop,B,17364,751
+469,Platinum_Students_Desktop,A,18064,791
+469,Cashback_Students_Desktop,B,9099,598
+470,Travel_Prospecting_Desktop,A,17860,267
+470,Gold_Students_Mobile,B,7919,947
+471,Travel_Prospecting_Mobile,A,1618,725
+471,Cashback_Students_Desktop,B,1554,268
+472,Business_Remarketing_Desktop,A,9462,574
+472,Cashback_Remarketing_Desktop,B,16309,1717
+473,Platinum_Students_Mobile,A,14196,1801
+473,Gold_SMB_Mobile,B,5555,420
+474,Platinum_Prospecting_Mobile,A,15113,1545
+474,Business_Students_Mobile,B,17562,1724
+475,Business_Prospecting_Mobile,A,12338,1625
+475,Gold_Prospecting_Desktop,B,4227,1602
+476,Gold_SMB_Desktop,A,11566,344
+476,Business_Remarketing_Mobile,B,12382,1800
+477,Business_Students_Mobile,A,18698,984
+477,Cashback_Remarketing_Desktop,B,19707,1173
+478,Travel_SMB_Mobile,A,4329,1301
+478,Business_Remarketing_Mobile,B,16706,668
+479,Cashback_SMB_Mobile,A,5793,1398
+479,Gold_Remarketing_Desktop,B,9995,682
+480,Gold_Prospecting_Desktop,A,4577,1871
+480,Gold_SMB_Mobile,B,5239,1912
+481,Travel_High Value_Mobile,A,1243,879
+481,Platinum_Prospecting_Desktop,B,18812,1905
+482,Platinum_High Value_Mobile,A,9378,863
+482,Cashback_Students_Desktop,B,7391,616
+483,Travel_SMB_Desktop,A,7013,1331
+483,Travel_SMB_Desktop,B,11348,1689
+484,Business_Remarketing_Desktop,A,11137,428
+484,Business_High Value_Mobile,B,16707,1191
+485,Platinum_High Value_Desktop,A,19056,1231
+485,Business_SMB_Mobile,B,9880,1371
+486,Gold_Prospecting_Desktop,A,11149,1678
+486,Travel_SMB_Mobile,B,9298,1247
+487,Cashback_Prospecting_Desktop,A,15750,384
+487,Platinum_SMB_Desktop,B,17060,682
+488,Travel_SMB_Mobile,A,9056,1980
+488,Platinum_High Value_Mobile,B,3477,1912
+489,Platinum_High Value_Mobile,A,12758,196
+489,Travel_SMB_Desktop,B,13558,911
+490,Travel_Remarketing_Desktop,A,16184,1642
+490,Business_SMB_Desktop,B,18935,1649
+491,Platinum_High Value_Desktop,A,19192,568
+491,Platinum_SMB_Desktop,B,7115,1319
+492,Cashback_High Value_Desktop,A,9085,1237
+492,Gold_Students_Desktop,B,8618,1087
+493,Gold_Remarketing_Desktop,A,18602,649
+493,Business_SMB_Mobile,B,8374,1782
+494,Business_High Value_Desktop,A,3079,1660
+494,Platinum_Remarketing_Mobile,B,16247,1953
+495,Cashback_Prospecting_Mobile,A,3875,216
+495,Travel_Prospecting_Mobile,B,10863,588
+496,Business_Prospecting_Mobile,A,10758,971
+496,Gold_Prospecting_Desktop,B,17514,1315
+497,Cashback_Prospecting_Mobile,A,18235,1834
+497,Business_Remarketing_Mobile,B,7276,762
+498,Travel_Remarketing_Desktop,A,6677,1529
+498,Travel_Prospecting_Desktop,B,6802,208
+499,Cashback_Students_Desktop,A,4009,959
+499,Business_SMB_Desktop,B,15553,1389
+500,Travel_Students_Mobile,A,7799,185
+500,Platinum_Remarketing_Mobile,B,2789,1879
+501,Travel_High Value_Mobile,A,3471,476
+501,Travel_Students_Desktop,B,15972,654
+502,Travel_Students_Mobile,A,10648,1617
+502,Travel_Remarketing_Mobile,B,15431,645
+503,Gold_Prospecting_Mobile,A,2000,1246
+503,Gold_High Value_Mobile,B,14146,1830
+504,Travel_Remarketing_Desktop,A,18196,519
+504,Travel_SMB_Mobile,B,14134,1671
+505,Cashback_High Value_Desktop,A,1278,748
+505,Cashback_High Value_Desktop,B,9147,1714
+506,Business_SMB_Desktop,A,15968,410
+506,Gold_Students_Mobile,B,1092,278
+507,Platinum_Students_Desktop,A,17405,80
+507,Cashback_Remarketing_Mobile,B,18597,664
+508,Platinum_Remarketing_Desktop,A,3186,768
+508,Cashback_Students_Desktop,B,12379,1207
+509,Platinum_High Value_Mobile,A,9788,1829
+509,Travel_Remarketing_Desktop,B,10844,338
+510,Business_Remarketing_Desktop,A,12116,1143
+510,Gold_Prospecting_Desktop,B,12082,1020
+511,Business_Prospecting_Desktop,A,1562,96
+511,Platinum_Remarketing_Desktop,B,19312,903
+512,Travel_High Value_Mobile,A,18411,707
+512,Gold_Remarketing_Desktop,B,15475,1703
+513,Gold_Students_Desktop,A,7886,1275
+513,Gold_Prospecting_Desktop,B,3778,297
+514,Business_Remarketing_Desktop,A,6212,240
+514,Gold_SMB_Mobile,B,6007,525
+515,Travel_SMB_Desktop,A,10542,475
+515,Platinum_SMB_Mobile,B,16164,907
+516,Cashback_SMB_Desktop,A,9356,1195
+516,Platinum_Remarketing_Desktop,B,17294,1411
+517,Travel_Students_Mobile,A,8325,697
+517,Travel_Prospecting_Desktop,B,9035,1079
+518,Travel_Prospecting_Mobile,A,7573,1576
+518,Travel_SMB_Mobile,B,1992,1291
+519,Platinum_Prospecting_Desktop,A,6184,1120
+519,Cashback_Students_Desktop,B,14293,1616
+520,Cashback_Prospecting_Mobile,A,5330,1938
+520,Cashback_Students_Desktop,B,5504,1294
+521,Platinum_High Value_Mobile,A,9060,1668
+521,Travel_Prospecting_Desktop,B,18765,1228
+522,Gold_Remarketing_Mobile,A,19319,1388
+522,Business_Prospecting_Desktop,B,3594,1667
+523,Business_SMB_Desktop,A,17191,1845
+523,Gold_Prospecting_Mobile,B,7584,136
+524,Gold_High Value_Mobile,A,16048,1977
+524,Travel_Students_Desktop,B,2380,1049
+525,Business_Prospecting_Desktop,A,14986,201
+525,Cashback_SMB_Mobile,B,15006,950
+526,Platinum_Remarketing_Mobile,A,4907,1249
+526,Gold_SMB_Desktop,B,2284,1276
+527,Platinum_Students_Desktop,A,7683,924
+527,Travel_SMB_Mobile,B,7671,554
+528,Gold_SMB_Mobile,A,8430,1599
+528,Cashback_Remarketing_Mobile,B,15244,1724
+529,Business_Students_Mobile,A,9848,1406
+529,Business_High Value_Desktop,B,14054,583
+530,Travel_Remarketing_Mobile,A,15442,793
+530,Gold_Students_Mobile,B,16632,1727
+531,Travel_Students_Desktop,A,2269,325
+531,Gold_SMB_Mobile,B,19673,690
+532,Business_Remarketing_Mobile,A,15746,1606
+532,Cashback_Students_Desktop,B,4129,1892
+533,Gold_Remarketing_Desktop,A,5711,394
+533,Travel_Remarketing_Desktop,B,12497,1165
+534,Gold_Prospecting_Desktop,A,18343,150
+534,Platinum_High Value_Mobile,B,14343,657
+535,Platinum_Prospecting_Desktop,A,2076,745
+535,Cashback_SMB_Desktop,B,6157,149
+536,Travel_Prospecting_Mobile,A,18345,85
+536,Business_Remarketing_Mobile,B,16328,435
+537,Platinum_Remarketing_Desktop,A,7180,1369
+537,Cashback_Remarketing_Mobile,B,9597,206
+538,Travel_Remarketing_Desktop,A,19761,1183
+538,Gold_SMB_Desktop,B,7223,449
+539,Travel_Students_Mobile,A,12953,1036
+539,Gold_SMB_Mobile,B,14581,1402
+540,Platinum_High Value_Desktop,A,11546,553
+540,Gold_Prospecting_Mobile,B,11170,409
+541,Travel_Prospecting_Desktop,A,15042,1182
+541,Platinum_Students_Desktop,B,16750,1584
+542,Cashback_High Value_Desktop,A,7826,182
+542,Platinum_Prospecting_Mobile,B,2852,234
+543,Business_Prospecting_Mobile,A,15497,1726
+543,Business_Prospecting_Mobile,B,15212,1310
+544,Travel_Prospecting_Desktop,A,19583,906
+544,Gold_High Value_Desktop,B,18625,950
+545,Travel_SMB_Mobile,A,10122,543
+545,Cashback_High Value_Mobile,B,1725,1722
+546,Gold_SMB_Mobile,A,17579,1122
+546,Travel_Students_Mobile,B,12347,1732
+547,Travel_Prospecting_Mobile,A,1228,1078
+547,Cashback_High Value_Desktop,B,17325,1297
+548,Business_Remarketing_Mobile,A,16281,1977
+548,Business_Remarketing_Desktop,B,10408,196
+549,Platinum_High Value_Desktop,A,4671,948
+549,Business_Remarketing_Desktop,B,8747,1352
+550,Travel_Students_Desktop,A,8363,1884
+550,Gold_Students_Mobile,B,12091,827
+551,Platinum_SMB_Desktop,A,14037,133
+551,Cashback_Prospecting_Mobile,B,14365,1047
+552,Business_Students_Desktop,A,8505,966
+552,Gold_Students_Desktop,B,4006,1988
+553,Gold_Remarketing_Mobile,A,3148,1407
+553,Travel_SMB_Mobile,B,11429,1395
+554,Travel_High Value_Desktop,A,18181,1809
+554,Platinum_Remarketing_Mobile,B,18826,459
+555,Platinum_Students_Desktop,A,1019,470
+555,Travel_SMB_Desktop,B,8474,1438
+556,Cashback_High Value_Desktop,A,10057,1181
+556,Platinum_Students_Mobile,B,10013,781
+557,Business_Prospecting_Mobile,A,11864,1353
+557,Travel_Remarketing_Desktop,B,4287,1987
+558,Platinum_SMB_Mobile,A,2424,1986
+558,Business_SMB_Mobile,B,19529,348
+559,Gold_High Value_Mobile,A,18901,1454
+559,Travel_Prospecting_Mobile,B,3802,982
+560,Cashback_High Value_Desktop,A,12059,1701
+560,Gold_Prospecting_Mobile,B,15306,1732
+561,Gold_SMB_Desktop,A,10479,1918
+561,Cashback_SMB_Desktop,B,11415,1477
+562,Gold_SMB_Mobile,A,9328,1794
+562,Travel_Students_Desktop,B,10557,1868
+563,Platinum_Students_Mobile,A,6645,676
+563,Business_Remarketing_Mobile,B,8828,821
+564,Cashback_Students_Mobile,A,6286,592
+564,Platinum_Students_Mobile,B,14749,1645
+565,Platinum_Prospecting_Desktop,A,10910,1675
+565,Travel_SMB_Mobile,B,6056,1878
+566,Business_Students_Desktop,A,8929,1138
+566,Gold_SMB_Desktop,B,18910,1981
+567,Platinum_Prospecting_Mobile,A,16298,91
+567,Platinum_Remarketing_Mobile,B,2750,1438
+568,Platinum_Remarketing_Desktop,A,7321,548
+568,Cashback_SMB_Desktop,B,7387,1153
+569,Travel_High Value_Desktop,A,16677,1964
+569,Cashback_Prospecting_Desktop,B,1712,1929
+570,Cashback_Prospecting_Mobile,A,1893,1370
+570,Platinum_SMB_Desktop,B,16342,1737
+571,Travel_Prospecting_Desktop,A,16898,86
+571,Business_SMB_Desktop,B,9622,1323
+572,Cashback_SMB_Desktop,A,1536,1116
+572,Business_Remarketing_Mobile,B,3200,1781
+573,Cashback_Remarketing_Mobile,A,11654,292
+573,Platinum_Remarketing_Desktop,B,16702,938
+574,Cashback_Students_Desktop,A,16149,1209
+574,Business_Remarketing_Desktop,B,7249,684
+575,Cashback_Remarketing_Mobile,A,13065,385
+575,Business_SMB_Mobile,B,7490,1820
+576,Cashback_High Value_Mobile,A,19869,1708
+576,Business_Prospecting_Mobile,B,9299,1082
+577,Gold_Students_Mobile,A,12155,1818
+577,Travel_Prospecting_Desktop,B,19887,905
+578,Travel_Students_Desktop,A,10719,1880
+578,Cashback_SMB_Desktop,B,3299,946
+579,Gold_SMB_Mobile,A,4520,1204
+579,Platinum_SMB_Desktop,B,19299,698
+580,Travel_Students_Mobile,A,1064,737
+580,Cashback_Prospecting_Desktop,B,19977,415
+581,Cashback_SMB_Desktop,A,15238,870
+581,Platinum_High Value_Mobile,B,15595,1504
+582,Travel_Remarketing_Mobile,A,4022,1248
+582,Cashback_Students_Desktop,B,3364,1776
+583,Gold_High Value_Mobile,A,17311,299
+583,Business_Students_Desktop,B,10015,828
+584,Travel_Remarketing_Mobile,A,15329,226
+584,Cashback_High Value_Mobile,B,11169,90
+585,Cashback_SMB_Desktop,A,13005,1182
+585,Gold_High Value_Mobile,B,9857,1332
+586,Travel_Students_Desktop,A,13915,787
+586,Platinum_Remarketing_Mobile,B,8241,1172
+587,Gold_Students_Desktop,A,15193,385
+587,Travel_SMB_Desktop,B,18804,1855
+588,Platinum_Prospecting_Desktop,A,16759,917
+588,Business_SMB_Desktop,B,2001,628
+589,Gold_Remarketing_Mobile,A,13444,161
+589,Cashback_SMB_Mobile,B,16796,1315
+590,Cashback_Remarketing_Mobile,A,3415,1709
+590,Gold_Students_Mobile,B,10183,1207
+591,Cashback_Students_Mobile,A,8708,1089
+591,Platinum_High Value_Desktop,B,4734,997
+592,Gold_Students_Mobile,A,10552,665
+592,Platinum_Students_Mobile,B,15436,977
+593,Cashback_High Value_Mobile,A,19078,1363
+593,Gold_SMB_Mobile,B,8194,1169
+594,Cashback_Prospecting_Mobile,A,8803,558
+594,Gold_Remarketing_Mobile,B,4401,402
+595,Cashback_Prospecting_Desktop,A,1919,781
+595,Cashback_High Value_Desktop,B,11238,1219
+596,Travel_Prospecting_Mobile,A,2349,1382
+596,Business_Prospecting_Desktop,B,5764,982
+597,Cashback_SMB_Mobile,A,6269,1033
+597,Platinum_SMB_Desktop,B,19818,50
+598,Platinum_SMB_Mobile,A,3038,545
+598,Cashback_Students_Mobile,B,6264,718
+599,Travel_Prospecting_Desktop,A,14057,1932
+599,Cashback_High Value_Desktop,B,18577,447
+600,Gold_Students_Mobile,A,10710,1841
+600,Business_Prospecting_Mobile,B,3373,1737
+601,Platinum_High Value_Mobile,A,5119,1920
+601,Travel_Prospecting_Mobile,B,18111,251
+602,Business_Remarketing_Mobile,A,17752,1737
+602,Platinum_Prospecting_Desktop,B,2528,1089
+603,Business_Remarketing_Mobile,A,16779,144
+603,Travel_Students_Desktop,B,4361,718
+604,Cashback_Students_Desktop,A,2896,1466
+604,Cashback_Prospecting_Desktop,B,5731,725
+605,Gold_Prospecting_Mobile,A,16536,636
+605,Platinum_Prospecting_Mobile,B,13533,1092
+606,Cashback_Remarketing_Desktop,A,12797,1473
+606,Travel_High Value_Desktop,B,3606,1850
+607,Gold_SMB_Mobile,A,19266,349
+607,Platinum_Remarketing_Desktop,B,5791,230
+608,Business_High Value_Desktop,A,16204,1548
+608,Cashback_High Value_Mobile,B,13776,659
+609,Travel_Prospecting_Desktop,A,4413,636
+609,Travel_Prospecting_Mobile,B,10069,516
+610,Business_Remarketing_Mobile,A,1424,761
+610,Travel_Remarketing_Mobile,B,9155,220
+611,Travel_Remarketing_Mobile,A,16562,1452
+611,Business_Students_Mobile,B,10624,1953
+612,Business_Prospecting_Desktop,A,15851,1064
+612,Cashback_Remarketing_Desktop,B,16499,1029
+613,Cashback_Prospecting_Desktop,A,19434,1882
+613,Cashback_High Value_Desktop,B,15195,60
+614,Platinum_High Value_Mobile,A,6413,190
+614,Gold_Prospecting_Desktop,B,9757,1282
+615,Travel_Remarketing_Desktop,A,18271,988
+615,Travel_High Value_Desktop,B,16416,860
+616,Gold_SMB_Mobile,A,6653,520
+616,Gold_SMB_Desktop,B,7141,359
+617,Business_Prospecting_Desktop,A,18724,1507
+617,Gold_Students_Mobile,B,5512,1981
+618,Cashback_Students_Desktop,A,2123,890
+618,Travel_SMB_Desktop,B,8041,1036
+619,Business_SMB_Mobile,A,5773,138
+619,Business_Remarketing_Desktop,B,1641,1800
+620,Business_SMB_Mobile,A,12502,1384
+620,Cashback_Students_Desktop,B,8158,165
+621,Platinum_Prospecting_Desktop,A,14971,344
+621,Travel_Students_Desktop,B,19548,1210
+622,Cashback_Students_Desktop,A,15805,1307
+622,Cashback_Prospecting_Mobile,B,7302,266
+623,Travel_Prospecting_Mobile,A,13467,778
+623,Platinum_Students_Desktop,B,3828,315
+624,Business_High Value_Mobile,A,1133,429
+624,Platinum_Remarketing_Mobile,B,12356,1728
+625,Cashback_Prospecting_Desktop,A,14016,982
+625,Travel_Students_Desktop,B,16352,1181
+626,Cashback_SMB_Mobile,A,17131,1252
+626,Travel_High Value_Desktop,B,5027,564
+627,Cashback_Remarketing_Desktop,A,15765,1737
+627,Cashback_SMB_Desktop,B,17201,1161
+628,Gold_High Value_Mobile,A,3230,1579
+628,Business_High Value_Desktop,B,2669,1594
+629,Travel_SMB_Mobile,A,7405,1059
+629,Platinum_Prospecting_Desktop,B,17408,1362
+630,Cashback_Prospecting_Desktop,A,16943,1087
+630,Travel_SMB_Desktop,B,10287,1844
+631,Cashback_Remarketing_Mobile,A,16451,1897
+631,Business_Remarketing_Desktop,B,11837,129
+632,Gold_Prospecting_Mobile,A,13539,468
+632,Travel_Remarketing_Desktop,B,12593,1986
+633,Cashback_Remarketing_Desktop,A,5783,495
+633,Gold_Students_Desktop,B,3573,775
+634,Travel_Remarketing_Mobile,A,1748,961
+634,Gold_SMB_Mobile,B,7112,936
+635,Travel_Prospecting_Mobile,A,3960,62
+635,Gold_Prospecting_Mobile,B,13227,924
+636,Business_Students_Mobile,A,19472,1341
+636,Cashback_Prospecting_Desktop,B,14914,123
+637,Travel_High Value_Mobile,A,7342,571
+637,Cashback_Remarketing_Mobile,B,5217,613
+638,Travel_SMB_Mobile,A,14720,1953
+638,Business_Prospecting_Desktop,B,17747,1323
+639,Platinum_Prospecting_Desktop,A,9432,1791
+639,Platinum_Students_Desktop,B,19600,1170
+640,Gold_SMB_Mobile,A,13868,666
+640,Platinum_Remarketing_Desktop,B,3988,926
+641,Cashback_Prospecting_Mobile,A,19926,1242
+641,Cashback_Students_Mobile,B,9808,1997
+642,Travel_Students_Mobile,A,15496,519
+642,Cashback_Prospecting_Mobile,B,5358,1539
+643,Platinum_Remarketing_Desktop,A,5924,1218
+643,Travel_SMB_Mobile,B,8997,307
+644,Gold_Prospecting_Desktop,A,16433,1530
+644,Business_Prospecting_Mobile,B,1835,126
+645,Travel_SMB_Mobile,A,4923,1926
+645,Business_Students_Mobile,B,3635,127
+646,Business_Remarketing_Desktop,A,4266,1946
+646,Platinum_Prospecting_Desktop,B,11850,576
+647,Business_Remarketing_Desktop,A,14723,780
+647,Gold_Students_Desktop,B,5922,1107
+648,Business_SMB_Mobile,A,15108,262
+648,Platinum_High Value_Mobile,B,9574,305
+649,Travel_High Value_Desktop,A,6847,1761
+649,Travel_SMB_Mobile,B,11049,446
+650,Business_SMB_Mobile,A,14159,987
+650,Travel_Students_Desktop,B,8755,56
+651,Platinum_Prospecting_Mobile,A,8349,1364
+651,Travel_Remarketing_Mobile,B,5078,1801
+652,Business_Prospecting_Desktop,A,17984,1902
+652,Cashback_Prospecting_Mobile,B,16899,1444
+653,Gold_Prospecting_Mobile,A,15099,232
+653,Platinum_Prospecting_Desktop,B,6569,1312
+654,Platinum_High Value_Desktop,A,3500,1307
+654,Travel_Remarketing_Desktop,B,18057,646
+655,Travel_Prospecting_Desktop,A,19996,410
+655,Business_Prospecting_Mobile,B,4816,1157
+656,Platinum_SMB_Mobile,A,1188,1476
+656,Gold_High Value_Desktop,B,3432,198
+657,Business_Remarketing_Desktop,A,3991,300
+657,Travel_Remarketing_Mobile,B,4471,1322
+658,Platinum_High Value_Desktop,A,14754,494
+658,Gold_Prospecting_Mobile,B,7435,67
+659,Travel_Students_Desktop,A,7334,280
+659,Travel_Students_Desktop,B,8097,837
+660,Gold_SMB_Mobile,A,13138,1686
+660,Cashback_Prospecting_Mobile,B,4233,879
+661,Cashback_Remarketing_Mobile,A,8485,1104
+661,Cashback_Students_Desktop,B,8965,1350
+662,Platinum_High Value_Desktop,A,14192,1377
+662,Gold_High Value_Mobile,B,17206,1409
+663,Business_SMB_Mobile,A,18026,824
+663,Travel_Remarketing_Mobile,B,10131,90
+664,Business_Remarketing_Mobile,A,9207,1689
+664,Business_Prospecting_Mobile,B,12813,412
+665,Gold_Prospecting_Mobile,A,11430,849
+665,Platinum_High Value_Mobile,B,15798,56
+666,Business_Prospecting_Mobile,A,11632,1625
+666,Platinum_Remarketing_Desktop,B,16478,1917
+667,Travel_SMB_Desktop,A,12034,934
+667,Business_SMB_Desktop,B,6318,787
+668,Business_Prospecting_Desktop,A,2166,934
+668,Business_High Value_Desktop,B,10056,1643
+669,Platinum_SMB_Mobile,A,2559,1795
+669,Platinum_High Value_Desktop,B,12794,1534
+670,Travel_SMB_Desktop,A,3134,562
+670,Gold_Prospecting_Mobile,B,13918,1875
+671,Travel_Remarketing_Mobile,A,14165,498
+671,Cashback_SMB_Desktop,B,18002,1546
+672,Cashback_Prospecting_Desktop,A,18967,1639
+672,Gold_Students_Mobile,B,14784,58
+673,Gold_Prospecting_Mobile,A,2732,1261
+673,Gold_Students_Desktop,B,15967,326
+674,Gold_High Value_Mobile,A,17868,1063
+674,Platinum_High Value_Mobile,B,5201,644
+675,Gold_SMB_Mobile,A,12220,1680
+675,Platinum_SMB_Desktop,B,9907,210
+676,Cashback_Students_Desktop,A,8987,1229
+676,Cashback_SMB_Desktop,B,18355,1507
+677,Business_Students_Mobile,A,11628,1191
+677,Cashback_SMB_Desktop,B,2809,70
+678,Gold_SMB_Mobile,A,7374,488
+678,Travel_Students_Desktop,B,4520,1367
+679,Travel_High Value_Mobile,A,9629,1204
+679,Gold_Remarketing_Desktop,B,15242,810
+680,Gold_Students_Desktop,A,18595,1821
+680,Gold_Remarketing_Mobile,B,13090,774
+681,Cashback_Students_Mobile,A,15293,1468
+681,Platinum_Students_Desktop,B,9424,1944
+682,Platinum_SMB_Mobile,A,14560,1839
+682,Cashback_Remarketing_Desktop,B,19827,671
+683,Business_High Value_Desktop,A,2733,1638
+683,Travel_High Value_Desktop,B,13610,1804
+684,Gold_Students_Mobile,A,2829,852
+684,Business_Prospecting_Desktop,B,5318,1414
+685,Travel_Remarketing_Desktop,A,9739,976
+685,Gold_Remarketing_Desktop,B,4769,552
+686,Platinum_SMB_Desktop,A,10619,1081
+686,Travel_Remarketing_Desktop,B,7822,1233
+687,Travel_Prospecting_Desktop,A,19497,1864
+687,Business_Remarketing_Mobile,B,15429,150
+688,Cashback_Students_Desktop,A,2121,52
+688,Business_SMB_Mobile,B,13205,807
+689,Cashback_Remarketing_Mobile,A,8103,443
+689,Gold_High Value_Mobile,B,15530,1898
+690,Platinum_Prospecting_Mobile,A,14136,810
+690,Cashback_Students_Mobile,B,2892,1837
+691,Business_Prospecting_Mobile,A,13343,551
+691,Travel_Students_Mobile,B,1489,712
+692,Cashback_Prospecting_Mobile,A,4452,984
+692,Gold_High Value_Mobile,B,4007,1014
+693,Travel_Students_Desktop,A,3231,940
+693,Platinum_Prospecting_Mobile,B,6496,1823
+694,Travel_High Value_Desktop,A,16152,604
+694,Gold_Students_Mobile,B,4861,244
+695,Business_Prospecting_Mobile,A,7054,1111
+695,Cashback_Remarketing_Desktop,B,2986,1250
+696,Platinum_Remarketing_Mobile,A,16981,821
+696,Platinum_Students_Desktop,B,18234,105
+697,Gold_Students_Mobile,A,12335,1340
+697,Gold_Students_Mobile,B,19505,1212
+698,Platinum_High Value_Mobile,A,19085,1260
+698,Platinum_SMB_Desktop,B,19836,481
+699,Cashback_Prospecting_Desktop,A,12500,1476
+699,Gold_Remarketing_Desktop,B,9426,821
+700,Gold_Students_Mobile,A,1496,1297
+700,Travel_Students_Desktop,B,12041,80
+701,Travel_Students_Desktop,A,4937,1182
+701,Gold_SMB_Desktop,B,5917,1877
+702,Business_High Value_Mobile,A,16695,612
+702,Cashback_Prospecting_Desktop,B,10825,515
+703,Travel_Prospecting_Mobile,A,17226,814
+703,Business_High Value_Desktop,B,10939,99
+704,Gold_High Value_Desktop,A,5569,872
+704,Cashback_Remarketing_Mobile,B,3754,1298
+705,Cashback_Students_Mobile,A,3032,1204
+705,Gold_SMB_Mobile,B,16673,1783
+706,Gold_Prospecting_Mobile,A,7088,1083
+706,Business_Students_Mobile,B,7613,1436
+707,Business_SMB_Mobile,A,7786,1668
+707,Cashback_Students_Mobile,B,12596,1330
+708,Cashback_Prospecting_Desktop,A,6818,990
+708,Business_Remarketing_Desktop,B,12726,660
+709,Gold_Students_Mobile,A,6163,1662
+709,Business_Prospecting_Mobile,B,8034,1765
+710,Business_Remarketing_Desktop,A,2781,1490
+710,Business_Prospecting_Desktop,B,11169,517
+711,Gold_Students_Mobile,A,18531,634
+711,Gold_Prospecting_Mobile,B,9781,763
+712,Cashback_Students_Mobile,A,2711,1427
+712,Cashback_Remarketing_Mobile,B,19859,388
+713,Platinum_SMB_Desktop,A,8990,550
+713,Gold_Remarketing_Desktop,B,16163,192
+714,Platinum_Students_Desktop,A,10375,791
+714,Platinum_Prospecting_Desktop,B,17143,534
+715,Gold_Remarketing_Desktop,A,9094,585
+715,Business_SMB_Mobile,B,9142,918
+716,Gold_Remarketing_Desktop,A,18905,879
+716,Gold_Students_Mobile,B,7886,1414
+717,Business_SMB_Mobile,A,9044,1874
+717,Gold_Remarketing_Mobile,B,18189,1424
+718,Travel_Remarketing_Desktop,A,3790,368
+718,Business_SMB_Desktop,B,17988,583
+719,Travel_SMB_Mobile,A,15979,460
+719,Business_High Value_Desktop,B,8517,424
+720,Business_High Value_Desktop,A,4819,806
+720,Platinum_Students_Desktop,B,3719,1220
+721,Business_Prospecting_Mobile,A,14936,828
+721,Cashback_SMB_Mobile,B,2024,62
+722,Gold_Prospecting_Desktop,A,8793,888
+722,Business_SMB_Mobile,B,14318,1804
+723,Platinum_Remarketing_Desktop,A,12927,1097
+723,Travel_Prospecting_Desktop,B,16392,991
+724,Platinum_Remarketing_Desktop,A,10560,458
+724,Platinum_Students_Mobile,B,15872,1440
+725,Business_High Value_Desktop,A,1461,776
+725,Business_SMB_Desktop,B,16975,996
+726,Business_Prospecting_Mobile,A,3635,880
+726,Gold_Students_Desktop,B,9152,296
+727,Platinum_SMB_Desktop,A,1778,199
+727,Gold_Students_Mobile,B,1196,583
+728,Gold_High Value_Mobile,A,1860,308
+728,Business_High Value_Desktop,B,9513,764
+729,Business_Prospecting_Mobile,A,10921,1510
+729,Travel_High Value_Desktop,B,15897,1865
+730,Gold_Prospecting_Desktop,A,17395,1290
+730,Travel_Prospecting_Desktop,B,3500,542
+731,Cashback_Prospecting_Desktop,A,18721,1155
+731,Cashback_SMB_Desktop,B,8732,1379
+732,Cashback_Remarketing_Desktop,A,2200,1892
+732,Travel_High Value_Desktop,B,12426,845
+733,Travel_Prospecting_Desktop,A,7246,728
+733,Business_Remarketing_Mobile,B,14546,1403
+734,Cashback_High Value_Desktop,A,15256,147
+734,Cashback_SMB_Desktop,B,12529,816
+735,Travel_Prospecting_Desktop,A,16672,1931
+735,Travel_Prospecting_Desktop,B,18342,1429
+736,Platinum_High Value_Mobile,A,17846,521
+736,Platinum_High Value_Mobile,B,7206,709
+737,Business_Remarketing_Mobile,A,10160,800
+737,Platinum_High Value_Mobile,B,9737,274
+738,Gold_SMB_Desktop,A,7165,981
+738,Platinum_SMB_Desktop,B,13625,1736
+739,Travel_Prospecting_Desktop,A,9555,1738
+739,Travel_Students_Desktop,B,2620,798
+740,Cashback_High Value_Desktop,A,19557,57
+740,Platinum_Remarketing_Mobile,B,14525,1767
+741,Platinum_Students_Desktop,A,14947,823
+741,Platinum_Remarketing_Desktop,B,15036,1553
+742,Business_Prospecting_Desktop,A,2791,106
+742,Platinum_Remarketing_Mobile,B,4682,889
+743,Cashback_High Value_Desktop,A,7488,1746
+743,Platinum_SMB_Mobile,B,10996,627
+744,Gold_Remarketing_Mobile,A,18618,233
+744,Gold_Students_Desktop,B,2606,1268
+745,Business_Remarketing_Desktop,A,5970,563
+745,Business_High Value_Mobile,B,16959,1147
+746,Platinum_Prospecting_Mobile,A,9185,1270
+746,Cashback_Prospecting_Mobile,B,9680,991
+747,Gold_Students_Mobile,A,5079,1058
+747,Cashback_Prospecting_Desktop,B,8486,466
+748,Gold_Students_Mobile,A,3373,1376
+748,Travel_High Value_Desktop,B,7564,363
+749,Platinum_High Value_Desktop,A,2996,1653
+749,Travel_Remarketing_Desktop,B,9985,169
+750,Cashback_Remarketing_Mobile,A,13846,68
+750,Platinum_SMB_Desktop,B,18040,763
+751,Travel_Prospecting_Desktop,A,11058,1716
+751,Cashback_Prospecting_Mobile,B,11957,697
+752,Business_SMB_Mobile,A,13214,1539
+752,Gold_Remarketing_Mobile,B,4349,947
+753,Platinum_High Value_Desktop,A,5646,558
+753,Platinum_SMB_Mobile,B,18246,152
+754,Platinum_Prospecting_Mobile,A,16736,507
+754,Business_Remarketing_Desktop,B,17488,517
+755,Business_Prospecting_Desktop,A,8537,549
+755,Business_Remarketing_Mobile,B,14922,1935
+756,Gold_High Value_Desktop,A,18250,824
+756,Travel_Prospecting_Mobile,B,17685,1802
+757,Business_Remarketing_Desktop,A,9988,831
+757,Cashback_Remarketing_Mobile,B,11715,1915
+758,Cashback_SMB_Desktop,A,7803,191
+758,Travel_SMB_Mobile,B,18732,210
+759,Gold_Students_Desktop,A,9475,1786
+759,Travel_Remarketing_Desktop,B,6077,1193
+760,Cashback_Students_Desktop,A,9283,836
+760,Platinum_High Value_Desktop,B,10369,535
+761,Travel_Students_Desktop,A,14873,1094
+761,Travel_SMB_Mobile,B,7124,359
+762,Gold_Students_Mobile,A,6032,1956
+762,Platinum_High Value_Desktop,B,7004,1901
+763,Platinum_Remarketing_Mobile,A,18367,720
+763,Business_High Value_Mobile,B,2237,948
+764,Cashback_Students_Mobile,A,13039,1574
+764,Platinum_Remarketing_Desktop,B,13566,1141
+765,Gold_Students_Desktop,A,8755,721
+765,Cashback_Students_Desktop,B,17539,352
+766,Business_Students_Mobile,A,10878,996
+766,Travel_High Value_Mobile,B,4352,510
+767,Business_Students_Desktop,A,6059,1027
+767,Business_SMB_Desktop,B,14928,1275
+768,Gold_Students_Mobile,A,6952,1858
+768,Platinum_Students_Mobile,B,8000,1993
+769,Platinum_High Value_Mobile,A,13650,1668
+769,Gold_Students_Desktop,B,8309,1893
+770,Business_SMB_Desktop,A,4394,1136
+770,Business_High Value_Desktop,B,15320,466
+771,Travel_Prospecting_Mobile,A,12363,183
+771,Cashback_Prospecting_Mobile,B,19192,1308
+772,Travel_Prospecting_Mobile,A,15805,231
+772,Platinum_High Value_Mobile,B,8334,1509
+773,Cashback_Remarketing_Desktop,A,15899,1113
+773,Business_Prospecting_Mobile,B,15390,1506
+774,Travel_Prospecting_Mobile,A,15026,421
+774,Cashback_Remarketing_Desktop,B,15207,1196
+775,Travel_Students_Desktop,A,14586,1578
+775,Business_High Value_Desktop,B,12253,981
+776,Gold_High Value_Mobile,A,8902,801
+776,Cashback_Students_Desktop,B,9858,708
+777,Travel_Remarketing_Mobile,A,2894,1583
+777,Business_High Value_Mobile,B,18421,597
+778,Platinum_Students_Desktop,A,10348,690
+778,Business_Remarketing_Desktop,B,16190,348
+779,Travel_High Value_Desktop,A,8727,1150
+779,Travel_Prospecting_Desktop,B,6529,714
+780,Business_Students_Desktop,A,11195,381
+780,Travel_Remarketing_Desktop,B,5649,1998
+781,Gold_Remarketing_Desktop,A,7502,268
+781,Cashback_Students_Desktop,B,7180,139
+782,Gold_High Value_Mobile,A,14421,377
+782,Platinum_Students_Desktop,B,13775,1737
+783,Platinum_Students_Desktop,A,6019,1349
+783,Cashback_SMB_Desktop,B,6544,864
+784,Gold_SMB_Mobile,A,17189,943
+784,Travel_High Value_Mobile,B,2092,517
+785,Cashback_High Value_Mobile,A,16475,1906
+785,Gold_Students_Desktop,B,6081,1161
+786,Gold_Remarketing_Desktop,A,12526,283
+786,Gold_Students_Desktop,B,15201,1514
+787,Gold_SMB_Desktop,A,11017,329
+787,Cashback_Students_Mobile,B,8234,1032
+788,Platinum_Remarketing_Mobile,A,12718,299
+788,Business_Prospecting_Mobile,B,11395,1811
+789,Travel_Remarketing_Desktop,A,12308,250
+789,Business_Prospecting_Mobile,B,14243,145
+790,Gold_Prospecting_Mobile,A,12790,667
+790,Business_High Value_Desktop,B,18846,1261
+791,Travel_Students_Desktop,A,2336,1332
+791,Travel_SMB_Desktop,B,8396,1687
+792,Cashback_SMB_Desktop,A,19307,1938
+792,Cashback_SMB_Desktop,B,2276,766
+793,Cashback_Remarketing_Mobile,A,7899,1559
+793,Travel_Prospecting_Desktop,B,9387,58
+794,Travel_Students_Desktop,A,19306,50
+794,Platinum_Students_Mobile,B,11194,574
+795,Platinum_Students_Mobile,A,7365,790
+795,Platinum_High Value_Mobile,B,4061,1094
+796,Gold_Students_Desktop,A,10740,380
+796,Cashback_Remarketing_Desktop,B,14664,982
+797,Travel_Remarketing_Mobile,A,5931,1406
+797,Platinum_Remarketing_Desktop,B,2013,808
+798,Travel_Prospecting_Mobile,A,11002,723
+798,Cashback_High Value_Mobile,B,5652,754
+799,Platinum_High Value_Mobile,A,8158,358
+799,Gold_Remarketing_Desktop,B,13407,1142
+800,Gold_High Value_Desktop,A,17208,1689
+800,Gold_Students_Mobile,B,10064,580
+801,Travel_Students_Desktop,A,6959,518
+801,Cashback_Remarketing_Mobile,B,18523,1809
+802,Gold_Prospecting_Mobile,A,10837,1260
+802,Business_High Value_Mobile,B,19749,1974
+803,Business_Prospecting_Mobile,A,5050,693
+803,Platinum_High Value_Desktop,B,2352,497
+804,Travel_SMB_Desktop,A,14693,1317
+804,Travel_SMB_Desktop,B,5149,1648
+805,Cashback_SMB_Desktop,A,9747,1139
+805,Platinum_SMB_Desktop,B,9642,1644
+806,Cashback_SMB_Mobile,A,2370,373
+806,Gold_Students_Mobile,B,3337,1992
+807,Travel_Students_Desktop,A,6942,1280
+807,Cashback_Prospecting_Desktop,B,5343,468
+808,Travel_High Value_Mobile,A,1175,1053
+808,Cashback_Students_Desktop,B,3942,103
+809,Platinum_Prospecting_Desktop,A,7755,1558
+809,Gold_Prospecting_Desktop,B,19966,1267
+810,Gold_SMB_Mobile,A,2372,1934
+810,Gold_Remarketing_Desktop,B,8660,1535
+811,Gold_SMB_Mobile,A,9414,391
+811,Business_SMB_Mobile,B,13711,1776
+812,Travel_SMB_Mobile,A,16999,1992
+812,Cashback_High Value_Desktop,B,13976,996
+813,Cashback_High Value_Mobile,A,19014,1097
+813,Travel_Prospecting_Mobile,B,6072,69
+814,Cashback_SMB_Desktop,A,4204,335
+814,Cashback_Students_Mobile,B,5897,1412
+815,Business_High Value_Mobile,A,13440,1012
+815,Travel_Prospecting_Mobile,B,6975,421
+816,Gold_Prospecting_Desktop,A,13455,147
+816,Gold_Prospecting_Desktop,B,10617,1853
+817,Platinum_Prospecting_Mobile,A,8518,339
+817,Platinum_Prospecting_Desktop,B,5481,822
+818,Travel_Students_Desktop,A,13053,684
+818,Platinum_SMB_Mobile,B,2132,736
+819,Gold_Students_Mobile,A,17522,568
+819,Gold_Prospecting_Mobile,B,2603,640
+820,Business_Prospecting_Mobile,A,12643,107
+820,Travel_Prospecting_Mobile,B,9759,1638
+821,Gold_Students_Mobile,A,7255,1290
+821,Business_Remarketing_Desktop,B,4068,1923
+822,Gold_Remarketing_Mobile,A,3799,1289
+822,Business_High Value_Desktop,B,13399,649
+823,Gold_SMB_Mobile,A,3614,400
+823,Business_Remarketing_Mobile,B,7669,1432
+824,Cashback_Students_Mobile,A,3014,699
+824,Cashback_SMB_Desktop,B,8673,1333
+825,Platinum_High Value_Desktop,A,1446,1135
+825,Gold_Remarketing_Mobile,B,3688,615
+826,Cashback_Prospecting_Mobile,A,18095,267
+826,Cashback_Prospecting_Mobile,B,1884,1576
+827,Gold_Prospecting_Desktop,A,11735,1654
+827,Gold_High Value_Mobile,B,4810,655
+828,Business_Students_Mobile,A,9908,1652
+828,Travel_Remarketing_Mobile,B,7223,937
+829,Cashback_Students_Mobile,A,19617,1521
+829,Travel_Remarketing_Desktop,B,1988,1960
+830,Gold_High Value_Mobile,A,16993,249
+830,Gold_High Value_Mobile,B,8600,453
+831,Platinum_High Value_Mobile,A,19897,337
+831,Cashback_Prospecting_Mobile,B,19159,1986
+832,Cashback_Students_Mobile,A,2418,1057
+832,Platinum_High Value_Desktop,B,17262,87
+833,Platinum_Students_Desktop,A,7731,431
+833,Business_High Value_Mobile,B,12535,1054
+834,Cashback_Students_Desktop,A,15941,1176
+834,Business_Prospecting_Mobile,B,1864,265
+835,Cashback_Prospecting_Mobile,A,18595,1386
+835,Cashback_High Value_Desktop,B,6409,202
+836,Business_High Value_Desktop,A,14071,291
+836,Travel_Students_Desktop,B,8346,359
+837,Travel_SMB_Mobile,A,4948,1241
+837,Travel_High Value_Mobile,B,4039,380
+838,Travel_Prospecting_Mobile,A,19915,267
+838,Business_Students_Desktop,B,18773,174
+839,Gold_Students_Desktop,A,15700,1978
+839,Business_Remarketing_Desktop,B,12261,1973
+840,Platinum_High Value_Mobile,A,8630,713
+840,Cashback_Students_Desktop,B,17474,317
+841,Business_SMB_Mobile,A,3965,1304
+841,Gold_SMB_Desktop,B,6911,858
+842,Platinum_Students_Mobile,A,11445,529
+842,Cashback_High Value_Mobile,B,1400,1434
+843,Business_High Value_Mobile,A,4510,162
+843,Platinum_SMB_Mobile,B,17699,925
+844,Gold_SMB_Desktop,A,8148,440
+844,Travel_SMB_Mobile,B,10650,840
+845,Gold_Remarketing_Mobile,A,10230,641
+845,Cashback_Prospecting_Mobile,B,16117,949
+846,Platinum_High Value_Mobile,A,4210,1443
+846,Cashback_Remarketing_Mobile,B,3866,1389
+847,Platinum_SMB_Desktop,A,14016,1651
+847,Travel_Remarketing_Desktop,B,16860,550
+848,Platinum_SMB_Desktop,A,1910,274
+848,Platinum_Students_Mobile,B,18227,1255
+849,Business_Students_Desktop,A,6706,862
+849,Platinum_SMB_Desktop,B,15922,1055
+850,Gold_High Value_Mobile,A,19802,1129
+850,Business_Prospecting_Mobile,B,3624,1567
+851,Travel_Remarketing_Mobile,A,16002,1969
+851,Travel_High Value_Desktop,B,15763,704
+852,Gold_Students_Mobile,A,10339,1453
+852,Gold_Students_Mobile,B,12827,991
+853,Platinum_High Value_Mobile,A,7200,1220
+853,Travel_Remarketing_Mobile,B,2034,108
+854,Cashback_High Value_Desktop,A,5681,1421
+854,Cashback_Prospecting_Mobile,B,7692,1356
+855,Travel_SMB_Desktop,A,18351,1545
+855,Business_High Value_Desktop,B,3703,488
+856,Platinum_High Value_Desktop,A,14892,744
+856,Travel_Students_Desktop,B,4903,1287
+857,Gold_Remarketing_Mobile,A,12212,1302
+857,Gold_Remarketing_Desktop,B,3188,491
+858,Business_Students_Mobile,A,9452,1124
+858,Cashback_Students_Mobile,B,10184,974
+859,Business_High Value_Mobile,A,16090,873
+859,Business_Prospecting_Desktop,B,5069,1040
+860,Business_SMB_Mobile,A,19203,1495
+860,Gold_Students_Mobile,B,13495,752
+861,Platinum_Prospecting_Desktop,A,14279,404
+861,Gold_SMB_Desktop,B,16620,1391
+862,Cashback_High Value_Mobile,A,13748,1518
+862,Business_SMB_Mobile,B,16381,100
+863,Cashback_SMB_Mobile,A,12623,903
+863,Travel_Prospecting_Mobile,B,6724,984
+864,Travel_SMB_Mobile,A,19045,305
+864,Platinum_Prospecting_Mobile,B,15073,286
+865,Platinum_Prospecting_Mobile,A,19416,1814
+865,Cashback_Students_Mobile,B,2896,1541
+866,Cashback_SMB_Mobile,A,16493,258
+866,Travel_SMB_Mobile,B,9832,136
+867,Platinum_High Value_Desktop,A,4943,645
+867,Gold_Prospecting_Desktop,B,10153,1895
+868,Gold_Students_Mobile,A,8656,1621
+868,Business_High Value_Mobile,B,7072,964
+869,Business_High Value_Mobile,A,7499,501
+869,Cashback_SMB_Mobile,B,14604,1069
+870,Cashback_Prospecting_Mobile,A,2020,840
+870,Cashback_Students_Desktop,B,14799,1660
+871,Gold_High Value_Desktop,A,16667,110
+871,Gold_SMB_Desktop,B,6640,50
+872,Travel_High Value_Desktop,A,8714,692
+872,Platinum_Prospecting_Mobile,B,18256,1761
+873,Platinum_Remarketing_Desktop,A,8463,132
+873,Travel_Remarketing_Mobile,B,3055,632
+874,Platinum_Prospecting_Mobile,A,8310,545
+874,Platinum_High Value_Mobile,B,8537,559
+875,Business_SMB_Mobile,A,8254,1760
+875,Travel_Remarketing_Mobile,B,12504,1430
+876,Travel_Students_Desktop,A,10330,322
+876,Travel_Students_Desktop,B,10572,1585
+877,Gold_Prospecting_Mobile,A,10227,1309
+877,Travel_High Value_Desktop,B,8351,315
+878,Business_Remarketing_Desktop,A,18335,341
+878,Gold_SMB_Desktop,B,10177,1814
+879,Platinum_SMB_Desktop,A,3105,1882
+879,Cashback_High Value_Mobile,B,7027,860
+880,Cashback_High Value_Mobile,A,10469,1272
+880,Travel_Remarketing_Mobile,B,3509,250
+881,Gold_Remarketing_Desktop,A,13864,495
+881,Platinum_SMB_Mobile,B,13634,1806
+882,Cashback_Students_Mobile,A,7049,1002
+882,Business_Students_Desktop,B,4529,1735
+883,Gold_Remarketing_Desktop,A,4677,214
+883,Business_Prospecting_Mobile,B,1088,1194
+884,Travel_Remarketing_Mobile,A,14853,335
+884,Gold_Remarketing_Mobile,B,12353,850
+885,Cashback_SMB_Mobile,A,9255,160
+885,Gold_Remarketing_Desktop,B,14585,1442
+886,Gold_Students_Desktop,A,15473,583
+886,Platinum_SMB_Desktop,B,9966,219
+887,Gold_Remarketing_Desktop,A,1643,193
+887,Cashback_Students_Mobile,B,19185,489
+888,Travel_Prospecting_Mobile,A,17153,1140
+888,Travel_SMB_Mobile,B,7888,1503
+889,Business_Prospecting_Desktop,A,15810,1346
+889,Gold_Remarketing_Mobile,B,17764,1833
+890,Gold_SMB_Mobile,A,17095,1148
+890,Platinum_Students_Desktop,B,19373,525
+891,Travel_High Value_Desktop,A,14734,834
+891,Travel_Remarketing_Mobile,B,11162,274
+892,Platinum_Students_Desktop,A,9598,932
+892,Gold_High Value_Mobile,B,11974,1693
+893,Cashback_High Value_Desktop,A,6943,911
+893,Platinum_SMB_Mobile,B,16012,1288
+894,Business_High Value_Desktop,A,6252,791
+894,Gold_Remarketing_Desktop,B,7789,951
+895,Gold_High Value_Mobile,A,5337,994
+895,Gold_SMB_Mobile,B,1715,1346
+896,Gold_Students_Desktop,A,11400,625
+896,Platinum_Prospecting_Mobile,B,2571,638
+897,Platinum_Remarketing_Mobile,A,6653,1179
+897,Platinum_High Value_Desktop,B,6597,1860
+898,Travel_High Value_Mobile,A,1448,1859
+898,Platinum_Students_Desktop,B,12915,1490
+899,Cashback_SMB_Desktop,A,11165,819
+899,Platinum_Students_Mobile,B,14829,624
+900,Platinum_Prospecting_Mobile,A,4323,1181
+900,Business_Remarketing_Desktop,B,10751,1674
+901,Business_Students_Desktop,A,15246,840
+901,Cashback_High Value_Mobile,B,18303,1276
+902,Cashback_SMB_Desktop,A,15671,438
+902,Cashback_High Value_Desktop,B,13683,538
+903,Cashback_SMB_Desktop,A,8272,1073
+903,Business_SMB_Mobile,B,4922,961
+904,Travel_Prospecting_Mobile,A,19962,1596
+904,Cashback_Prospecting_Mobile,B,12190,757
+905,Gold_Students_Mobile,A,2283,462
+905,Travel_Students_Desktop,B,16181,954
+906,Travel_Students_Mobile,A,11835,1199
+906,Gold_Students_Mobile,B,12583,1987
+907,Cashback_SMB_Mobile,A,10860,835
+907,Gold_High Value_Mobile,B,16782,1130
+908,Gold_High Value_Mobile,A,1381,983
+908,Travel_Students_Desktop,B,3777,1100
+909,Gold_Remarketing_Mobile,A,9472,247
+909,Cashback_High Value_Mobile,B,16431,1685
+910,Travel_Students_Mobile,A,13576,1804
+910,Travel_Students_Mobile,B,5775,252
+911,Business_SMB_Mobile,A,10248,1899
+911,Business_Prospecting_Desktop,B,18432,599
+912,Gold_Students_Mobile,A,12237,570
+912,Platinum_Prospecting_Desktop,B,13336,1918
+913,Platinum_High Value_Mobile,A,5800,835
+913,Gold_Prospecting_Desktop,B,5134,1056
+914,Gold_Students_Desktop,A,3119,515
+914,Cashback_SMB_Mobile,B,15640,626
+915,Travel_Prospecting_Mobile,A,16133,1065
+915,Platinum_High Value_Desktop,B,8891,1928
+916,Platinum_SMB_Mobile,A,18500,342
+916,Cashback_Remarketing_Desktop,B,1833,1873
+917,Gold_Prospecting_Mobile,A,4790,1127
+917,Travel_SMB_Desktop,B,3525,1484
+918,Cashback_Remarketing_Mobile,A,3160,1987
+918,Travel_High Value_Mobile,B,6563,1889
+919,Business_SMB_Desktop,A,6545,745
+919,Travel_Remarketing_Desktop,B,12859,1184
+920,Platinum_SMB_Desktop,A,14635,257
+920,Business_Students_Mobile,B,10818,172
+921,Platinum_Prospecting_Desktop,A,18961,1623
+921,Platinum_Remarketing_Desktop,B,13548,1382
+922,Cashback_Prospecting_Mobile,A,7292,1546
+922,Gold_Prospecting_Desktop,B,3210,1516
+923,Platinum_Remarketing_Mobile,A,18270,624
+923,Cashback_Remarketing_Desktop,B,15050,481
+924,Travel_Remarketing_Mobile,A,4423,1074
+924,Travel_SMB_Mobile,B,9045,1842
+925,Business_SMB_Desktop,A,2305,1938
+925,Platinum_High Value_Desktop,B,1442,187
+926,Platinum_High Value_Desktop,A,11393,1079
+926,Gold_Remarketing_Mobile,B,5643,1562
+927,Cashback_SMB_Desktop,A,7662,926
+927,Business_Students_Mobile,B,5327,1225
+928,Business_Prospecting_Mobile,A,15938,826
+928,Gold_Remarketing_Desktop,B,19837,1234
+929,Gold_Prospecting_Mobile,A,9967,576
+929,Platinum_Remarketing_Desktop,B,9857,1111
+930,Cashback_Remarketing_Desktop,A,2322,1557
+930,Cashback_SMB_Desktop,B,15995,1465
+931,Platinum_High Value_Mobile,A,8495,419
+931,Platinum_High Value_Mobile,B,2910,1931
+932,Gold_SMB_Desktop,A,4585,1016
+932,Business_High Value_Desktop,B,3542,1595
+933,Business_High Value_Mobile,A,12970,1731
+933,Travel_Prospecting_Desktop,B,2320,1099
+934,Gold_Remarketing_Mobile,A,12058,821
+934,Platinum_Remarketing_Desktop,B,7163,1754
+935,Business_Prospecting_Desktop,A,14976,796
+935,Gold_SMB_Mobile,B,3726,1273
+936,Platinum_Remarketing_Mobile,A,12085,1930
+936,Gold_Students_Desktop,B,19310,1539
+937,Business_Prospecting_Mobile,A,14604,1312
+937,Travel_Prospecting_Desktop,B,14429,1718
+938,Gold_Prospecting_Mobile,A,1053,1589
+938,Travel_High Value_Desktop,B,15931,924
+939,Travel_High Value_Desktop,A,19989,57
+939,Business_Students_Mobile,B,12615,1075
+940,Business_Remarketing_Mobile,A,15617,1972
+940,Platinum_SMB_Mobile,B,16205,1829
+941,Gold_Remarketing_Desktop,A,18161,847
+941,Gold_SMB_Mobile,B,14179,1208
+942,Travel_SMB_Mobile,A,1009,1571
+942,Travel_High Value_Mobile,B,7968,861
+943,Platinum_SMB_Mobile,A,13563,1737
+943,Platinum_SMB_Desktop,B,10623,1191
+944,Business_Students_Desktop,A,7489,824
+944,Travel_Remarketing_Mobile,B,15266,1173
+945,Cashback_High Value_Mobile,A,1989,1330
+945,Travel_SMB_Desktop,B,3709,1871
+946,Gold_Prospecting_Mobile,A,3092,1313
+946,Business_Remarketing_Mobile,B,18629,625
+947,Cashback_High Value_Desktop,A,10979,1555
+947,Cashback_High Value_Mobile,B,14784,1643
+948,Business_High Value_Desktop,A,15737,1390
+948,Platinum_Remarketing_Mobile,B,9163,119
+949,Platinum_Students_Mobile,A,17520,498
+949,Gold_SMB_Mobile,B,1017,1675
+950,Business_Students_Mobile,A,14462,1048
+950,Platinum_SMB_Desktop,B,10355,1360
+951,Cashback_Students_Mobile,A,5170,751
+951,Travel_Students_Mobile,B,1768,217
+952,Gold_Prospecting_Desktop,A,6312,665
+952,Cashback_Students_Desktop,B,10670,627
+953,Platinum_Remarketing_Desktop,A,12319,1980
+953,Cashback_Prospecting_Mobile,B,3257,670
+954,Gold_Remarketing_Desktop,A,7382,101
+954,Gold_Prospecting_Desktop,B,10532,1006
+955,Platinum_Students_Mobile,A,10603,367
+955,Travel_Prospecting_Mobile,B,15045,922
+956,Gold_Students_Mobile,A,18192,1326
+956,Gold_Prospecting_Desktop,B,10640,855
+957,Travel_Remarketing_Desktop,A,12972,1935
+957,Travel_Remarketing_Desktop,B,5264,686
+958,Platinum_SMB_Mobile,A,10444,1928
+958,Business_Remarketing_Mobile,B,7683,102
+959,Business_High Value_Mobile,A,9592,257
+959,Gold_High Value_Desktop,B,4599,268
+960,Gold_High Value_Mobile,A,6328,1130
+960,Cashback_Students_Mobile,B,14166,1544
+961,Business_Prospecting_Mobile,A,12833,937
+961,Cashback_Students_Desktop,B,7060,999
+962,Cashback_High Value_Mobile,A,13150,850
+962,Platinum_Remarketing_Desktop,B,10892,647
+963,Gold_Prospecting_Desktop,A,9751,1880
+963,Gold_Remarketing_Mobile,B,3993,1537
+964,Travel_High Value_Mobile,A,13413,1077
+964,Platinum_SMB_Mobile,B,14857,735
+965,Travel_High Value_Desktop,A,3045,671
+965,Gold_Remarketing_Desktop,B,9346,1068
+966,Travel_Prospecting_Mobile,A,2655,1792
+966,Platinum_Remarketing_Mobile,B,19135,450
+967,Cashback_High Value_Mobile,A,7548,336
+967,Gold_Students_Mobile,B,3884,1368
+968,Platinum_Remarketing_Desktop,A,2489,1552
+968,Travel_Prospecting_Mobile,B,2518,788
+969,Cashback_Students_Mobile,A,6822,711
+969,Business_Prospecting_Desktop,B,9364,391
+970,Business_High Value_Desktop,A,13266,1137
+970,Travel_High Value_Desktop,B,7417,1652
+971,Travel_Prospecting_Desktop,A,12736,963
+971,Platinum_SMB_Mobile,B,16903,230
+972,Platinum_High Value_Desktop,A,2344,1812
+972,Gold_Students_Desktop,B,16981,292
+973,Gold_High Value_Mobile,A,13809,1675
+973,Platinum_Students_Desktop,B,17125,853
+974,Cashback_Remarketing_Mobile,A,13255,1926
+974,Business_Prospecting_Mobile,B,5563,1761
+975,Platinum_Prospecting_Mobile,A,18883,1961
+975,Business_High Value_Desktop,B,18718,674
+976,Travel_Remarketing_Desktop,A,3447,632
+976,Gold_High Value_Mobile,B,13413,1872
+977,Travel_Remarketing_Desktop,A,8990,1280
+977,Platinum_High Value_Mobile,B,14146,942
+978,Business_Students_Mobile,A,15105,800
+978,Business_Remarketing_Desktop,B,11073,691
+979,Business_Remarketing_Mobile,A,3009,1987
+979,Travel_Prospecting_Desktop,B,15437,233
+980,Travel_Students_Desktop,A,10411,1211
+980,Gold_Students_Mobile,B,18507,1701
+981,Travel_High Value_Mobile,A,1888,95
+981,Cashback_Students_Desktop,B,13966,1139
+982,Travel_Remarketing_Mobile,A,4821,1083
+982,Gold_SMB_Desktop,B,3730,1772
+983,Gold_High Value_Desktop,A,10412,1049
+983,Gold_High Value_Desktop,B,15944,893
+984,Platinum_Remarketing_Desktop,A,15331,1952
+984,Cashback_High Value_Desktop,B,8266,839
+985,Travel_Remarketing_Mobile,A,12630,154
+985,Business_Students_Mobile,B,4481,582
+986,Business_SMB_Desktop,A,10249,1890
+986,Business_Students_Desktop,B,19405,1165
+987,Platinum_Prospecting_Desktop,A,14018,1844
+987,Travel_Prospecting_Mobile,B,15773,1499
+988,Cashback_Prospecting_Mobile,A,9229,461
+988,Travel_SMB_Desktop,B,15984,1782
+989,Business_High Value_Desktop,A,11297,1713
+989,Cashback_High Value_Desktop,B,15160,744
+990,Business_SMB_Mobile,A,11872,630
+990,Business_SMB_Desktop,B,14589,890
+991,Cashback_Remarketing_Mobile,A,3957,1711
+991,Platinum_Prospecting_Mobile,B,11955,1289
+992,Gold_Remarketing_Mobile,A,19128,1558
+992,Cashback_SMB_Mobile,B,17921,1319
+993,Gold_Remarketing_Mobile,A,15425,680
+993,Platinum_SMB_Desktop,B,10366,814
+994,Platinum_SMB_Desktop,A,10166,976
+994,Business_Prospecting_Mobile,B,14581,1328
+995,Platinum_High Value_Mobile,A,7506,1448
+995,Cashback_High Value_Desktop,B,1770,255
+996,Travel_SMB_Mobile,A,1364,666
+996,Gold_Prospecting_Mobile,B,4752,1124
+997,Platinum_Remarketing_Desktop,A,11549,76
+997,Business_High Value_Desktop,B,13804,1990
+998,Cashback_High Value_Desktop,A,11625,1672
+998,Cashback_High Value_Desktop,B,6770,1687
+999,Business_Prospecting_Desktop,A,11775,373
+999,Platinum_Prospecting_Mobile,B,9926,693
+1000,Platinum_SMB_Mobile,A,12300,1184
+1000,Cashback_SMB_Mobile,B,3053,502

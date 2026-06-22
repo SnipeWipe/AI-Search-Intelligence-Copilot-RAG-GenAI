@@ -1,0 +1,3001 @@
+Customer_ID,Channel,Revenue,Conversions
+1,Social,115.47,10
+2,Social,1431.29,1
+3,Email,7267.03,9
+4,Social,7907.56,10
+5,Affiliate,7687.4,3
+6,Display,3310.91,9
+7,Organic Search,8761.18,18
+8,Paid Search,8906.03,3
+9,Organic Search,8219.0,7
+10,Display,7396.65,16
+11,Display,8426.6,10
+12,Affiliate,6617.29,7
+13,Affiliate,9644.97,7
+14,Social,6337.57,5
+15,Organic Search,1734.9,11
+16,Organic Search,1907.94,7
+17,Email,4363.33,7
+18,Email,7222.67,4
+19,Affiliate,1489.88,12
+20,Email,2028.06,2
+21,Organic Search,864.01,8
+22,Social,1758.36,12
+23,Paid Search,2279.2,1
+24,Organic Search,5629.58,15
+25,Social,3945.55,8
+26,Paid Search,1028.76,7
+27,Social,1668.34,6
+28,Social,5247.05,5
+29,Email,1405.74,14
+30,Organic Search,7316.05,1
+31,Paid Search,1043.42,1
+32,Email,1982.78,11
+33,Paid Search,8772.52,19
+34,Affiliate,5382.38,5
+35,Paid Search,9892.78,14
+36,Display,1609.72,15
+37,Paid Search,866.76,9
+38,Social,851.13,5
+39,Paid Search,9359.89,3
+40,Affiliate,6467.81,14
+41,Email,3436.94,11
+42,Affiliate,3902.45,13
+43,Display,7031.64,2
+44,Display,6204.96,16
+45,Affiliate,3622.69,6
+46,Social,6931.14,11
+47,Email,3491.67,14
+48,Display,4578.6,10
+49,Display,8522.9,7
+50,Affiliate,1270.75,1
+51,Display,4381.19,8
+52,Organic Search,1009.89,2
+53,Email,483.52,3
+54,Display,9664.14,12
+55,Email,5669.06,3
+56,Social,9773.32,17
+57,Email,8602.83,8
+58,Social,9854.31,19
+59,Organic Search,9352.74,4
+60,Social,8804.61,11
+61,Affiliate,7270.0,12
+62,Social,7373.17,5
+63,Paid Search,9432.71,2
+64,Social,9772.39,11
+65,Organic Search,9445.86,18
+66,Social,4883.56,15
+67,Social,8781.8,17
+68,Organic Search,5151.19,5
+69,Social,5686.09,19
+70,Social,8258.03,5
+71,Email,8317.91,8
+72,Affiliate,8255.88,19
+73,Paid Search,8301.17,12
+74,Social,4326.83,4
+75,Display,5351.77,14
+76,Organic Search,2602.13,16
+77,Display,4688.04,3
+78,Affiliate,9611.09,6
+79,Display,8184.06,2
+80,Display,3690.5,1
+81,Affiliate,6365.9,10
+82,Affiliate,2608.74,13
+83,Display,2150.67,2
+84,Organic Search,4234.03,18
+85,Paid Search,1800.85,3
+86,Affiliate,5591.94,5
+87,Display,4305.48,4
+88,Affiliate,1468.17,5
+89,Affiliate,7034.68,7
+90,Email,7237.93,15
+91,Social,8915.34,14
+92,Display,7150.01,9
+93,Display,2250.33,14
+94,Social,6663.72,18
+95,Social,9765.4,8
+96,Affiliate,8538.85,12
+97,Organic Search,4395.4,10
+98,Affiliate,6991.07,9
+99,Social,260.54,2
+100,Paid Search,2267.9,16
+101,Email,4050.74,12
+102,Display,4166.46,17
+103,Organic Search,8796.34,4
+104,Display,9891.88,17
+105,Paid Search,4602.6,4
+106,Affiliate,3963.25,1
+107,Display,1400.67,1
+108,Email,2417.38,14
+109,Paid Search,1484.31,4
+110,Display,3529.97,3
+111,Affiliate,7498.6,1
+112,Social,316.92,19
+113,Social,8727.65,18
+114,Affiliate,7254.25,12
+115,Email,3749.24,4
+116,Paid Search,5301.16,2
+117,Organic Search,1178.68,14
+118,Social,7811.86,2
+119,Social,7838.12,10
+120,Display,3843.68,1
+121,Paid Search,2680.67,13
+122,Social,5887.98,2
+123,Display,3295.11,5
+124,Organic Search,7070.87,2
+125,Organic Search,7154.99,1
+126,Social,9786.54,13
+127,Social,3592.01,18
+128,Social,653.02,8
+129,Paid Search,8860.7,1
+130,Social,194.36,9
+131,Display,4530.29,6
+132,Organic Search,2646.61,19
+133,Paid Search,4162.4,8
+134,Organic Search,1827.51,8
+135,Paid Search,6777.18,19
+136,Organic Search,5659.83,17
+137,Affiliate,4100.96,19
+138,Social,6678.39,7
+139,Social,926.09,8
+140,Display,8594.71,19
+141,Social,4597.54,2
+142,Organic Search,6196.24,8
+143,Display,2839.08,14
+144,Organic Search,9723.52,2
+145,Email,4568.11,18
+146,Display,1940.81,16
+147,Display,1674.13,8
+148,Paid Search,2849.06,18
+149,Affiliate,7749.47,7
+150,Organic Search,3148.9,10
+151,Organic Search,915.25,19
+152,Organic Search,4525.54,10
+153,Social,2221.63,16
+154,Paid Search,9217.15,13
+155,Paid Search,3792.48,5
+156,Organic Search,3220.21,17
+157,Social,4538.5,11
+158,Organic Search,384.28,1
+159,Social,5356.56,13
+160,Affiliate,9869.12,1
+161,Email,3497.13,7
+162,Paid Search,9357.94,6
+163,Email,1306.09,13
+164,Display,5940.78,14
+165,Paid Search,1777.56,8
+166,Email,8803.98,3
+167,Email,7276.43,5
+168,Display,8763.11,16
+169,Social,6954.81,12
+170,Affiliate,6757.32,8
+171,Affiliate,5332.93,4
+172,Affiliate,5501.3,17
+173,Display,7851.48,5
+174,Social,5770.33,10
+175,Affiliate,4385.14,4
+176,Display,7105.11,7
+177,Paid Search,9643.37,2
+178,Affiliate,9105.06,9
+179,Email,3321.4,19
+180,Email,3930.32,7
+181,Social,9579.1,2
+182,Display,2405.24,1
+183,Organic Search,1365.04,10
+184,Paid Search,4816.81,18
+185,Organic Search,4514.88,6
+186,Email,5523.53,17
+187,Affiliate,416.42,14
+188,Display,2142.89,17
+189,Social,8046.17,15
+190,Social,3667.83,8
+191,Affiliate,9173.89,17
+192,Affiliate,5731.46,19
+193,Social,310.57,5
+194,Email,9783.83,19
+195,Paid Search,3238.71,6
+196,Organic Search,3752.47,1
+197,Email,9115.37,8
+198,Display,8792.31,1
+199,Social,6881.72,7
+200,Display,201.25,3
+201,Email,135.5,8
+202,Display,1864.65,7
+203,Organic Search,7649.03,13
+204,Social,8366.05,17
+205,Organic Search,2325.48,3
+206,Social,879.11,16
+207,Social,4325.67,11
+208,Display,9296.14,2
+209,Display,5292.44,13
+210,Social,7356.19,10
+211,Social,7114.41,14
+212,Display,8556.18,9
+213,Display,9843.7,19
+214,Email,9804.95,3
+215,Display,5446.38,19
+216,Organic Search,3401.52,12
+217,Email,7902.83,14
+218,Affiliate,7055.43,4
+219,Organic Search,7858.6,16
+220,Email,3069.86,10
+221,Email,5873.03,3
+222,Social,1933.5,10
+223,Email,2273.14,4
+224,Affiliate,3755.3,15
+225,Paid Search,7134.12,3
+226,Email,3114.52,17
+227,Email,3352.23,12
+228,Organic Search,8011.39,5
+229,Email,9141.92,17
+230,Display,8415.92,8
+231,Affiliate,1929.64,14
+232,Organic Search,4631.56,15
+233,Organic Search,7061.48,8
+234,Organic Search,7150.51,17
+235,Organic Search,4028.71,13
+236,Display,4263.27,6
+237,Organic Search,5815.51,1
+238,Affiliate,6812.11,14
+239,Organic Search,827.24,10
+240,Display,6482.71,18
+241,Affiliate,5171.28,18
+242,Email,476.15,6
+243,Paid Search,690.0,17
+244,Email,2073.86,4
+245,Affiliate,3620.24,17
+246,Display,7631.76,2
+247,Email,3216.08,4
+248,Organic Search,7657.69,17
+249,Display,5028.36,15
+250,Display,2172.25,4
+251,Paid Search,7792.17,1
+252,Paid Search,7249.77,8
+253,Affiliate,456.64,9
+254,Affiliate,7375.93,10
+255,Email,6718.82,12
+256,Organic Search,3817.36,7
+257,Paid Search,6330.86,5
+258,Email,1600.43,8
+259,Email,5918.5,18
+260,Social,1809.27,13
+261,Social,1217.09,9
+262,Organic Search,2087.84,5
+263,Social,1301.62,10
+264,Organic Search,1324.96,7
+265,Organic Search,8844.45,16
+266,Affiliate,9001.11,2
+267,Display,7367.32,10
+268,Email,7844.47,10
+269,Social,3664.78,13
+270,Paid Search,5485.59,2
+271,Organic Search,8165.7,5
+272,Organic Search,4942.36,4
+273,Email,7395.88,11
+274,Email,4291.8,14
+275,Social,3527.81,15
+276,Social,8484.05,5
+277,Organic Search,3393.28,12
+278,Display,4808.48,17
+279,Affiliate,1170.52,2
+280,Paid Search,5147.97,2
+281,Paid Search,6096.5,17
+282,Organic Search,3967.5,1
+283,Email,6502.34,5
+284,Affiliate,4469.22,13
+285,Organic Search,4320.27,17
+286,Organic Search,4284.22,11
+287,Paid Search,8609.76,12
+288,Affiliate,7304.08,7
+289,Organic Search,4620.99,5
+290,Affiliate,6423.25,11
+291,Organic Search,8254.78,9
+292,Email,4614.15,11
+293,Display,8458.68,6
+294,Paid Search,1853.47,18
+295,Display,5970.03,15
+296,Affiliate,3664.83,17
+297,Email,1082.79,12
+298,Social,8928.26,19
+299,Affiliate,4947.3,5
+300,Affiliate,5451.01,5
+301,Affiliate,5223.66,7
+302,Organic Search,5473.14,4
+303,Display,5900.53,1
+304,Organic Search,8728.28,17
+305,Organic Search,9482.68,11
+306,Paid Search,6231.88,4
+307,Display,3821.92,18
+308,Affiliate,5198.71,11
+309,Social,7058.74,18
+310,Paid Search,5338.72,18
+311,Organic Search,2679.84,4
+312,Display,6108.9,1
+313,Display,8899.13,5
+314,Paid Search,1154.78,18
+315,Social,801.91,17
+316,Paid Search,9753.08,2
+317,Social,8052.89,4
+318,Paid Search,4184.17,19
+319,Display,385.56,18
+320,Organic Search,9342.91,11
+321,Social,7962.74,13
+322,Display,6113.63,15
+323,Social,7943.38,11
+324,Social,6321.61,1
+325,Social,6770.29,17
+326,Affiliate,9055.5,11
+327,Paid Search,4125.82,10
+328,Affiliate,5328.78,12
+329,Social,7832.83,15
+330,Affiliate,2781.76,5
+331,Organic Search,6054.36,9
+332,Social,3564.39,13
+333,Paid Search,602.57,6
+334,Social,1630.74,1
+335,Paid Search,1223.32,8
+336,Display,5533.95,15
+337,Organic Search,1287.01,5
+338,Paid Search,5472.48,5
+339,Email,7365.81,17
+340,Email,6357.68,18
+341,Display,7516.03,13
+342,Social,4965.11,7
+343,Organic Search,7407.76,1
+344,Affiliate,7936.29,16
+345,Display,2583.07,5
+346,Social,8579.07,16
+347,Display,9369.31,3
+348,Social,7339.7,11
+349,Social,9715.78,9
+350,Email,740.75,12
+351,Display,1586.82,15
+352,Social,9037.91,11
+353,Affiliate,405.76,13
+354,Organic Search,5921.7,6
+355,Organic Search,2760.79,14
+356,Display,4605.26,5
+357,Paid Search,3924.52,19
+358,Affiliate,1963.7,16
+359,Email,5899.49,13
+360,Affiliate,2105.27,14
+361,Email,4131.1,4
+362,Organic Search,7727.33,6
+363,Email,6727.01,7
+364,Display,6530.78,18
+365,Paid Search,5052.2,19
+366,Affiliate,1968.31,7
+367,Display,4508.89,10
+368,Organic Search,4750.53,17
+369,Email,2108.65,1
+370,Display,6055.13,6
+371,Paid Search,5180.13,12
+372,Affiliate,3338.67,17
+373,Social,2152.54,17
+374,Email,1509.38,5
+375,Email,8818.73,17
+376,Social,9397.33,14
+377,Email,8207.42,4
+378,Display,5980.86,5
+379,Affiliate,9620.48,8
+380,Affiliate,4726.26,6
+381,Organic Search,542.7,8
+382,Email,3798.42,5
+383,Organic Search,1872.78,14
+384,Organic Search,6946.29,1
+385,Affiliate,3030.1,17
+386,Display,4747.71,3
+387,Affiliate,9350.43,5
+388,Social,9925.9,8
+389,Affiliate,5396.22,8
+390,Email,2826.24,18
+391,Paid Search,4450.6,6
+392,Email,8765.86,9
+393,Display,2457.39,12
+394,Display,719.35,18
+395,Social,8197.66,10
+396,Organic Search,5346.06,13
+397,Paid Search,8979.52,9
+398,Email,6884.8,2
+399,Paid Search,451.32,5
+400,Organic Search,7894.18,1
+401,Organic Search,1989.05,1
+402,Paid Search,1354.93,5
+403,Display,5667.61,12
+404,Organic Search,4462.79,9
+405,Affiliate,3087.16,18
+406,Email,5927.58,4
+407,Paid Search,7457.97,10
+408,Organic Search,4984.21,6
+409,Display,7902.3,7
+410,Paid Search,4244.08,7
+411,Display,5038.57,5
+412,Email,5489.65,3
+413,Social,3223.04,15
+414,Paid Search,3698.16,9
+415,Email,5164.12,16
+416,Display,8845.2,18
+417,Display,5548.39,19
+418,Display,1175.71,12
+419,Paid Search,7336.58,14
+420,Email,5211.76,13
+421,Display,4054.59,4
+422,Display,6944.64,17
+423,Social,1751.3,9
+424,Email,7874.71,9
+425,Affiliate,7191.97,2
+426,Email,1935.26,12
+427,Social,8479.23,18
+428,Display,2008.41,18
+429,Organic Search,6806.72,5
+430,Affiliate,3742.05,15
+431,Display,7581.04,11
+432,Organic Search,674.2,15
+433,Affiliate,2573.26,18
+434,Display,4757.9,13
+435,Email,7175.25,15
+436,Affiliate,6192.77,2
+437,Email,9544.94,2
+438,Organic Search,5634.32,17
+439,Paid Search,3087.92,4
+440,Paid Search,4393.36,9
+441,Display,846.94,16
+442,Social,1257.91,1
+443,Display,5224.04,7
+444,Organic Search,9759.34,3
+445,Organic Search,2520.9,12
+446,Email,7794.19,5
+447,Display,3729.29,3
+448,Social,414.67,12
+449,Display,1722.31,10
+450,Display,6253.81,14
+451,Display,2367.39,18
+452,Paid Search,8529.21,17
+453,Social,3732.48,12
+454,Display,2333.49,11
+455,Paid Search,7811.08,19
+456,Display,1672.74,18
+457,Social,9532.53,17
+458,Email,2454.18,7
+459,Paid Search,8171.09,14
+460,Organic Search,5216.61,12
+461,Organic Search,7417.28,16
+462,Paid Search,1465.69,12
+463,Organic Search,2162.47,1
+464,Organic Search,2062.6,14
+465,Organic Search,1429.48,14
+466,Social,2723.35,14
+467,Affiliate,8414.81,19
+468,Organic Search,7501.13,1
+469,Email,3133.39,10
+470,Social,3719.82,17
+471,Paid Search,7372.58,13
+472,Display,8254.92,13
+473,Affiliate,4297.63,4
+474,Paid Search,7432.49,4
+475,Social,5734.13,9
+476,Organic Search,9922.45,6
+477,Display,6936.25,16
+478,Display,7405.61,10
+479,Affiliate,8444.45,17
+480,Display,1511.85,7
+481,Affiliate,3738.0,8
+482,Affiliate,4965.75,2
+483,Social,1612.0,4
+484,Paid Search,3682.91,19
+485,Email,6887.94,16
+486,Display,2580.09,2
+487,Paid Search,4866.22,11
+488,Paid Search,1451.47,5
+489,Email,1229.52,14
+490,Email,3736.32,12
+491,Social,7296.69,6
+492,Email,5308.64,15
+493,Email,6320.61,10
+494,Display,4089.94,16
+495,Paid Search,5903.52,11
+496,Email,4892.34,16
+497,Organic Search,4033.55,14
+498,Social,338.6,16
+499,Email,8469.38,2
+500,Email,9527.69,10
+501,Email,5345.86,2
+502,Email,4524.33,5
+503,Social,7668.75,8
+504,Display,227.19,9
+505,Display,1470.92,17
+506,Social,2847.71,19
+507,Email,931.45,16
+508,Paid Search,554.27,10
+509,Affiliate,9393.84,2
+510,Email,1928.16,10
+511,Paid Search,5969.74,8
+512,Affiliate,5433.59,11
+513,Organic Search,2933.0,1
+514,Display,6510.63,9
+515,Display,3322.0,8
+516,Paid Search,4630.35,12
+517,Organic Search,3869.49,16
+518,Display,9115.8,11
+519,Organic Search,9311.64,1
+520,Display,3802.98,6
+521,Paid Search,2545.12,14
+522,Display,7391.78,2
+523,Display,3219.34,19
+524,Paid Search,4860.9,16
+525,Social,5483.32,2
+526,Social,9870.71,1
+527,Display,3891.61,18
+528,Social,4157.59,12
+529,Email,775.19,9
+530,Social,6663.06,2
+531,Organic Search,1991.26,5
+532,Email,6174.45,18
+533,Social,2495.65,4
+534,Email,9450.58,5
+535,Affiliate,897.84,17
+536,Email,9304.79,5
+537,Social,5552.4,18
+538,Organic Search,9377.6,8
+539,Organic Search,4982.12,10
+540,Email,545.96,15
+541,Social,2058.8,15
+542,Organic Search,3578.88,11
+543,Affiliate,9382.2,19
+544,Social,7617.2,7
+545,Social,6056.18,14
+546,Display,4452.44,13
+547,Display,4523.89,12
+548,Display,6560.87,3
+549,Affiliate,7230.83,16
+550,Social,4826.35,12
+551,Affiliate,8002.49,14
+552,Paid Search,5292.01,12
+553,Social,5196.69,4
+554,Organic Search,6519.41,7
+555,Organic Search,7962.51,5
+556,Organic Search,6010.53,15
+557,Paid Search,9236.08,8
+558,Email,8778.26,10
+559,Social,7721.91,2
+560,Display,4676.16,7
+561,Organic Search,6166.83,2
+562,Affiliate,5115.76,15
+563,Organic Search,161.33,10
+564,Email,6662.75,17
+565,Email,9164.42,15
+566,Email,5237.14,16
+567,Social,1788.07,1
+568,Organic Search,4648.8,6
+569,Paid Search,130.07,18
+570,Paid Search,7424.87,3
+571,Email,6718.17,19
+572,Paid Search,6551.37,12
+573,Social,4396.36,10
+574,Paid Search,3980.97,4
+575,Email,2799.34,6
+576,Paid Search,9169.73,4
+577,Organic Search,3750.88,1
+578,Social,5591.66,10
+579,Social,4627.25,6
+580,Social,6641.98,16
+581,Organic Search,9819.25,9
+582,Affiliate,5841.22,9
+583,Organic Search,4132.78,12
+584,Organic Search,6102.52,3
+585,Display,437.04,10
+586,Social,9055.0,15
+587,Affiliate,1765.98,3
+588,Email,5448.34,14
+589,Paid Search,3858.74,15
+590,Display,8521.83,14
+591,Paid Search,9632.15,8
+592,Paid Search,714.97,8
+593,Organic Search,2147.53,5
+594,Display,8508.41,5
+595,Email,4595.23,3
+596,Paid Search,6361.78,1
+597,Paid Search,3773.73,12
+598,Display,5389.88,11
+599,Email,2742.14,10
+600,Email,5941.71,12
+601,Affiliate,4386.27,9
+602,Email,6845.76,10
+603,Paid Search,6120.51,13
+604,Organic Search,1423.74,9
+605,Display,1985.9,1
+606,Email,329.56,12
+607,Affiliate,3645.49,1
+608,Organic Search,2801.84,18
+609,Email,914.67,9
+610,Paid Search,6813.23,12
+611,Email,7187.93,12
+612,Affiliate,6656.72,4
+613,Paid Search,2407.27,4
+614,Display,6320.2,13
+615,Paid Search,3859.55,14
+616,Email,201.53,5
+617,Affiliate,9678.63,7
+618,Social,7205.78,2
+619,Affiliate,2462.49,6
+620,Organic Search,3163.2,17
+621,Paid Search,8991.28,13
+622,Paid Search,2624.03,13
+623,Social,1014.17,18
+624,Email,8426.93,7
+625,Organic Search,7006.5,4
+626,Affiliate,5472.68,3
+627,Organic Search,5587.69,5
+628,Affiliate,6909.58,9
+629,Organic Search,9116.9,10
+630,Organic Search,8242.6,8
+631,Display,2409.22,1
+632,Paid Search,6472.35,8
+633,Affiliate,6745.86,11
+634,Display,8234.44,5
+635,Display,9118.93,9
+636,Email,680.07,17
+637,Paid Search,1035.49,1
+638,Affiliate,1042.72,17
+639,Email,6952.27,6
+640,Display,9289.56,14
+641,Email,5862.95,14
+642,Display,5722.02,5
+643,Social,8414.28,17
+644,Display,9923.41,4
+645,Paid Search,9424.46,9
+646,Email,6107.63,7
+647,Organic Search,9975.21,5
+648,Organic Search,7259.86,14
+649,Paid Search,7035.78,13
+650,Email,1066.99,17
+651,Organic Search,3040.99,2
+652,Email,5875.0,2
+653,Organic Search,7006.82,6
+654,Paid Search,2095.79,7
+655,Organic Search,8109.05,16
+656,Affiliate,8768.99,3
+657,Organic Search,8532.21,14
+658,Organic Search,5420.55,12
+659,Paid Search,3464.24,18
+660,Display,8434.98,18
+661,Email,7446.59,14
+662,Social,474.66,2
+663,Social,5061.5,10
+664,Organic Search,8248.32,19
+665,Email,5735.37,7
+666,Organic Search,2754.61,11
+667,Email,263.61,8
+668,Social,2344.11,8
+669,Affiliate,6157.39,4
+670,Organic Search,2605.47,12
+671,Organic Search,212.47,6
+672,Email,792.56,12
+673,Affiliate,3860.48,17
+674,Display,4701.63,13
+675,Organic Search,7614.84,6
+676,Social,5460.63,2
+677,Organic Search,7810.37,6
+678,Paid Search,1583.15,3
+679,Paid Search,3568.06,9
+680,Affiliate,5223.06,1
+681,Display,254.82,15
+682,Email,9612.13,1
+683,Paid Search,9234.75,13
+684,Organic Search,6674.45,3
+685,Organic Search,2212.96,1
+686,Affiliate,1465.05,8
+687,Email,8892.78,12
+688,Paid Search,2948.79,6
+689,Social,3828.02,18
+690,Email,4017.0,9
+691,Social,2210.2,4
+692,Organic Search,7273.3,10
+693,Social,5792.77,10
+694,Email,8898.61,13
+695,Paid Search,2272.45,15
+696,Email,3461.08,9
+697,Display,4997.36,9
+698,Display,4775.53,9
+699,Social,9818.13,17
+700,Organic Search,6002.02,4
+701,Paid Search,4161.86,5
+702,Social,2923.66,13
+703,Email,5815.8,14
+704,Display,5511.41,8
+705,Paid Search,5129.83,17
+706,Display,9443.39,10
+707,Paid Search,5091.62,18
+708,Paid Search,2357.59,14
+709,Display,1643.92,8
+710,Display,9105.61,8
+711,Affiliate,9978.53,18
+712,Email,5964.05,13
+713,Email,7298.59,16
+714,Paid Search,4262.87,18
+715,Email,8631.86,4
+716,Email,3532.36,4
+717,Email,290.2,3
+718,Affiliate,477.33,13
+719,Paid Search,8273.3,19
+720,Organic Search,4266.23,7
+721,Organic Search,9680.51,17
+722,Social,4234.54,9
+723,Organic Search,9464.97,16
+724,Display,4758.38,8
+725,Display,7244.91,17
+726,Email,3002.91,16
+727,Social,5533.96,5
+728,Affiliate,3323.09,3
+729,Affiliate,6801.48,3
+730,Email,2355.3,14
+731,Email,3643.32,11
+732,Organic Search,6376.02,9
+733,Email,3106.39,11
+734,Social,2863.61,14
+735,Organic Search,3865.72,2
+736,Social,6254.5,19
+737,Email,3398.42,10
+738,Email,4401.67,13
+739,Organic Search,307.49,19
+740,Paid Search,7029.95,8
+741,Organic Search,8136.57,16
+742,Paid Search,8288.24,17
+743,Paid Search,5540.56,8
+744,Affiliate,4306.88,10
+745,Organic Search,1941.89,17
+746,Email,6593.87,8
+747,Social,5809.31,19
+748,Email,4355.27,17
+749,Paid Search,6185.48,6
+750,Display,9547.28,18
+751,Social,1444.8,5
+752,Email,9650.09,15
+753,Display,5745.37,7
+754,Display,8336.8,19
+755,Social,9938.04,4
+756,Paid Search,9291.86,16
+757,Affiliate,4051.96,5
+758,Display,4632.57,6
+759,Display,6098.08,8
+760,Social,6415.93,14
+761,Organic Search,2359.51,17
+762,Social,9483.38,1
+763,Affiliate,8296.68,12
+764,Paid Search,1389.7,2
+765,Email,9914.07,10
+766,Email,9960.82,13
+767,Affiliate,3608.0,6
+768,Display,8497.95,14
+769,Display,2680.57,17
+770,Affiliate,1685.61,4
+771,Display,8558.79,18
+772,Email,5655.91,5
+773,Email,708.57,9
+774,Paid Search,8342.85,8
+775,Affiliate,3896.55,1
+776,Organic Search,1772.15,13
+777,Organic Search,5318.84,11
+778,Display,4754.68,4
+779,Paid Search,8054.68,17
+780,Organic Search,4839.65,4
+781,Display,6675.59,8
+782,Organic Search,3603.93,2
+783,Organic Search,1184.64,17
+784,Email,529.87,16
+785,Paid Search,3273.82,6
+786,Email,6718.81,7
+787,Display,205.97,15
+788,Organic Search,2565.08,13
+789,Affiliate,1599.6,6
+790,Email,4677.92,17
+791,Email,7488.11,1
+792,Email,5571.73,12
+793,Affiliate,6121.68,1
+794,Organic Search,9467.35,3
+795,Organic Search,4626.9,13
+796,Affiliate,8159.23,11
+797,Display,3504.12,12
+798,Email,6241.66,18
+799,Organic Search,7706.02,8
+800,Display,8288.37,16
+801,Display,2297.85,1
+802,Email,2624.5,9
+803,Display,3831.91,4
+804,Social,2576.72,4
+805,Paid Search,5445.86,15
+806,Display,8089.53,14
+807,Paid Search,1619.56,12
+808,Display,4132.71,7
+809,Email,7294.26,9
+810,Paid Search,7065.69,5
+811,Paid Search,2463.89,19
+812,Paid Search,6638.04,6
+813,Affiliate,9669.67,4
+814,Affiliate,6300.01,6
+815,Paid Search,3338.52,11
+816,Display,5198.38,3
+817,Affiliate,3445.74,14
+818,Paid Search,5364.52,5
+819,Affiliate,8423.75,18
+820,Email,1425.32,4
+821,Affiliate,4188.25,6
+822,Email,6376.37,18
+823,Social,4704.26,2
+824,Affiliate,7837.61,8
+825,Email,1697.89,7
+826,Display,8758.38,2
+827,Email,9784.93,1
+828,Organic Search,3662.95,11
+829,Paid Search,1227.46,2
+830,Email,9877.87,2
+831,Display,3573.49,12
+832,Affiliate,4972.41,12
+833,Email,2502.64,11
+834,Display,649.08,1
+835,Organic Search,1342.0,16
+836,Paid Search,2453.83,8
+837,Affiliate,9880.29,16
+838,Organic Search,7984.05,14
+839,Organic Search,4263.51,4
+840,Affiliate,3261.19,19
+841,Social,1522.77,15
+842,Paid Search,4901.15,16
+843,Organic Search,9080.52,17
+844,Organic Search,9933.21,4
+845,Affiliate,9028.42,2
+846,Paid Search,750.71,13
+847,Organic Search,1664.88,10
+848,Email,1501.71,8
+849,Email,1699.47,5
+850,Email,1331.09,5
+851,Paid Search,1053.93,14
+852,Email,3568.6,4
+853,Organic Search,1663.66,6
+854,Email,1532.93,8
+855,Affiliate,5292.23,16
+856,Social,2111.4,10
+857,Affiliate,160.63,3
+858,Paid Search,6991.59,10
+859,Display,3352.69,14
+860,Email,7396.98,16
+861,Social,8941.5,12
+862,Email,9260.3,15
+863,Display,1859.64,14
+864,Display,6758.99,6
+865,Social,842.19,4
+866,Affiliate,4685.7,3
+867,Display,4324.73,13
+868,Email,2111.34,17
+869,Social,7772.51,16
+870,Social,9141.63,3
+871,Organic Search,2655.11,5
+872,Paid Search,2568.14,18
+873,Display,2036.89,12
+874,Organic Search,6900.63,17
+875,Email,658.39,2
+876,Paid Search,731.36,8
+877,Affiliate,1823.39,12
+878,Email,5503.1,3
+879,Organic Search,2601.58,3
+880,Organic Search,9874.18,15
+881,Organic Search,4012.41,14
+882,Paid Search,4754.37,13
+883,Paid Search,747.1,15
+884,Affiliate,7084.65,7
+885,Affiliate,7906.99,3
+886,Organic Search,3408.87,2
+887,Display,7286.72,5
+888,Affiliate,2354.25,4
+889,Affiliate,8000.8,4
+890,Social,5468.08,2
+891,Display,4032.52,11
+892,Organic Search,7230.14,17
+893,Display,6183.93,12
+894,Organic Search,5370.77,19
+895,Organic Search,2189.08,13
+896,Organic Search,8509.58,19
+897,Email,4375.36,5
+898,Display,4510.67,8
+899,Organic Search,2092.12,2
+900,Email,9320.6,11
+901,Affiliate,5590.38,16
+902,Organic Search,4681.85,2
+903,Display,9776.19,17
+904,Organic Search,3723.27,17
+905,Email,413.82,11
+906,Display,2370.73,10
+907,Social,7490.29,15
+908,Affiliate,1645.91,13
+909,Affiliate,1642.92,8
+910,Email,4611.92,11
+911,Organic Search,4582.74,14
+912,Display,4652.84,11
+913,Social,2271.65,11
+914,Organic Search,1768.07,9
+915,Paid Search,7713.55,4
+916,Organic Search,6078.62,6
+917,Social,3279.45,13
+918,Email,2051.17,13
+919,Social,8788.56,15
+920,Organic Search,1451.82,11
+921,Email,5880.28,7
+922,Display,6141.25,11
+923,Email,8582.87,13
+924,Organic Search,662.43,16
+925,Organic Search,3146.6,10
+926,Email,9664.06,4
+927,Email,5731.89,18
+928,Affiliate,4235.69,18
+929,Email,3236.6,14
+930,Organic Search,1577.27,12
+931,Paid Search,1952.63,8
+932,Affiliate,7815.06,11
+933,Email,2518.18,9
+934,Email,2276.6,19
+935,Display,3259.42,16
+936,Social,7587.62,17
+937,Display,4261.34,10
+938,Affiliate,381.53,2
+939,Paid Search,5179.14,19
+940,Email,2853.14,13
+941,Organic Search,4635.88,18
+942,Paid Search,8844.9,4
+943,Organic Search,2048.72,5
+944,Email,3451.72,18
+945,Affiliate,9457.84,16
+946,Social,7755.58,3
+947,Organic Search,2815.43,6
+948,Affiliate,1152.79,1
+949,Display,9345.92,16
+950,Display,1539.43,12
+951,Organic Search,3710.63,2
+952,Display,3384.94,2
+953,Paid Search,1248.53,5
+954,Paid Search,1098.05,1
+955,Email,2895.61,5
+956,Organic Search,3745.39,4
+957,Paid Search,9692.25,2
+958,Email,5410.0,15
+959,Paid Search,9100.02,5
+960,Display,1371.98,14
+961,Organic Search,2461.12,9
+962,Email,1711.91,9
+963,Display,3813.26,11
+964,Paid Search,9183.28,19
+965,Social,3010.77,10
+966,Social,5996.19,10
+967,Affiliate,9163.95,17
+968,Social,5076.24,18
+969,Email,5324.23,15
+970,Organic Search,5569.85,15
+971,Affiliate,2874.97,6
+972,Display,4242.01,15
+973,Email,8489.72,13
+974,Affiliate,4057.43,1
+975,Social,4246.97,5
+976,Organic Search,1248.46,15
+977,Organic Search,4689.03,4
+978,Email,923.43,6
+979,Affiliate,2745.66,12
+980,Organic Search,9796.72,14
+981,Social,9058.9,16
+982,Email,6250.99,8
+983,Display,7156.89,11
+984,Email,2452.26,2
+985,Paid Search,1525.79,18
+986,Paid Search,5554.71,1
+987,Social,8990.45,14
+988,Display,8340.19,1
+989,Paid Search,5932.64,1
+990,Social,9848.51,8
+991,Display,2555.32,14
+992,Paid Search,7691.68,13
+993,Display,2908.29,10
+994,Organic Search,9747.03,5
+995,Affiliate,2719.44,18
+996,Affiliate,3719.04,7
+997,Email,4816.36,17
+998,Email,3284.72,11
+999,Social,2827.9,4
+1000,Display,4757.57,1
+1001,Display,8182.78,16
+1002,Organic Search,7759.76,15
+1003,Display,4498.84,18
+1004,Affiliate,3198.31,15
+1005,Display,1401.04,18
+1006,Display,8709.94,8
+1007,Organic Search,8870.31,9
+1008,Affiliate,760.72,14
+1009,Organic Search,7511.65,12
+1010,Organic Search,8850.51,6
+1011,Display,7390.29,2
+1012,Display,3462.32,3
+1013,Email,4346.59,18
+1014,Display,3075.81,19
+1015,Social,5472.89,19
+1016,Organic Search,8909.96,9
+1017,Display,6746.68,13
+1018,Affiliate,4637.34,8
+1019,Organic Search,8617.3,5
+1020,Organic Search,108.89,15
+1021,Social,2817.58,7
+1022,Organic Search,4415.59,4
+1023,Organic Search,5965.78,5
+1024,Organic Search,9956.4,12
+1025,Email,6431.39,14
+1026,Email,3877.26,12
+1027,Display,7276.25,11
+1028,Email,9843.1,10
+1029,Display,6151.45,14
+1030,Email,3581.64,10
+1031,Social,6853.38,3
+1032,Organic Search,4694.66,17
+1033,Social,5404.08,19
+1034,Display,9558.07,19
+1035,Display,4422.33,5
+1036,Paid Search,3205.91,5
+1037,Affiliate,6383.91,3
+1038,Email,5726.62,8
+1039,Affiliate,4033.62,18
+1040,Email,3097.2,13
+1041,Social,5299.39,16
+1042,Affiliate,1718.24,18
+1043,Email,2751.8,16
+1044,Affiliate,8521.47,8
+1045,Social,9100.35,18
+1046,Email,3993.69,1
+1047,Organic Search,8358.15,13
+1048,Display,1121.61,14
+1049,Email,2241.11,13
+1050,Organic Search,6006.38,6
+1051,Paid Search,6811.26,10
+1052,Paid Search,2592.47,13
+1053,Affiliate,9403.37,13
+1054,Social,6272.24,4
+1055,Affiliate,9222.5,8
+1056,Organic Search,1148.01,10
+1057,Paid Search,5875.34,6
+1058,Social,3483.78,14
+1059,Social,8679.3,5
+1060,Paid Search,232.42,15
+1061,Paid Search,7694.51,7
+1062,Email,1724.27,2
+1063,Display,8911.34,8
+1064,Paid Search,4677.23,7
+1065,Email,1804.51,17
+1066,Social,8196.92,1
+1067,Affiliate,5081.23,6
+1068,Affiliate,709.16,8
+1069,Social,423.99,4
+1070,Organic Search,2610.7,19
+1071,Organic Search,7164.95,5
+1072,Email,4399.15,13
+1073,Paid Search,5310.36,12
+1074,Social,1447.78,13
+1075,Social,7230.59,19
+1076,Affiliate,3676.46,2
+1077,Organic Search,3414.99,13
+1078,Email,5860.42,8
+1079,Paid Search,7678.31,16
+1080,Paid Search,339.1,14
+1081,Organic Search,584.97,1
+1082,Paid Search,1050.67,4
+1083,Email,8476.29,6
+1084,Social,8568.19,5
+1085,Organic Search,6420.19,16
+1086,Paid Search,554.19,5
+1087,Affiliate,7534.25,9
+1088,Affiliate,8690.29,12
+1089,Social,9161.99,9
+1090,Display,8044.37,11
+1091,Organic Search,4540.33,6
+1092,Organic Search,4641.72,9
+1093,Display,5021.21,8
+1094,Email,4791.2,16
+1095,Organic Search,5191.08,7
+1096,Social,907.02,18
+1097,Social,8164.86,15
+1098,Organic Search,128.69,2
+1099,Email,407.64,1
+1100,Display,362.42,18
+1101,Organic Search,9011.62,11
+1102,Organic Search,9954.83,6
+1103,Affiliate,3042.53,13
+1104,Email,1342.59,12
+1105,Email,287.44,17
+1106,Social,9028.15,9
+1107,Affiliate,3641.11,5
+1108,Email,4973.56,14
+1109,Social,3814.81,13
+1110,Organic Search,9080.19,12
+1111,Affiliate,8342.01,15
+1112,Email,8972.8,5
+1113,Email,4354.58,9
+1114,Display,2246.19,15
+1115,Social,6060.39,15
+1116,Social,2190.59,2
+1117,Affiliate,3319.63,14
+1118,Email,9456.52,2
+1119,Organic Search,8723.79,14
+1120,Email,4427.89,6
+1121,Social,3275.35,15
+1122,Affiliate,5830.59,19
+1123,Display,7653.39,16
+1124,Social,2023.04,9
+1125,Affiliate,9078.25,12
+1126,Organic Search,1956.64,19
+1127,Organic Search,6140.03,16
+1128,Display,5543.44,12
+1129,Organic Search,3356.52,19
+1130,Organic Search,5657.86,8
+1131,Paid Search,8812.72,12
+1132,Social,3371.5,13
+1133,Organic Search,8863.98,3
+1134,Paid Search,720.44,15
+1135,Social,5384.23,2
+1136,Paid Search,3000.07,17
+1137,Paid Search,9310.53,16
+1138,Email,566.77,15
+1139,Affiliate,285.33,12
+1140,Display,8114.64,14
+1141,Paid Search,7422.33,17
+1142,Organic Search,1635.45,9
+1143,Display,9426.41,5
+1144,Affiliate,8751.02,16
+1145,Paid Search,2505.08,16
+1146,Affiliate,6875.78,9
+1147,Organic Search,4342.47,5
+1148,Organic Search,5651.35,16
+1149,Paid Search,7931.14,9
+1150,Paid Search,6344.75,8
+1151,Paid Search,1031.63,16
+1152,Social,6100.99,5
+1153,Paid Search,1935.84,18
+1154,Display,4513.19,13
+1155,Email,3988.88,2
+1156,Paid Search,928.25,3
+1157,Paid Search,1081.14,3
+1158,Social,7898.44,15
+1159,Display,5802.95,2
+1160,Organic Search,9739.67,6
+1161,Paid Search,9518.95,4
+1162,Organic Search,1987.27,6
+1163,Email,8569.65,17
+1164,Affiliate,3328.17,18
+1165,Paid Search,1804.01,18
+1166,Affiliate,4572.25,10
+1167,Email,2923.33,14
+1168,Organic Search,5134.5,11
+1169,Paid Search,6513.52,5
+1170,Paid Search,3102.21,12
+1171,Display,5487.05,14
+1172,Display,6294.53,6
+1173,Paid Search,6199.73,11
+1174,Email,9252.55,8
+1175,Social,6521.06,4
+1176,Email,3392.61,5
+1177,Display,1035.91,18
+1178,Display,4919.26,8
+1179,Social,5802.8,6
+1180,Display,5607.14,11
+1181,Display,5546.48,12
+1182,Affiliate,3815.94,18
+1183,Organic Search,9581.57,3
+1184,Social,6168.28,13
+1185,Display,2300.56,1
+1186,Affiliate,163.35,3
+1187,Affiliate,5744.73,7
+1188,Email,7488.92,17
+1189,Display,1183.93,18
+1190,Paid Search,4716.18,16
+1191,Social,9723.77,7
+1192,Affiliate,4993.58,16
+1193,Affiliate,8550.08,8
+1194,Email,1492.27,12
+1195,Affiliate,4574.9,13
+1196,Paid Search,3598.66,5
+1197,Paid Search,379.73,13
+1198,Organic Search,5259.2,6
+1199,Organic Search,4047.5,2
+1200,Email,6155.49,15
+1201,Affiliate,5510.22,17
+1202,Social,4589.34,9
+1203,Email,1100.81,19
+1204,Affiliate,4482.6,11
+1205,Paid Search,9713.7,1
+1206,Organic Search,2815.1,6
+1207,Paid Search,3911.14,18
+1208,Paid Search,8430.56,5
+1209,Organic Search,5248.43,14
+1210,Affiliate,120.21,3
+1211,Organic Search,5440.78,3
+1212,Social,8732.95,11
+1213,Paid Search,6934.68,2
+1214,Organic Search,7596.05,15
+1215,Email,478.84,11
+1216,Paid Search,1873.86,10
+1217,Affiliate,5893.17,7
+1218,Affiliate,1615.55,3
+1219,Social,7563.31,10
+1220,Social,2346.41,5
+1221,Affiliate,3248.39,12
+1222,Paid Search,512.39,2
+1223,Display,4319.9,11
+1224,Paid Search,2631.65,11
+1225,Email,428.42,16
+1226,Social,1425.5,15
+1227,Organic Search,3984.84,13
+1228,Affiliate,3488.57,1
+1229,Organic Search,8622.77,5
+1230,Affiliate,3097.7,18
+1231,Affiliate,4210.7,18
+1232,Paid Search,4144.95,17
+1233,Organic Search,6029.46,9
+1234,Paid Search,9037.41,5
+1235,Display,6778.75,3
+1236,Organic Search,8400.05,7
+1237,Affiliate,1952.5,8
+1238,Email,8410.58,1
+1239,Affiliate,7031.53,7
+1240,Email,3019.6,3
+1241,Social,8964.32,9
+1242,Organic Search,6683.76,2
+1243,Paid Search,4730.88,14
+1244,Display,7073.92,2
+1245,Email,166.69,19
+1246,Social,3301.78,14
+1247,Paid Search,7789.34,15
+1248,Email,8604.24,4
+1249,Organic Search,8021.84,14
+1250,Social,7338.93,3
+1251,Social,5026.07,9
+1252,Paid Search,1977.02,2
+1253,Social,1196.93,5
+1254,Email,9247.54,9
+1255,Paid Search,2186.88,12
+1256,Email,2528.24,10
+1257,Email,7245.45,2
+1258,Affiliate,7583.08,17
+1259,Organic Search,4141.06,15
+1260,Social,842.99,15
+1261,Organic Search,4896.12,2
+1262,Affiliate,8145.96,6
+1263,Display,8831.49,10
+1264,Display,6537.14,3
+1265,Organic Search,6877.3,13
+1266,Display,335.47,19
+1267,Display,2210.01,11
+1268,Affiliate,7495.47,12
+1269,Organic Search,5351.99,15
+1270,Affiliate,5911.0,1
+1271,Organic Search,8122.84,18
+1272,Organic Search,6727.82,18
+1273,Display,4257.0,7
+1274,Social,9742.78,15
+1275,Affiliate,2493.44,1
+1276,Email,3465.3,1
+1277,Email,6709.29,18
+1278,Social,2397.14,18
+1279,Organic Search,3867.01,9
+1280,Paid Search,6944.18,17
+1281,Paid Search,3447.0,11
+1282,Organic Search,666.55,15
+1283,Email,5643.91,12
+1284,Paid Search,7724.23,5
+1285,Social,7454.23,6
+1286,Paid Search,6248.79,12
+1287,Social,7675.98,3
+1288,Paid Search,2073.33,9
+1289,Email,7366.17,9
+1290,Organic Search,594.3,8
+1291,Affiliate,7426.53,11
+1292,Paid Search,602.0,1
+1293,Affiliate,7737.66,11
+1294,Paid Search,8860.82,2
+1295,Affiliate,8307.5,3
+1296,Affiliate,3550.6,2
+1297,Affiliate,9753.81,10
+1298,Organic Search,5232.29,16
+1299,Social,3854.45,10
+1300,Affiliate,5864.91,8
+1301,Paid Search,3118.84,6
+1302,Display,1865.24,8
+1303,Social,1717.08,4
+1304,Social,1777.64,14
+1305,Social,2360.11,4
+1306,Affiliate,8875.92,2
+1307,Affiliate,4106.64,6
+1308,Display,100.97,12
+1309,Display,3108.42,13
+1310,Email,9961.42,15
+1311,Email,7388.35,13
+1312,Email,5088.02,17
+1313,Organic Search,1360.84,18
+1314,Affiliate,4610.2,12
+1315,Display,6432.69,1
+1316,Organic Search,9195.79,10
+1317,Organic Search,4970.64,2
+1318,Display,5526.17,11
+1319,Display,5720.29,15
+1320,Email,9512.81,17
+1321,Paid Search,3454.9,2
+1322,Affiliate,8619.43,11
+1323,Organic Search,4370.34,4
+1324,Display,7434.34,3
+1325,Display,4882.81,14
+1326,Affiliate,5587.38,17
+1327,Email,3358.55,6
+1328,Email,4205.01,13
+1329,Organic Search,5300.91,18
+1330,Paid Search,6082.53,16
+1331,Paid Search,3766.03,5
+1332,Social,8358.39,1
+1333,Social,7218.73,10
+1334,Email,4570.16,5
+1335,Affiliate,7375.75,7
+1336,Affiliate,166.09,10
+1337,Organic Search,5976.18,2
+1338,Social,5301.66,1
+1339,Organic Search,5193.74,7
+1340,Paid Search,6075.0,2
+1341,Email,8044.16,10
+1342,Organic Search,556.1,14
+1343,Affiliate,1573.45,4
+1344,Paid Search,195.06,2
+1345,Paid Search,2453.97,19
+1346,Organic Search,9778.77,2
+1347,Organic Search,3797.16,3
+1348,Social,5810.29,16
+1349,Social,9902.02,11
+1350,Display,6310.03,11
+1351,Affiliate,1793.78,6
+1352,Paid Search,8069.99,4
+1353,Display,5564.22,15
+1354,Social,9954.05,10
+1355,Paid Search,7575.16,17
+1356,Organic Search,9948.67,5
+1357,Paid Search,8918.74,1
+1358,Organic Search,1903.2,10
+1359,Email,7505.89,13
+1360,Organic Search,5031.19,15
+1361,Paid Search,1384.74,1
+1362,Social,5721.49,11
+1363,Organic Search,1027.49,12
+1364,Display,7643.92,17
+1365,Email,3676.3,3
+1366,Affiliate,8108.46,13
+1367,Email,6854.55,19
+1368,Organic Search,8795.81,16
+1369,Display,1940.17,12
+1370,Display,6486.51,9
+1371,Paid Search,8652.37,18
+1372,Affiliate,2355.39,6
+1373,Email,7853.83,5
+1374,Organic Search,2920.0,6
+1375,Display,8173.53,15
+1376,Organic Search,5203.67,12
+1377,Paid Search,6694.91,2
+1378,Organic Search,3759.37,3
+1379,Organic Search,8276.09,19
+1380,Affiliate,1319.32,6
+1381,Display,2015.14,18
+1382,Affiliate,989.88,7
+1383,Display,9500.89,9
+1384,Display,4716.26,3
+1385,Social,4827.18,9
+1386,Paid Search,3084.75,12
+1387,Display,4750.06,6
+1388,Social,2427.43,3
+1389,Paid Search,9521.29,4
+1390,Affiliate,2708.19,13
+1391,Paid Search,9261.93,10
+1392,Email,4932.52,6
+1393,Display,4428.07,7
+1394,Email,8057.83,8
+1395,Social,4996.75,6
+1396,Social,2742.33,16
+1397,Social,4407.81,1
+1398,Affiliate,4452.44,16
+1399,Organic Search,3022.13,3
+1400,Paid Search,4261.9,3
+1401,Organic Search,1289.15,3
+1402,Affiliate,9407.57,12
+1403,Display,6435.83,5
+1404,Affiliate,2012.57,13
+1405,Email,7915.21,15
+1406,Organic Search,2737.06,7
+1407,Social,6003.02,18
+1408,Affiliate,9152.74,12
+1409,Email,7676.2,13
+1410,Affiliate,1308.06,19
+1411,Social,5503.5,3
+1412,Paid Search,7105.95,5
+1413,Social,2099.99,18
+1414,Social,1095.37,5
+1415,Paid Search,1565.44,11
+1416,Display,9635.83,10
+1417,Display,8465.99,16
+1418,Organic Search,8593.61,17
+1419,Paid Search,2537.75,16
+1420,Display,5626.56,12
+1421,Affiliate,4926.96,16
+1422,Paid Search,8359.63,7
+1423,Email,4275.26,2
+1424,Display,5425.14,2
+1425,Social,5852.77,15
+1426,Organic Search,3776.38,5
+1427,Affiliate,435.98,10
+1428,Display,5002.83,10
+1429,Affiliate,4983.35,12
+1430,Display,504.41,8
+1431,Email,4914.21,13
+1432,Paid Search,5160.32,7
+1433,Affiliate,1431.19,8
+1434,Social,1525.56,19
+1435,Affiliate,9371.64,9
+1436,Social,1984.79,11
+1437,Email,3189.99,17
+1438,Paid Search,3046.96,7
+1439,Organic Search,6610.02,7
+1440,Paid Search,6455.44,13
+1441,Social,9135.97,6
+1442,Organic Search,4087.54,17
+1443,Social,7822.7,2
+1444,Affiliate,3836.5,5
+1445,Display,2476.44,8
+1446,Social,8923.64,7
+1447,Affiliate,4888.25,16
+1448,Email,3966.06,2
+1449,Display,9065.74,11
+1450,Paid Search,9400.14,17
+1451,Display,4569.14,7
+1452,Affiliate,294.82,2
+1453,Paid Search,421.38,7
+1454,Paid Search,6129.43,12
+1455,Email,8535.0,9
+1456,Organic Search,8764.86,3
+1457,Social,9021.37,2
+1458,Display,8094.4,19
+1459,Email,8735.27,5
+1460,Email,8432.27,13
+1461,Display,8417.84,5
+1462,Affiliate,3341.93,13
+1463,Organic Search,3997.63,15
+1464,Social,3238.83,3
+1465,Email,1630.26,19
+1466,Paid Search,3387.41,14
+1467,Organic Search,9083.28,15
+1468,Social,9713.7,3
+1469,Display,1589.77,14
+1470,Email,6654.01,12
+1471,Social,9672.87,17
+1472,Email,2146.04,6
+1473,Social,8416.43,16
+1474,Paid Search,3035.18,10
+1475,Social,4162.31,14
+1476,Affiliate,9170.88,4
+1477,Paid Search,675.29,19
+1478,Display,4540.45,16
+1479,Organic Search,5106.57,16
+1480,Social,9019.35,19
+1481,Affiliate,5780.43,13
+1482,Email,9456.34,2
+1483,Display,3247.0,8
+1484,Social,4987.16,15
+1485,Display,324.87,10
+1486,Display,9888.96,4
+1487,Display,2409.51,2
+1488,Display,9295.25,14
+1489,Email,4062.25,15
+1490,Paid Search,1735.51,14
+1491,Paid Search,4256.71,2
+1492,Affiliate,3307.66,1
+1493,Email,9522.93,9
+1494,Display,7734.43,14
+1495,Email,2153.61,10
+1496,Display,5447.09,6
+1497,Affiliate,6732.32,13
+1498,Display,5835.38,13
+1499,Organic Search,9175.32,8
+1500,Paid Search,1218.55,5
+1501,Email,500.33,1
+1502,Social,6158.13,17
+1503,Affiliate,7478.65,18
+1504,Affiliate,8113.75,14
+1505,Display,2190.17,1
+1506,Social,1982.19,7
+1507,Organic Search,8401.9,6
+1508,Affiliate,3441.58,4
+1509,Paid Search,6630.72,8
+1510,Display,1593.03,9
+1511,Social,8029.85,2
+1512,Organic Search,9612.74,5
+1513,Paid Search,9719.33,1
+1514,Social,5238.22,18
+1515,Email,2469.03,3
+1516,Display,1495.99,7
+1517,Organic Search,2532.76,4
+1518,Social,6254.17,6
+1519,Email,4415.19,18
+1520,Social,4826.3,9
+1521,Organic Search,4795.44,1
+1522,Display,7955.12,11
+1523,Paid Search,8330.34,19
+1524,Affiliate,238.13,11
+1525,Paid Search,9190.39,13
+1526,Paid Search,3945.42,19
+1527,Organic Search,2484.08,10
+1528,Affiliate,9960.56,2
+1529,Affiliate,1313.02,5
+1530,Paid Search,3278.39,7
+1531,Display,9080.3,1
+1532,Organic Search,4808.76,7
+1533,Social,9265.5,2
+1534,Affiliate,2490.99,15
+1535,Affiliate,4133.44,14
+1536,Affiliate,611.36,18
+1537,Social,4597.26,18
+1538,Organic Search,104.91,14
+1539,Display,3237.12,11
+1540,Organic Search,7179.62,13
+1541,Organic Search,7269.06,19
+1542,Social,4335.09,19
+1543,Organic Search,228.3,3
+1544,Display,1396.89,19
+1545,Paid Search,2496.49,12
+1546,Display,262.92,18
+1547,Display,2248.5,7
+1548,Social,5283.66,18
+1549,Affiliate,1344.65,12
+1550,Paid Search,8676.22,10
+1551,Email,693.81,6
+1552,Organic Search,7781.07,3
+1553,Paid Search,4518.29,14
+1554,Social,6167.19,16
+1555,Affiliate,4886.29,9
+1556,Organic Search,4339.13,7
+1557,Social,6835.33,14
+1558,Organic Search,2348.56,13
+1559,Social,4919.02,16
+1560,Social,8092.93,18
+1561,Social,1635.91,12
+1562,Organic Search,1018.03,15
+1563,Email,6075.77,7
+1564,Affiliate,9639.44,18
+1565,Paid Search,4349.19,14
+1566,Organic Search,8164.8,18
+1567,Email,4755.33,15
+1568,Paid Search,2423.07,6
+1569,Organic Search,4902.17,11
+1570,Paid Search,4474.7,18
+1571,Email,2598.5,3
+1572,Social,3596.0,3
+1573,Affiliate,3981.73,2
+1574,Display,8606.98,12
+1575,Paid Search,3144.07,16
+1576,Organic Search,9259.0,10
+1577,Display,233.59,12
+1578,Paid Search,1371.11,4
+1579,Paid Search,368.08,19
+1580,Display,7699.99,16
+1581,Social,1333.07,2
+1582,Organic Search,5783.37,5
+1583,Organic Search,7801.05,18
+1584,Social,4944.66,19
+1585,Email,1069.54,9
+1586,Paid Search,8390.7,18
+1587,Email,2141.6,13
+1588,Affiliate,1034.85,5
+1589,Display,7698.59,10
+1590,Organic Search,376.24,6
+1591,Display,6216.08,17
+1592,Paid Search,4261.78,8
+1593,Organic Search,4400.56,16
+1594,Display,8063.89,10
+1595,Organic Search,562.29,11
+1596,Organic Search,7442.31,5
+1597,Organic Search,7084.31,8
+1598,Email,8904.31,15
+1599,Affiliate,5813.87,10
+1600,Display,1684.96,6
+1601,Social,560.24,2
+1602,Organic Search,4475.95,17
+1603,Paid Search,7230.06,18
+1604,Affiliate,518.82,6
+1605,Email,2557.64,10
+1606,Email,7730.79,16
+1607,Affiliate,2381.22,18
+1608,Social,3873.12,6
+1609,Social,7494.45,1
+1610,Email,4361.22,17
+1611,Email,7736.35,17
+1612,Display,2775.23,1
+1613,Email,9584.86,14
+1614,Email,1028.71,4
+1615,Organic Search,7539.43,17
+1616,Social,834.45,19
+1617,Display,8466.69,14
+1618,Email,1451.36,6
+1619,Display,5906.02,11
+1620,Social,3402.31,9
+1621,Email,6086.8,8
+1622,Organic Search,573.43,12
+1623,Affiliate,8825.35,6
+1624,Email,7170.67,16
+1625,Social,3522.16,10
+1626,Display,4758.3,3
+1627,Organic Search,6299.48,7
+1628,Paid Search,6216.27,10
+1629,Paid Search,6433.39,12
+1630,Social,1633.79,6
+1631,Social,7952.49,2
+1632,Organic Search,4651.29,12
+1633,Affiliate,8022.31,10
+1634,Display,9292.17,11
+1635,Email,1122.39,4
+1636,Paid Search,3624.79,1
+1637,Paid Search,5356.59,1
+1638,Social,1435.64,14
+1639,Social,2665.58,2
+1640,Display,586.97,3
+1641,Organic Search,6845.27,12
+1642,Affiliate,5014.28,18
+1643,Paid Search,409.53,3
+1644,Display,3106.12,4
+1645,Organic Search,4140.5,8
+1646,Paid Search,3491.45,7
+1647,Email,280.75,5
+1648,Display,2948.39,12
+1649,Paid Search,903.39,11
+1650,Organic Search,157.32,18
+1651,Paid Search,3596.92,17
+1652,Email,3926.08,5
+1653,Social,9153.3,14
+1654,Social,1370.13,18
+1655,Affiliate,7034.04,13
+1656,Display,2709.25,3
+1657,Organic Search,5025.95,18
+1658,Email,4364.47,14
+1659,Organic Search,4891.82,13
+1660,Display,7649.82,13
+1661,Email,282.71,5
+1662,Paid Search,3358.8,14
+1663,Social,3468.85,15
+1664,Paid Search,1037.96,12
+1665,Affiliate,205.78,15
+1666,Paid Search,7218.24,15
+1667,Organic Search,8839.04,4
+1668,Affiliate,3178.47,17
+1669,Organic Search,6564.97,13
+1670,Affiliate,9951.91,16
+1671,Display,1725.97,16
+1672,Paid Search,2838.96,18
+1673,Paid Search,8198.77,14
+1674,Paid Search,132.42,3
+1675,Affiliate,5967.53,16
+1676,Social,4832.45,17
+1677,Email,7235.14,2
+1678,Social,5336.78,8
+1679,Paid Search,5210.05,16
+1680,Display,7132.3,5
+1681,Email,5544.8,5
+1682,Affiliate,9862.93,10
+1683,Email,7010.03,9
+1684,Paid Search,8087.85,14
+1685,Display,4283.13,5
+1686,Social,9584.44,10
+1687,Organic Search,4539.56,6
+1688,Social,3526.67,10
+1689,Email,9399.4,7
+1690,Display,3832.96,18
+1691,Paid Search,3719.5,19
+1692,Social,5608.07,2
+1693,Email,8509.52,12
+1694,Organic Search,3368.11,3
+1695,Paid Search,8312.09,6
+1696,Paid Search,1713.42,14
+1697,Organic Search,1808.58,18
+1698,Social,4564.24,1
+1699,Affiliate,2706.72,14
+1700,Email,4895.28,16
+1701,Social,223.49,19
+1702,Organic Search,2839.6,5
+1703,Display,9480.66,2
+1704,Affiliate,8804.75,19
+1705,Display,384.26,13
+1706,Organic Search,8062.9,2
+1707,Affiliate,4494.36,7
+1708,Paid Search,8186.77,3
+1709,Email,2872.99,16
+1710,Email,5547.03,1
+1711,Paid Search,9862.62,12
+1712,Affiliate,3335.58,6
+1713,Affiliate,8858.71,11
+1714,Display,8784.75,10
+1715,Paid Search,1625.02,4
+1716,Display,2511.11,11
+1717,Social,1366.97,7
+1718,Organic Search,2951.47,16
+1719,Display,5286.03,6
+1720,Paid Search,9287.96,6
+1721,Organic Search,4026.16,3
+1722,Display,9880.14,18
+1723,Paid Search,4052.44,9
+1724,Social,5931.37,10
+1725,Affiliate,9651.19,17
+1726,Paid Search,6055.72,3
+1727,Social,3930.32,10
+1728,Organic Search,5302.74,5
+1729,Social,5483.23,2
+1730,Display,1140.03,3
+1731,Social,4106.01,17
+1732,Paid Search,5310.89,9
+1733,Display,7814.68,1
+1734,Social,159.8,5
+1735,Paid Search,8157.53,9
+1736,Organic Search,2775.07,9
+1737,Affiliate,7182.39,6
+1738,Email,7746.25,6
+1739,Affiliate,8610.34,16
+1740,Affiliate,9523.41,9
+1741,Paid Search,9010.12,17
+1742,Display,6368.56,13
+1743,Affiliate,7281.97,3
+1744,Affiliate,7050.99,9
+1745,Organic Search,5226.98,14
+1746,Organic Search,7709.1,3
+1747,Organic Search,4584.38,4
+1748,Social,8217.64,14
+1749,Organic Search,7463.62,18
+1750,Affiliate,4949.19,1
+1751,Organic Search,5189.98,19
+1752,Email,6447.11,5
+1753,Social,3397.51,8
+1754,Paid Search,5604.93,7
+1755,Paid Search,9009.34,16
+1756,Display,3179.34,11
+1757,Organic Search,6925.16,8
+1758,Display,494.53,6
+1759,Paid Search,1369.1,13
+1760,Organic Search,8861.54,11
+1761,Organic Search,9042.87,15
+1762,Paid Search,5730.73,1
+1763,Organic Search,6009.91,4
+1764,Social,4155.9,17
+1765,Organic Search,6007.66,8
+1766,Organic Search,8769.68,7
+1767,Display,1630.29,18
+1768,Email,5055.47,3
+1769,Paid Search,8773.54,16
+1770,Paid Search,802.74,12
+1771,Affiliate,2091.85,11
+1772,Paid Search,5177.27,6
+1773,Display,6212.85,5
+1774,Affiliate,7100.72,10
+1775,Organic Search,1931.08,1
+1776,Email,6018.72,15
+1777,Display,3499.45,11
+1778,Email,3232.31,1
+1779,Social,722.55,14
+1780,Affiliate,1327.57,11
+1781,Affiliate,8009.81,7
+1782,Social,4622.27,4
+1783,Display,7515.69,14
+1784,Display,8194.27,8
+1785,Email,7954.4,8
+1786,Display,9814.05,18
+1787,Organic Search,2666.74,10
+1788,Display,820.48,4
+1789,Display,5274.25,7
+1790,Affiliate,9636.87,16
+1791,Organic Search,2101.95,7
+1792,Paid Search,5484.56,13
+1793,Paid Search,4155.1,3
+1794,Social,6274.69,18
+1795,Display,4418.4,9
+1796,Social,9886.07,19
+1797,Display,7815.15,4
+1798,Organic Search,7752.42,8
+1799,Email,3732.53,17
+1800,Display,7675.68,15
+1801,Social,5265.57,3
+1802,Social,8587.1,6
+1803,Display,7843.69,2
+1804,Social,6734.42,17
+1805,Social,2487.42,14
+1806,Organic Search,5779.84,13
+1807,Social,8941.49,14
+1808,Paid Search,6277.3,8
+1809,Paid Search,8334.82,10
+1810,Email,5383.06,1
+1811,Paid Search,8444.64,2
+1812,Paid Search,5877.23,4
+1813,Organic Search,8527.36,16
+1814,Display,4781.03,11
+1815,Organic Search,6698.23,15
+1816,Social,667.81,1
+1817,Paid Search,4434.43,10
+1818,Social,1479.87,13
+1819,Affiliate,2379.64,16
+1820,Affiliate,5459.01,15
+1821,Affiliate,5452.6,5
+1822,Display,8013.76,17
+1823,Display,4803.02,19
+1824,Email,9448.74,13
+1825,Email,3416.07,2
+1826,Organic Search,4644.32,8
+1827,Paid Search,7726.93,1
+1828,Affiliate,6605.32,2
+1829,Social,1751.36,9
+1830,Email,5238.02,12
+1831,Display,850.23,9
+1832,Display,1578.29,1
+1833,Email,1135.31,8
+1834,Display,1040.74,7
+1835,Paid Search,1548.88,10
+1836,Paid Search,8915.37,1
+1837,Organic Search,6911.96,15
+1838,Paid Search,6787.39,3
+1839,Email,8969.28,18
+1840,Email,7008.25,5
+1841,Paid Search,6127.9,17
+1842,Email,7478.47,1
+1843,Organic Search,7008.73,18
+1844,Organic Search,6048.28,3
+1845,Display,1165.71,2
+1846,Organic Search,794.91,12
+1847,Social,1732.36,9
+1848,Paid Search,6250.89,9
+1849,Affiliate,5266.92,11
+1850,Email,5511.04,6
+1851,Email,3917.44,9
+1852,Organic Search,8246.9,5
+1853,Organic Search,7447.44,13
+1854,Organic Search,609.45,14
+1855,Email,2082.84,16
+1856,Social,5502.71,18
+1857,Email,1993.77,8
+1858,Organic Search,1497.33,2
+1859,Social,194.35,17
+1860,Organic Search,9831.26,11
+1861,Social,2390.2,6
+1862,Affiliate,4282.16,9
+1863,Affiliate,6306.65,1
+1864,Organic Search,2537.7,11
+1865,Social,8158.19,12
+1866,Paid Search,5965.93,6
+1867,Social,6879.4,15
+1868,Affiliate,1621.4,6
+1869,Organic Search,7253.83,18
+1870,Display,624.43,7
+1871,Organic Search,3277.36,8
+1872,Display,4362.44,5
+1873,Email,1041.74,8
+1874,Social,5636.32,6
+1875,Social,3475.29,19
+1876,Organic Search,1439.32,11
+1877,Email,2926.11,12
+1878,Affiliate,5844.43,17
+1879,Organic Search,2330.63,11
+1880,Paid Search,4755.68,12
+1881,Paid Search,6935.13,7
+1882,Affiliate,6152.26,8
+1883,Display,7664.33,8
+1884,Affiliate,6950.53,4
+1885,Social,4895.4,18
+1886,Display,5244.88,17
+1887,Affiliate,2720.66,16
+1888,Affiliate,9327.1,15
+1889,Display,9029.06,8
+1890,Social,8182.51,13
+1891,Paid Search,1575.51,8
+1892,Display,7745.88,5
+1893,Social,9282.44,7
+1894,Affiliate,9107.11,5
+1895,Paid Search,9060.06,14
+1896,Social,6772.04,1
+1897,Social,2577.17,3
+1898,Organic Search,5897.0,17
+1899,Paid Search,2909.84,12
+1900,Display,8027.92,13
+1901,Affiliate,1804.46,1
+1902,Social,2242.33,17
+1903,Organic Search,2724.41,17
+1904,Email,5983.48,9
+1905,Affiliate,5920.94,5
+1906,Email,5538.01,6
+1907,Organic Search,1538.44,19
+1908,Paid Search,4688.01,1
+1909,Email,9291.84,10
+1910,Display,9388.49,3
+1911,Organic Search,4856.58,14
+1912,Social,2697.78,12
+1913,Organic Search,9927.47,19
+1914,Display,2277.61,16
+1915,Organic Search,8425.28,13
+1916,Display,3017.31,13
+1917,Display,9108.12,15
+1918,Organic Search,1277.49,19
+1919,Organic Search,3231.27,14
+1920,Organic Search,6465.54,19
+1921,Social,1037.27,9
+1922,Social,3978.09,6
+1923,Affiliate,3997.43,13
+1924,Display,5161.08,2
+1925,Email,136.06,7
+1926,Organic Search,6547.61,17
+1927,Affiliate,4152.57,12
+1928,Email,2496.77,7
+1929,Paid Search,2141.93,10
+1930,Paid Search,7772.83,3
+1931,Organic Search,2934.43,7
+1932,Paid Search,6805.23,15
+1933,Email,197.25,4
+1934,Paid Search,9705.94,17
+1935,Organic Search,895.84,13
+1936,Display,4104.84,1
+1937,Social,6709.49,12
+1938,Social,6280.18,13
+1939,Social,8935.79,1
+1940,Display,9700.2,1
+1941,Paid Search,7225.58,11
+1942,Social,6423.87,10
+1943,Email,1073.69,16
+1944,Paid Search,4462.25,3
+1945,Display,1951.2,13
+1946,Affiliate,3858.34,19
+1947,Social,1499.51,18
+1948,Paid Search,7875.02,18
+1949,Display,5180.08,13
+1950,Organic Search,1194.62,14
+1951,Affiliate,5255.99,1
+1952,Social,3361.08,16
+1953,Organic Search,5063.43,15
+1954,Organic Search,2642.9,11
+1955,Social,7588.17,10
+1956,Email,180.46,15
+1957,Organic Search,1488.2,6
+1958,Display,5756.31,1
+1959,Email,6518.05,18
+1960,Organic Search,511.86,7
+1961,Organic Search,6696.31,6
+1962,Social,2095.29,14
+1963,Social,1560.39,13
+1964,Paid Search,299.17,2
+1965,Affiliate,4968.14,10
+1966,Social,7548.32,12
+1967,Social,5995.16,6
+1968,Paid Search,8671.15,8
+1969,Email,5387.77,18
+1970,Affiliate,188.95,1
+1971,Affiliate,8561.81,6
+1972,Paid Search,9196.12,10
+1973,Social,8745.49,7
+1974,Email,1982.63,17
+1975,Affiliate,9906.42,7
+1976,Paid Search,9616.97,2
+1977,Paid Search,8578.12,10
+1978,Affiliate,5855.06,15
+1979,Paid Search,2061.65,9
+1980,Social,2017.77,8
+1981,Organic Search,5236.35,10
+1982,Paid Search,8936.15,12
+1983,Email,3890.58,3
+1984,Social,4990.59,1
+1985,Email,4250.03,8
+1986,Organic Search,7409.39,18
+1987,Affiliate,1080.07,12
+1988,Affiliate,7229.04,9
+1989,Email,7875.09,6
+1990,Paid Search,7180.09,8
+1991,Affiliate,6802.86,10
+1992,Email,3964.34,5
+1993,Email,4887.48,8
+1994,Social,2197.23,10
+1995,Affiliate,6952.99,3
+1996,Email,2169.6,18
+1997,Display,5623.89,7
+1998,Display,7494.77,9
+1999,Social,1926.15,7
+2000,Display,2781.55,8
+2001,Social,4446.7,16
+2002,Email,6506.8,11
+2003,Affiliate,3299.99,15
+2004,Social,1860.49,14
+2005,Display,1640.3,17
+2006,Paid Search,2701.14,15
+2007,Paid Search,4105.63,4
+2008,Display,1020.16,13
+2009,Paid Search,9526.25,4
+2010,Social,9989.83,19
+2011,Display,8725.18,18
+2012,Organic Search,8291.5,19
+2013,Email,4348.37,11
+2014,Organic Search,3436.93,6
+2015,Social,4385.31,10
+2016,Display,286.95,8
+2017,Email,1681.49,4
+2018,Organic Search,5509.64,4
+2019,Social,9278.53,11
+2020,Affiliate,9280.34,8
+2021,Social,7172.53,19
+2022,Paid Search,4900.5,1
+2023,Email,2749.33,17
+2024,Email,4198.88,6
+2025,Organic Search,9850.75,19
+2026,Email,8586.41,16
+2027,Organic Search,4896.64,11
+2028,Display,8550.37,16
+2029,Display,7500.44,12
+2030,Display,4095.02,1
+2031,Organic Search,4991.45,12
+2032,Affiliate,4688.99,3
+2033,Affiliate,243.68,18
+2034,Organic Search,3281.43,12
+2035,Display,483.74,11
+2036,Display,8860.69,6
+2037,Email,5906.8,19
+2038,Email,4100.31,8
+2039,Organic Search,1086.5,12
+2040,Paid Search,502.51,8
+2041,Affiliate,2636.07,4
+2042,Paid Search,4018.49,6
+2043,Email,6028.03,6
+2044,Social,3585.24,9
+2045,Paid Search,4863.96,4
+2046,Organic Search,6831.14,12
+2047,Social,532.82,15
+2048,Organic Search,5295.96,1
+2049,Email,2919.39,9
+2050,Affiliate,7842.11,14
+2051,Organic Search,3296.9,5
+2052,Paid Search,1781.07,6
+2053,Display,7915.26,3
+2054,Organic Search,7710.98,7
+2055,Paid Search,4692.89,7
+2056,Display,1924.18,15
+2057,Organic Search,4782.31,11
+2058,Social,4474.36,19
+2059,Organic Search,1556.22,19
+2060,Organic Search,3693.02,18
+2061,Organic Search,8164.52,14
+2062,Social,5079.97,5
+2063,Organic Search,1381.18,9
+2064,Social,8856.89,18
+2065,Organic Search,7465.72,11
+2066,Display,5477.61,1
+2067,Display,2747.35,13
+2068,Social,1057.81,11
+2069,Display,7407.93,9
+2070,Organic Search,6310.19,4
+2071,Paid Search,8214.5,4
+2072,Paid Search,6922.09,10
+2073,Organic Search,1629.9,15
+2074,Display,4579.3,11
+2075,Email,3189.63,1
+2076,Paid Search,8668.01,19
+2077,Display,2809.48,16
+2078,Affiliate,5003.81,6
+2079,Affiliate,5528.66,3
+2080,Social,6291.07,4
+2081,Display,6388.99,3
+2082,Paid Search,6491.8,9
+2083,Email,3618.25,16
+2084,Email,5106.98,17
+2085,Paid Search,678.49,18
+2086,Organic Search,5321.92,13
+2087,Paid Search,6258.53,10
+2088,Social,7469.34,18
+2089,Display,1558.31,4
+2090,Paid Search,6236.9,6
+2091,Social,3341.02,6
+2092,Organic Search,4097.75,16
+2093,Email,4800.75,14
+2094,Organic Search,1376.45,3
+2095,Paid Search,2476.01,11
+2096,Email,725.48,13
+2097,Display,9744.42,2
+2098,Paid Search,1988.58,18
+2099,Affiliate,6374.0,1
+2100,Email,1243.57,15
+2101,Paid Search,6999.83,13
+2102,Display,8762.43,15
+2103,Paid Search,4805.21,2
+2104,Social,6896.12,5
+2105,Organic Search,6640.53,18
+2106,Paid Search,6572.37,17
+2107,Affiliate,1148.3,17
+2108,Affiliate,8185.46,19
+2109,Affiliate,5901.85,5
+2110,Social,2346.4,16
+2111,Social,4454.68,16
+2112,Affiliate,7278.08,15
+2113,Paid Search,6460.53,17
+2114,Affiliate,1610.96,18
+2115,Email,6048.23,1
+2116,Email,5134.69,17
+2117,Organic Search,6574.83,4
+2118,Email,7865.75,15
+2119,Display,3357.3,17
+2120,Paid Search,4148.35,4
+2121,Email,5984.29,11
+2122,Display,7843.13,3
+2123,Affiliate,6207.39,9
+2124,Display,246.09,11
+2125,Social,9910.96,10
+2126,Email,381.75,6
+2127,Organic Search,8695.87,5
+2128,Display,9066.14,13
+2129,Affiliate,2225.85,12
+2130,Email,7774.91,18
+2131,Paid Search,4820.04,17
+2132,Organic Search,4233.7,9
+2133,Email,1553.53,14
+2134,Paid Search,4656.78,11
+2135,Display,6411.6,15
+2136,Display,5031.25,13
+2137,Paid Search,2316.97,4
+2138,Email,4921.13,10
+2139,Display,8744.29,16
+2140,Affiliate,8196.18,15
+2141,Email,1998.64,6
+2142,Display,4944.21,4
+2143,Social,6077.83,12
+2144,Affiliate,5367.13,16
+2145,Display,6640.0,15
+2146,Display,6874.79,17
+2147,Social,4101.13,7
+2148,Affiliate,2495.07,14
+2149,Affiliate,4478.09,13
+2150,Organic Search,1169.54,1
+2151,Social,7499.04,6
+2152,Affiliate,7778.09,11
+2153,Organic Search,9437.96,6
+2154,Display,8999.88,10
+2155,Organic Search,1360.41,10
+2156,Paid Search,5504.64,16
+2157,Paid Search,7084.72,7
+2158,Paid Search,8299.99,1
+2159,Social,3050.95,4
+2160,Paid Search,9870.58,5
+2161,Email,5092.86,19
+2162,Paid Search,4676.73,11
+2163,Display,4277.41,4
+2164,Affiliate,1862.23,2
+2165,Paid Search,5625.06,11
+2166,Organic Search,1334.28,7
+2167,Display,8450.98,15
+2168,Display,576.66,5
+2169,Paid Search,8540.02,7
+2170,Affiliate,8127.23,11
+2171,Organic Search,3076.88,19
+2172,Display,452.96,13
+2173,Display,8856.19,8
+2174,Email,8062.81,15
+2175,Social,6383.36,18
+2176,Organic Search,644.82,3
+2177,Paid Search,5136.52,18
+2178,Display,9347.19,13
+2179,Display,1157.57,7
+2180,Social,5148.66,3
+2181,Affiliate,8053.93,3
+2182,Paid Search,6645.61,8
+2183,Email,4005.15,6
+2184,Email,8930.79,15
+2185,Organic Search,5318.1,2
+2186,Social,8701.84,6
+2187,Affiliate,6155.11,15
+2188,Affiliate,3197.95,13
+2189,Social,8997.27,15
+2190,Display,8808.62,16
+2191,Display,3136.45,16
+2192,Display,2241.81,7
+2193,Display,9790.01,7
+2194,Paid Search,4788.33,13
+2195,Paid Search,9976.54,18
+2196,Organic Search,2611.87,4
+2197,Email,1103.32,4
+2198,Organic Search,175.8,14
+2199,Display,3190.74,11
+2200,Social,5889.71,1
+2201,Paid Search,2562.88,6
+2202,Paid Search,5800.02,16
+2203,Affiliate,657.96,14
+2204,Affiliate,9707.88,4
+2205,Paid Search,3538.9,11
+2206,Affiliate,9735.77,2
+2207,Paid Search,5392.58,4
+2208,Social,4716.12,2
+2209,Affiliate,987.08,8
+2210,Organic Search,939.21,9
+2211,Paid Search,5185.5,17
+2212,Display,3252.02,8
+2213,Display,1943.67,19
+2214,Organic Search,1439.99,7
+2215,Organic Search,5630.73,18
+2216,Affiliate,3082.32,9
+2217,Organic Search,8078.24,12
+2218,Organic Search,989.97,17
+2219,Social,180.68,8
+2220,Affiliate,9425.61,19
+2221,Paid Search,270.85,5
+2222,Social,8613.52,7
+2223,Affiliate,8815.63,12
+2224,Social,9473.57,15
+2225,Paid Search,4998.41,11
+2226,Social,6275.24,8
+2227,Organic Search,3726.12,18
+2228,Email,9720.29,14
+2229,Display,7345.05,13
+2230,Organic Search,7233.92,9
+2231,Affiliate,3598.9,9
+2232,Organic Search,3081.59,2
+2233,Paid Search,5617.98,7
+2234,Affiliate,904.93,2
+2235,Email,4247.46,14
+2236,Paid Search,5366.71,14
+2237,Organic Search,7526.94,8
+2238,Affiliate,5759.37,17
+2239,Social,3961.12,10
+2240,Affiliate,376.63,2
+2241,Display,7113.3,19
+2242,Affiliate,7701.55,16
+2243,Display,8556.75,1
+2244,Organic Search,2061.54,6
+2245,Paid Search,5098.01,17
+2246,Email,4657.98,13
+2247,Email,7631.95,12
+2248,Organic Search,5079.52,19
+2249,Email,7998.64,1
+2250,Affiliate,920.62,19
+2251,Paid Search,631.4,7
+2252,Email,2740.25,7
+2253,Paid Search,4795.64,6
+2254,Organic Search,7537.25,8
+2255,Affiliate,3718.55,9
+2256,Email,7437.1,6
+2257,Paid Search,8330.77,9
+2258,Social,5075.39,11
+2259,Email,9585.04,1
+2260,Affiliate,1607.15,1
+2261,Display,3026.92,13
+2262,Email,9975.84,11
+2263,Email,1750.95,5
+2264,Social,9122.04,16
+2265,Email,9210.14,16
+2266,Affiliate,6430.26,15
+2267,Email,584.8,3
+2268,Organic Search,5142.67,7
+2269,Organic Search,785.28,11
+2270,Paid Search,3382.18,17
+2271,Display,271.25,19
+2272,Email,554.01,5
+2273,Organic Search,7002.33,4
+2274,Paid Search,9824.24,18
+2275,Social,7847.49,8
+2276,Affiliate,4020.6,6
+2277,Display,3439.96,13
+2278,Social,9939.51,2
+2279,Paid Search,2394.37,15
+2280,Social,482.86,11
+2281,Email,2685.75,6
+2282,Social,3482.6,10
+2283,Organic Search,4931.22,18
+2284,Organic Search,7008.6,4
+2285,Affiliate,6595.1,6
+2286,Social,6322.76,13
+2287,Display,8892.28,16
+2288,Organic Search,5848.16,19
+2289,Social,1841.56,17
+2290,Email,3673.6,17
+2291,Affiliate,6756.61,12
+2292,Organic Search,5299.92,9
+2293,Organic Search,5830.66,14
+2294,Affiliate,3053.16,18
+2295,Social,2953.16,7
+2296,Social,4558.51,15
+2297,Social,435.5,1
+2298,Display,4383.91,15
+2299,Organic Search,4960.45,18
+2300,Email,696.22,15
+2301,Email,424.49,1
+2302,Paid Search,189.57,11
+2303,Social,3681.57,13
+2304,Paid Search,5032.92,16
+2305,Paid Search,1810.67,2
+2306,Display,8966.55,16
+2307,Affiliate,5874.58,11
+2308,Display,6015.9,9
+2309,Social,751.17,12
+2310,Social,895.36,4
+2311,Affiliate,5096.64,2
+2312,Social,7648.92,6
+2313,Email,8402.86,12
+2314,Social,5456.67,5
+2315,Email,5932.93,18
+2316,Paid Search,6182.78,1
+2317,Social,3173.05,2
+2318,Organic Search,9756.51,12
+2319,Email,9760.47,10
+2320,Social,6285.64,1
+2321,Email,3850.16,5
+2322,Email,8510.89,10
+2323,Social,1835.81,16
+2324,Paid Search,6075.31,14
+2325,Affiliate,7912.71,5
+2326,Social,140.45,19
+2327,Paid Search,4374.38,9
+2328,Paid Search,2693.27,3
+2329,Social,8002.88,12
+2330,Organic Search,9243.57,7
+2331,Organic Search,1815.15,9
+2332,Paid Search,1879.08,14
+2333,Email,9622.66,1
+2334,Organic Search,5168.52,10
+2335,Social,1068.28,16
+2336,Organic Search,852.9,7
+2337,Email,9646.63,17
+2338,Organic Search,4376.49,17
+2339,Social,9427.34,5
+2340,Social,5811.07,4
+2341,Paid Search,7249.58,9
+2342,Display,2862.5,4
+2343,Email,768.49,15
+2344,Organic Search,7883.03,4
+2345,Affiliate,1765.82,9
+2346,Paid Search,7191.77,2
+2347,Display,847.93,12
+2348,Display,5795.68,8
+2349,Affiliate,7556.35,4
+2350,Paid Search,289.61,5
+2351,Social,3945.19,14
+2352,Social,5925.05,1
+2353,Email,8003.15,1
+2354,Email,2654.53,18
+2355,Affiliate,8180.66,6
+2356,Social,6514.32,2
+2357,Email,3532.92,16
+2358,Email,3065.61,19
+2359,Organic Search,7049.97,5
+2360,Email,7268.35,6
+2361,Social,6406.83,9
+2362,Paid Search,4496.85,15
+2363,Display,318.25,14
+2364,Social,5782.67,10
+2365,Email,6160.67,3
+2366,Social,2478.29,9
+2367,Affiliate,2111.8,6
+2368,Social,8656.42,11
+2369,Display,1880.55,18
+2370,Email,2176.88,2
+2371,Paid Search,6266.13,5
+2372,Paid Search,3259.3,18
+2373,Organic Search,4467.32,1
+2374,Affiliate,5347.96,8
+2375,Display,9317.07,6
+2376,Social,2679.44,18
+2377,Affiliate,540.73,10
+2378,Display,1246.9,9
+2379,Display,610.99,11
+2380,Paid Search,7565.97,12
+2381,Display,9811.18,16
+2382,Display,894.16,7
+2383,Affiliate,2916.92,17
+2384,Social,8552.44,19
+2385,Organic Search,8985.1,13
+2386,Affiliate,2241.22,19
+2387,Social,9197.46,11
+2388,Display,5821.18,18
+2389,Organic Search,9950.87,3
+2390,Display,322.55,4
+2391,Email,7880.9,13
+2392,Affiliate,647.33,8
+2393,Email,7370.85,19
+2394,Email,9445.36,4
+2395,Affiliate,3334.94,9
+2396,Organic Search,3454.93,9
+2397,Social,2469.11,14
+2398,Organic Search,4369.82,14
+2399,Display,4780.8,11
+2400,Social,5761.47,15
+2401,Paid Search,6915.34,10
+2402,Social,6216.27,11
+2403,Social,1079.39,18
+2404,Organic Search,6358.23,4
+2405,Email,2007.81,16
+2406,Organic Search,5393.98,9
+2407,Paid Search,5916.69,11
+2408,Email,4419.04,8
+2409,Social,4235.62,9
+2410,Organic Search,4310.52,2
+2411,Paid Search,2425.71,1
+2412,Organic Search,8051.46,5
+2413,Social,4908.62,8
+2414,Display,5101.17,7
+2415,Organic Search,1927.76,8
+2416,Organic Search,4807.63,15
+2417,Display,4428.75,8
+2418,Organic Search,4198.84,11
+2419,Paid Search,4516.74,2
+2420,Email,2536.02,4
+2421,Paid Search,7969.6,19
+2422,Display,2032.9,10
+2423,Paid Search,5439.12,5
+2424,Paid Search,3292.22,12
+2425,Social,7218.02,9
+2426,Display,6942.79,15
+2427,Email,7013.33,7
+2428,Email,8864.81,17
+2429,Organic Search,7829.61,12
+2430,Display,3363.42,7
+2431,Affiliate,3996.73,17
+2432,Display,8687.14,14
+2433,Email,8254.88,12
+2434,Organic Search,9220.35,7
+2435,Paid Search,8402.48,8
+2436,Email,1380.41,9
+2437,Affiliate,3369.47,18
+2438,Display,2996.23,4
+2439,Email,3851.93,14
+2440,Social,2994.16,11
+2441,Social,7870.01,12
+2442,Email,7037.97,7
+2443,Social,2068.4,9
+2444,Affiliate,1880.3,7
+2445,Social,2258.11,15
+2446,Email,3209.24,2
+2447,Paid Search,6858.45,10
+2448,Social,3752.11,2
+2449,Display,4299.72,11
+2450,Display,516.35,9
+2451,Affiliate,4853.2,6
+2452,Display,4471.71,14
+2453,Email,6867.64,16
+2454,Paid Search,2096.23,19
+2455,Display,7253.93,6
+2456,Organic Search,7206.13,13
+2457,Social,6261.8,10
+2458,Affiliate,3644.9,3
+2459,Email,681.01,1
+2460,Social,2443.46,3
+2461,Paid Search,9308.52,19
+2462,Affiliate,8804.44,2
+2463,Paid Search,2052.16,15
+2464,Display,3280.81,13
+2465,Affiliate,197.87,13
+2466,Organic Search,3173.93,15
+2467,Organic Search,8025.86,12
+2468,Display,5754.65,2
+2469,Email,8702.03,1
+2470,Social,9618.75,2
+2471,Display,2289.96,12
+2472,Affiliate,5591.73,14
+2473,Email,7576.01,15
+2474,Paid Search,6254.35,6
+2475,Paid Search,2676.58,10
+2476,Affiliate,9773.89,8
+2477,Paid Search,6776.25,14
+2478,Email,200.54,5
+2479,Email,5210.73,18
+2480,Social,1742.71,13
+2481,Affiliate,7258.92,11
+2482,Affiliate,744.23,14
+2483,Paid Search,3472.55,3
+2484,Display,3203.66,1
+2485,Affiliate,8925.63,9
+2486,Email,8748.71,18
+2487,Affiliate,8251.06,8
+2488,Organic Search,7488.04,9
+2489,Social,9549.43,19
+2490,Paid Search,1992.64,8
+2491,Display,8217.48,4
+2492,Social,6767.15,18
+2493,Paid Search,7044.08,6
+2494,Affiliate,4325.96,5
+2495,Display,6557.02,17
+2496,Email,2450.37,1
+2497,Affiliate,5349.17,16
+2498,Organic Search,9709.87,17
+2499,Paid Search,6879.0,14
+2500,Social,6786.96,8
+2501,Affiliate,2429.71,1
+2502,Social,8424.06,5
+2503,Display,9241.41,7
+2504,Social,1172.65,1
+2505,Affiliate,4579.14,8
+2506,Social,6691.91,4
+2507,Email,8846.77,14
+2508,Paid Search,5415.33,11
+2509,Email,4258.77,13
+2510,Social,488.56,18
+2511,Organic Search,5558.99,4
+2512,Paid Search,3360.17,19
+2513,Organic Search,9932.0,18
+2514,Social,6021.22,13
+2515,Affiliate,2224.48,4
+2516,Affiliate,9926.86,14
+2517,Paid Search,5951.23,4
+2518,Organic Search,7715.88,15
+2519,Organic Search,9693.17,12
+2520,Display,7529.95,7
+2521,Paid Search,9439.41,1
+2522,Affiliate,3684.13,17
+2523,Affiliate,610.31,14
+2524,Organic Search,9643.17,3
+2525,Paid Search,5522.56,6
+2526,Display,7736.0,6
+2527,Paid Search,5558.94,6
+2528,Organic Search,7634.35,14
+2529,Organic Search,690.43,13
+2530,Display,761.55,1
+2531,Email,9206.05,8
+2532,Affiliate,4414.08,6
+2533,Social,3078.68,13
+2534,Social,9156.88,6
+2535,Organic Search,9988.48,7
+2536,Paid Search,6180.74,11
+2537,Email,5643.51,18
+2538,Display,9183.39,3
+2539,Social,1865.73,18
+2540,Email,6366.17,17
+2541,Display,8082.26,5
+2542,Organic Search,7420.69,13
+2543,Display,7508.91,1
+2544,Email,8069.46,1
+2545,Display,2202.4,6
+2546,Paid Search,5598.71,13
+2547,Email,1187.2,3
+2548,Social,998.58,17
+2549,Social,8196.1,14
+2550,Organic Search,8138.14,19
+2551,Email,1905.61,9
+2552,Paid Search,5699.08,14
+2553,Social,485.97,8
+2554,Paid Search,3770.82,1
+2555,Email,1557.62,17
+2556,Email,3787.08,7
+2557,Affiliate,5841.61,17
+2558,Paid Search,8066.3,13
+2559,Social,5181.33,19
+2560,Organic Search,9321.76,13
+2561,Affiliate,1100.87,15
+2562,Affiliate,5434.71,16
+2563,Social,9080.52,13
+2564,Display,2420.06,4
+2565,Affiliate,7731.9,16
+2566,Display,2626.16,14
+2567,Email,9779.14,18
+2568,Organic Search,7593.76,8
+2569,Display,6567.58,5
+2570,Paid Search,8743.45,2
+2571,Social,5918.08,9
+2572,Organic Search,2993.28,11
+2573,Organic Search,3248.61,18
+2574,Affiliate,5929.0,8
+2575,Organic Search,5327.84,15
+2576,Email,9089.28,3
+2577,Email,5465.04,12
+2578,Paid Search,5156.48,3
+2579,Paid Search,4538.95,5
+2580,Email,1373.99,19
+2581,Display,1293.82,7
+2582,Social,6712.27,11
+2583,Social,4641.96,8
+2584,Organic Search,5507.68,11
+2585,Paid Search,9278.09,17
+2586,Display,7851.39,19
+2587,Social,3857.43,17
+2588,Organic Search,7801.58,6
+2589,Organic Search,9739.6,7
+2590,Paid Search,1717.64,1
+2591,Social,8978.39,2
+2592,Social,3607.15,16
+2593,Display,7384.6,10
+2594,Affiliate,6826.61,3
+2595,Paid Search,7100.36,17
+2596,Affiliate,8929.99,7
+2597,Paid Search,6341.74,16
+2598,Email,1987.95,19
+2599,Social,6722.37,17
+2600,Email,3451.47,12
+2601,Display,9548.13,8
+2602,Organic Search,3201.44,15
+2603,Paid Search,2486.73,11
+2604,Social,254.16,3
+2605,Email,8634.52,6
+2606,Organic Search,9169.04,18
+2607,Display,769.62,7
+2608,Social,4204.76,7
+2609,Social,4244.05,3
+2610,Paid Search,8022.74,17
+2611,Paid Search,3502.62,14
+2612,Email,3499.55,8
+2613,Email,3384.06,10
+2614,Display,4349.16,3
+2615,Organic Search,6462.36,2
+2616,Display,9688.72,6
+2617,Social,5329.0,19
+2618,Email,3955.91,3
+2619,Affiliate,274.1,6
+2620,Display,1686.1,14
+2621,Display,9485.99,19
+2622,Paid Search,2671.36,19
+2623,Display,2097.36,16
+2624,Organic Search,1804.97,1
+2625,Display,5922.14,11
+2626,Organic Search,4010.01,10
+2627,Organic Search,5880.88,17
+2628,Affiliate,9742.73,10
+2629,Social,838.31,6
+2630,Display,1433.72,10
+2631,Email,5778.63,14
+2632,Social,1723.19,7
+2633,Paid Search,6667.52,11
+2634,Display,8160.51,11
+2635,Social,7304.68,11
+2636,Paid Search,3241.97,6
+2637,Affiliate,8397.95,8
+2638,Social,5152.1,14
+2639,Social,7852.72,18
+2640,Social,9622.6,3
+2641,Affiliate,4705.37,9
+2642,Organic Search,4704.1,4
+2643,Display,2567.1,18
+2644,Paid Search,1317.26,14
+2645,Affiliate,7377.21,5
+2646,Display,7507.3,13
+2647,Affiliate,4993.62,9
+2648,Social,7592.16,15
+2649,Organic Search,2512.49,10
+2650,Email,134.34,18
+2651,Social,423.2,11
+2652,Email,5628.13,4
+2653,Organic Search,605.7,12
+2654,Organic Search,8311.74,4
+2655,Email,7165.83,13
+2656,Organic Search,8768.56,9
+2657,Email,6917.93,12
+2658,Organic Search,713.06,7
+2659,Email,3267.93,16
+2660,Email,3633.75,8
+2661,Affiliate,5846.2,15
+2662,Display,9631.62,17
+2663,Organic Search,7721.78,19
+2664,Display,2596.06,9
+2665,Display,1065.11,2
+2666,Email,8980.96,6
+2667,Social,5829.59,8
+2668,Affiliate,1538.06,3
+2669,Affiliate,8380.44,2
+2670,Email,6361.53,18
+2671,Organic Search,8907.19,14
+2672,Email,7637.33,6
+2673,Paid Search,5259.01,12
+2674,Organic Search,5681.65,8
+2675,Social,5280.59,14
+2676,Paid Search,641.19,9
+2677,Email,9353.62,6
+2678,Email,9877.47,12
+2679,Social,3113.56,16
+2680,Email,8212.3,6
+2681,Social,9975.72,14
+2682,Paid Search,292.17,13
+2683,Social,3290.94,8
+2684,Social,5742.63,4
+2685,Organic Search,4004.73,8
+2686,Affiliate,9681.41,18
+2687,Display,1998.82,19
+2688,Organic Search,3990.94,11
+2689,Display,7356.73,19
+2690,Paid Search,7990.03,6
+2691,Paid Search,1099.9,19
+2692,Email,2285.77,8
+2693,Affiliate,1407.83,18
+2694,Organic Search,5050.21,5
+2695,Email,5371.99,15
+2696,Email,7398.57,17
+2697,Display,8748.51,11
+2698,Organic Search,1460.87,6
+2699,Organic Search,5348.42,3
+2700,Email,4857.85,3
+2701,Email,8965.53,9
+2702,Email,5327.04,15
+2703,Display,2381.4,12
+2704,Affiliate,9267.77,9
+2705,Display,9316.86,15
+2706,Social,1344.72,8
+2707,Paid Search,8544.23,7
+2708,Organic Search,8387.04,17
+2709,Organic Search,5935.54,4
+2710,Paid Search,4781.47,10
+2711,Affiliate,1929.47,3
+2712,Email,2180.47,6
+2713,Affiliate,2703.45,15
+2714,Affiliate,898.66,18
+2715,Organic Search,7148.3,11
+2716,Organic Search,592.12,10
+2717,Email,1050.56,7
+2718,Organic Search,1735.1,4
+2719,Affiliate,6920.35,14
+2720,Display,1248.3,12
+2721,Paid Search,1857.64,17
+2722,Display,9374.68,6
+2723,Display,2910.35,16
+2724,Organic Search,6971.05,19
+2725,Display,9335.68,4
+2726,Social,510.59,5
+2727,Display,4718.74,13
+2728,Organic Search,5398.07,13
+2729,Email,7631.56,14
+2730,Email,9644.87,1
+2731,Affiliate,504.24,14
+2732,Organic Search,3865.64,4
+2733,Display,4365.89,1
+2734,Paid Search,9670.2,8
+2735,Display,7625.26,13
+2736,Display,9359.51,9
+2737,Paid Search,1440.6,4
+2738,Display,344.69,14
+2739,Display,9713.24,1
+2740,Social,3376.23,5
+2741,Social,6604.57,10
+2742,Affiliate,1655.4,9
+2743,Organic Search,5578.36,8
+2744,Display,9416.99,13
+2745,Affiliate,7057.04,13
+2746,Email,4572.19,16
+2747,Email,9230.98,2
+2748,Organic Search,1346.96,2
+2749,Social,4746.05,5
+2750,Organic Search,5771.04,5
+2751,Organic Search,235.16,12
+2752,Email,278.37,5
+2753,Social,6220.37,10
+2754,Social,6579.23,14
+2755,Display,9819.36,1
+2756,Organic Search,3173.47,11
+2757,Affiliate,3493.95,5
+2758,Display,5985.28,4
+2759,Paid Search,7445.74,11
+2760,Email,5248.43,7
+2761,Paid Search,6216.36,13
+2762,Paid Search,2142.28,14
+2763,Paid Search,7188.49,1
+2764,Affiliate,4086.85,17
+2765,Social,5815.93,15
+2766,Display,6625.92,7
+2767,Display,172.74,6
+2768,Organic Search,5805.11,17
+2769,Organic Search,9431.84,17
+2770,Organic Search,1082.57,3
+2771,Paid Search,1175.37,1
+2772,Affiliate,2073.89,3
+2773,Email,1088.7,4
+2774,Affiliate,8550.78,14
+2775,Email,8824.25,3
+2776,Email,4791.53,5
+2777,Display,7933.17,5
+2778,Social,3103.99,17
+2779,Affiliate,5088.7,5
+2780,Email,5424.21,3
+2781,Affiliate,3132.42,3
+2782,Email,5914.37,9
+2783,Social,8446.82,9
+2784,Organic Search,9456.65,11
+2785,Display,3116.96,9
+2786,Affiliate,9257.85,19
+2787,Display,6309.79,7
+2788,Social,6043.09,14
+2789,Paid Search,1316.38,17
+2790,Display,7133.58,7
+2791,Paid Search,3139.45,12
+2792,Organic Search,4321.59,9
+2793,Affiliate,1501.18,17
+2794,Display,2382.3,13
+2795,Display,6256.73,3
+2796,Organic Search,6180.18,16
+2797,Email,4638.18,1
+2798,Email,6343.04,5
+2799,Affiliate,8684.89,7
+2800,Organic Search,418.19,3
+2801,Social,2136.85,15
+2802,Paid Search,3031.97,5
+2803,Social,5814.03,16
+2804,Social,6692.51,16
+2805,Affiliate,5578.08,5
+2806,Display,7007.44,8
+2807,Paid Search,4519.86,16
+2808,Social,7989.0,17
+2809,Email,815.88,4
+2810,Social,6236.56,9
+2811,Email,528.22,13
+2812,Email,2386.59,4
+2813,Paid Search,711.4,19
+2814,Display,5982.76,15
+2815,Email,2183.33,18
+2816,Affiliate,1010.78,11
+2817,Affiliate,7756.27,2
+2818,Organic Search,105.6,13
+2819,Display,5535.89,11
+2820,Organic Search,9202.34,15
+2821,Affiliate,7901.02,12
+2822,Email,6077.88,14
+2823,Email,1121.25,10
+2824,Paid Search,7922.88,3
+2825,Organic Search,3420.06,7
+2826,Social,1618.9,18
+2827,Social,9885.6,15
+2828,Display,1001.99,3
+2829,Display,7210.89,19
+2830,Affiliate,3594.49,6
+2831,Email,8429.32,11
+2832,Organic Search,5518.18,6
+2833,Paid Search,8915.81,10
+2834,Paid Search,5588.26,15
+2835,Display,3303.51,4
+2836,Social,9609.17,4
+2837,Email,4613.89,9
+2838,Email,8517.75,15
+2839,Affiliate,8415.98,5
+2840,Social,5669.64,9
+2841,Organic Search,5059.17,10
+2842,Social,3023.65,2
+2843,Display,5652.66,6
+2844,Affiliate,5788.93,10
+2845,Social,2478.8,15
+2846,Email,8067.0,17
+2847,Paid Search,3441.15,16
+2848,Organic Search,7565.2,17
+2849,Display,9881.12,18
+2850,Paid Search,9955.07,2
+2851,Social,8646.81,14
+2852,Paid Search,8583.97,4
+2853,Organic Search,8079.1,16
+2854,Organic Search,7002.91,6
+2855,Affiliate,1921.42,17
+2856,Organic Search,1168.89,6
+2857,Affiliate,5763.81,15
+2858,Affiliate,6798.35,1
+2859,Email,4065.69,2
+2860,Organic Search,9492.44,9
+2861,Display,2585.78,4
+2862,Social,2591.06,15
+2863,Display,8701.71,1
+2864,Social,5138.1,15
+2865,Email,456.19,8
+2866,Email,2039.57,15
+2867,Display,5694.36,15
+2868,Organic Search,3327.03,6
+2869,Email,4945.02,16
+2870,Social,7960.21,19
+2871,Affiliate,5000.85,1
+2872,Social,4705.17,16
+2873,Affiliate,1842.57,4
+2874,Display,1548.3,9
+2875,Display,4373.44,17
+2876,Organic Search,2175.06,6
+2877,Organic Search,4064.3,12
+2878,Display,5698.94,8
+2879,Paid Search,1214.0,10
+2880,Paid Search,2044.94,9
+2881,Social,8585.73,8
+2882,Organic Search,6371.27,17
+2883,Paid Search,7473.71,18
+2884,Organic Search,4937.43,8
+2885,Social,6919.99,17
+2886,Email,4389.71,10
+2887,Display,1382.63,16
+2888,Organic Search,4429.15,7
+2889,Social,6298.36,14
+2890,Paid Search,2603.78,1
+2891,Social,7068.05,7
+2892,Organic Search,1422.06,4
+2893,Social,2393.99,2
+2894,Display,7281.28,4
+2895,Affiliate,2424.6,4
+2896,Social,6327.47,9
+2897,Affiliate,7088.15,7
+2898,Affiliate,2202.24,5
+2899,Social,5101.04,12
+2900,Display,9426.68,14
+2901,Affiliate,5958.88,17
+2902,Social,467.36,4
+2903,Organic Search,2033.71,4
+2904,Affiliate,8220.35,6
+2905,Paid Search,4830.57,5
+2906,Paid Search,792.14,4
+2907,Paid Search,3652.99,16
+2908,Display,7171.53,9
+2909,Display,7466.23,11
+2910,Affiliate,5918.76,12
+2911,Affiliate,7540.89,10
+2912,Affiliate,4299.44,17
+2913,Affiliate,4816.93,4
+2914,Display,4357.91,17
+2915,Organic Search,2996.88,1
+2916,Affiliate,6536.74,9
+2917,Email,6661.71,17
+2918,Affiliate,8656.13,12
+2919,Organic Search,3257.43,3
+2920,Affiliate,6454.78,19
+2921,Paid Search,3492.56,1
+2922,Paid Search,9060.02,15
+2923,Email,3310.91,12
+2924,Affiliate,7902.95,12
+2925,Affiliate,8349.41,12
+2926,Display,3658.05,13
+2927,Paid Search,2204.25,3
+2928,Affiliate,829.78,15
+2929,Organic Search,9115.51,6
+2930,Social,6574.39,3
+2931,Email,8216.57,8
+2932,Social,6222.4,18
+2933,Email,1680.64,9
+2934,Email,3105.4,5
+2935,Organic Search,3441.34,18
+2936,Paid Search,4362.08,18
+2937,Display,617.84,19
+2938,Paid Search,6734.19,16
+2939,Social,2778.84,8
+2940,Paid Search,4852.86,7
+2941,Social,690.71,11
+2942,Affiliate,7001.01,8
+2943,Affiliate,5523.65,5
+2944,Display,9060.68,15
+2945,Display,2052.76,13
+2946,Affiliate,9581.28,10
+2947,Email,9067.86,19
+2948,Paid Search,3027.7,1
+2949,Organic Search,8990.3,8
+2950,Affiliate,2990.51,17
+2951,Organic Search,3426.49,5
+2952,Display,9099.23,12
+2953,Display,7897.34,9
+2954,Social,4467.64,8
+2955,Paid Search,1225.49,5
+2956,Affiliate,4686.25,18
+2957,Social,8457.96,19
+2958,Email,5960.09,14
+2959,Affiliate,580.01,6
+2960,Paid Search,4143.77,9
+2961,Affiliate,7028.92,7
+2962,Display,8825.38,7
+2963,Display,9771.91,14
+2964,Paid Search,8383.74,18
+2965,Email,8729.22,2
+2966,Social,2228.89,3
+2967,Email,8613.48,9
+2968,Affiliate,9271.0,19
+2969,Organic Search,6378.56,4
+2970,Paid Search,4925.86,2
+2971,Display,8132.62,12
+2972,Organic Search,6209.33,2
+2973,Email,8293.71,8
+2974,Email,4569.05,15
+2975,Display,1865.29,1
+2976,Organic Search,9184.23,4
+2977,Affiliate,9686.81,16
+2978,Email,9730.21,6
+2979,Social,9560.71,12
+2980,Social,4987.22,9
+2981,Social,6326.53,15
+2982,Organic Search,8818.99,2
+2983,Display,330.6,10
+2984,Paid Search,1707.01,10
+2985,Social,1733.42,17
+2986,Affiliate,2283.72,14
+2987,Display,4114.35,19
+2988,Email,4686.88,15
+2989,Paid Search,3971.23,15
+2990,Email,8800.22,15
+2991,Affiliate,2656.01,8
+2992,Organic Search,7414.26,14
+2993,Affiliate,9752.64,1
+2994,Organic Search,6594.24,1
+2995,Organic Search,542.93,17
+2996,Display,1227.29,5
+2997,Email,8403.88,13
+2998,Organic Search,3671.77,14
+2999,Organic Search,4100.12,16
+3000,Organic Search,8860.46,15
