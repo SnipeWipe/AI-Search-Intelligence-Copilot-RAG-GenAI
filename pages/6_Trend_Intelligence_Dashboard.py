@@ -9,10 +9,12 @@ df = pd.read_csv("datasets/search_queries.csv")
 
 st.title("Trend Intelligence Dashboard")
 
-growth = (
-    GrowthScorer()
-    .calculate_growth(df)
-)
+if "growth" not in st.session_state:
+    st.session_state["growth"] = (
+        GrowthScorer()
+        .calculate_growth(df)
+    )
+growth = st.session_state["growth"]
 
 st.subheader(
     "Top Growing Queries"
