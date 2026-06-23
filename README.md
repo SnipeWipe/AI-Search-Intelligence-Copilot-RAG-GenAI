@@ -1,6 +1,6 @@
 # AI Search Intelligence Copilot (RAG + GenAI)
 
-## App Link - https://l1nq.com/zhq7wk8
+## App Link - 
 
 ## Overview
 
