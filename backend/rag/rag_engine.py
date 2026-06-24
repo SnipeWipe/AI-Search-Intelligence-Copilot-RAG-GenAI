@@ -27,10 +27,7 @@ class RAGEngine:
             )
         )
 
-    def answer(
-            self,
-            query
-    ):
+    def answer(self,query):
 
         # Convert query to embedding
         query_embedding = (
@@ -84,6 +81,8 @@ Provide:
 5. Next Actions
 """
 
-        return self.llm.generate(
-            prompt
-        )
+        response = self.llm.generate(prompt)
+
+        print("LLM RESPONSE:", response)
+        
+        return response
