@@ -8,10 +8,7 @@ os.environ["NUMEXPR_NUM_THREADS"] = "1"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 import streamlit as st
-
-from backend.rag.rag_engine import (
-    RAGEngine
-)
+from backend.rag.rag_engine import (RAGEngine)
 
 st.set_page_config(
     page_title="AI Search Intelligence Copilot",
