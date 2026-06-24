@@ -1,28 +1,40 @@
-# backend/rag/vector_store.py
-
 import chromadb
-
 from chromadb.config import Settings
 
 
 class VectorStore:
+
+    _client = None
+    _collection = None
 
     def __init__(
             self,
             persist_directory="chroma_db"
     ):
 
-        self.client = chromadb.PersistentClient(
-            path=persist_directory,
-            settings=Settings(
-                anonymized_telemetry=False
+        if VectorStore._client is None:
+
+            VectorStore._client = (
+                chromadb.PersistentClient(
+                    path=persist_directory,
+                    settings=Settings(
+                        anonymized_telemetry=False
+                    )
+                )
             )
-        )
+
+        self.client = VectorStore._client
+
+        if VectorStore._collection is None:
+
+            VectorStore._collection = (
+                self.client.get_or_create_collection(
+                    name="documents"
+                )
+            )
 
         self.collection = (
-            self.client.get_or_create_collection(
-                name="documents"
-            )
+            VectorStore._collection
         )
 
     def add_documents(
@@ -48,17 +60,9 @@ class VectorStore:
             n_results=5
     ):
 
-        results = self.collection.query(
-            query_embeddings=[
-                query_embedding
-            ],
+        return self.collection.query(
+            query_embeddings=[query_embedding],
             n_results=n_results
-        )
-
-        return (
-            results["documents"][0]
-            if results["documents"]
-            else []
         )
 
     def count_documents(self):
