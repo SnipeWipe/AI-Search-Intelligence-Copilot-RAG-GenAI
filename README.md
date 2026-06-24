@@ -1,6 +1,6 @@
 # AI Search Intelligence Copilot (RAG + GenAI)
 
-## App Link - 
+## App Link - [Link](https://ai-search-intelligence-copilot-rag-genai-aeg9rj8sscm4smszpu9zz.streamlit.app)
 
 ## Overview
 
