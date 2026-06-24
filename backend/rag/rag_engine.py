@@ -27,27 +27,32 @@ class RAGEngine:
             )
         )
 
-    def answer(self,query):
+    def answer(self, query):
 
-        # Convert query to embedding
-        query_embedding = (
-            self.embedder.encode(
-                query
-            )
+    query_embedding = (
+        self.embedder.encode(query)
+    )
+
+    results = (
+        self.vector_store.search(
+            query_embedding
+        )
+    )
+
+    if len(results["documents"][0]) == 0:
+
+        return (
+            "No relevant documents found "
+            "in the knowledge base."
         )
 
-        results = self.vector_store.search(query_embedding)
+    docs = (
+        results["documents"][0]
+    )
 
-        # ChromaDB returns a dictionary
-        if len(results["documents"][0]) == 0:
-            return ("No relevant documents found "
-                    "in the knowledge base.")
+    context = "\n".join(docs)
 
-        docs = results["documents"][0]
-        
-        context = "\n".join(docs)
-
-        prompt = f"""
+    prompt = f"""
 You are an Executive Search Intelligence Copilot.
 
 Use the following enterprise knowledge to answer.
@@ -74,8 +79,8 @@ Provide:
 5. Next Actions
 """
 
-        response = self.llm.generate(prompt)
+    response = (
+        self.llm.generate(prompt)
+    )
 
-        print("LLM RESPONSE:", response)
-        
-        return response
+    return response
