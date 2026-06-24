@@ -20,7 +20,11 @@ st.title(
     "AI Search Intelligence Copilot"
 )
 
-rag = RAGEngine()
+try:
+    rag = RAGEngine()
+    st.success("RAG Engine initialized")
+except Exception as e:
+    st.error(f"Initialization Error: {e}")
 
 question = st.chat_input(
     "Ask anything..."
