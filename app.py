@@ -20,22 +20,34 @@ st.title(
     "AI Search Intelligence Copilot"
 )
 
+rag = None
+
 try:
     rag = RAGEngine()
     st.success("RAG Engine initialized")
 except Exception as e:
-    st.error(f"Initialization Error: {e}")
+    st.exception(e)
+
+if question and rag:
+    try:
+        with st.spinner("Analyzing..."):
+            answer = rag.answer(question)
+        st.write("DEBUG:", answer)
+        st.markdown(answer)
+
+    except Exception as e:
+        st.exception(e)
 
 question = st.chat_input(
     "Ask anything..."
 )
 
 if question:
+    try:
+        with st.spinner("Analyzing..."):
+            answer = rag.answer(question)
+            st.write("DEBUG:", answer)
+        st.markdown(answer)
 
-    with st.spinner("Analyzing..."):
-
-        answer = rag.answer(question)
-
-        st.write("DEBUG:", answer)
-
-    st.markdown(answer)
+    except Exception as e:
+        st.exception(e)
