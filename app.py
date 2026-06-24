@@ -8,34 +8,69 @@ os.environ["NUMEXPR_NUM_THREADS"] = "1"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 import streamlit as st
-from backend.rag.rag_engine import RAGEngine
+
+from backend.rag.rag_engine import (
+    RAGEngine
+)
 
 st.set_page_config(
     page_title="AI Search Intelligence Copilot",
     layout="wide"
 )
 
-st.title("AI Search Intelligence Copilot")
+st.title(
+    "AI Search Intelligence Copilot"
+)
 
-rag = None
+
+@st.cache_resource
+def load_rag():
+
+    return RAGEngine()
+
 
 try:
-    rag = RAGEngine()
-    st.success("RAG Engine initialized")
+
+    rag = load_rag()
+
+    st.success(
+        "RAG Engine initialized successfully"
+    )
+
 except Exception as e:
+
+    st.error(
+        "Failed to initialize RAG Engine"
+    )
+
     st.exception(e)
 
-# Make sure this is NOT inside try/except
-question = st.chat_input("Ask anything...")
+    st.stop()
 
-if question and rag:
 
-    try:
-        with st.spinner("Analyzing..."):
-            answer = rag.answer(question)
+question = st.chat_input(
+    "Ask anything..."
+)
 
-        st.write("DEBUG:", answer)
-        st.markdown(answer)
+if question:
 
-    except Exception as e:
-        st.exception(e)
+    with st.chat_message("user"):
+        st.write(question)
+
+    with st.chat_message("assistant"):
+
+        try:
+
+            with st.spinner(
+                "Analyzing..."
+            ):
+
+                answer = (
+                    rag.answer(question)
+                )
+
+            st.markdown(answer)
+
+        except Exception as e:
+
+            st.exception(e)
