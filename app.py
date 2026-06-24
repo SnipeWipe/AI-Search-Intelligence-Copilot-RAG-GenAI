@@ -32,14 +32,10 @@ question = st.chat_input(
 
 if question:
 
-    with st.spinner(
-        "Analyzing..."
-    ):
+    with st.spinner("Analyzing..."):
 
-        answer = rag.answer(
-            question
-        )
+        answer = rag.answer(question)
 
-    st.markdown(
-        answer
-    )
+        st.write("DEBUG:", answer)
+
+    st.markdown(answer)
