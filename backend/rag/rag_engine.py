@@ -36,16 +36,16 @@ class RAGEngine:
             )
         )
 
-        results = self.vector_store.retrieve(query_embedding)
+        results = self.vector_store.search(query_embedding)
 
         # ChromaDB returns a dictionary
-        docs = (
-            results["documents"][0]
-        )
+        if len(results["documents"][0]) == 0:
+            return ("No relevant documents found "
+                    "in the knowledge base.")
 
-        context = "\n".join(
-            docs
-        )
+        docs = results["documents"][0]
+        
+        context = "\n".join(docs)
 
         prompt = f"""
 You are an Executive Search Intelligence Copilot.
@@ -77,8 +77,5 @@ Provide:
         response = self.llm.generate(prompt)
 
         print("LLM RESPONSE:", response)
-
-        if len(results["documents"][0]) == 0:
-            return "No relevant documents found in the knowledge base."
         
         return response
