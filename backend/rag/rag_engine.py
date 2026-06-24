@@ -36,14 +36,7 @@ class RAGEngine:
             )
         )
 
-        results = (
-
-            self.vector_store
-
-            .retrieve(
-                query_embedding
-            )
-        )
+        results = self.vector_store.retrieve(query_embedding)
 
         # ChromaDB returns a dictionary
         docs = (
