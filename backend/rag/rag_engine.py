@@ -84,5 +84,8 @@ Provide:
         response = self.llm.generate(prompt)
 
         print("LLM RESPONSE:", response)
+
+        if len(results["documents"][0]) == 0:
+            return "No relevant documents found in the knowledge base."
         
         return response
